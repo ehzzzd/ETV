@@ -250,7 +250,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2220
 #EXTINF:0 tvg-name="FS2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/446.png" tvg-ID="59305",FS2HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2060
 #EXTINF:0 tvg-name="NBCSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/321.png" tvg-ID="48639",NBCSNHD
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2026
+https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 #EXTINF:0 tvg-name="CBSSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/285.png" tvg-ID="59250",CBSSNHD
 http://randomserver.site:2086/live/Bria/Bria/220.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-name="CBSHQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-ID="5e9f2c05172a0f0007db4786",CBSHQ
