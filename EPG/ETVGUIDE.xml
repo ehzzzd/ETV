@@ -121,6 +121,11 @@
 <title lang="en">EH Radio</title>
 <desc lang="en">WAEH-FM Programming.</desc>
 </programme>
+  
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVOD">
+<title lang="en">ETV On Demand</title>
+<desc lang="en">Check out and see what's new on demand!</desc>
+</programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
 <title lang="en">OnDIRECTV</title>
@@ -143,12 +148,24 @@
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVSMX">
 <title lang="en">ETV SportsMix</title>
-<desc lang="en"> </desc>
+</programme>
+  
+<programme start="20210530213052 +0000" stop="20220129223052 +0000" channel="ETVPPV1">
+<title lang="en">Get prepared for the WWE Royal Rumble 2022</title>
+<desc lang="en">The 2022 Royal Rumble is the upcoming 35th annual Royal Rumble professional wrestling live event produced by WWE. Saturday, January 29 at 8PM ET/9PM AST/ 5PM PT.</desc>
+<category lang="en">Sports/Wrestling</category>
 </programme>
 
-<programme start="20210530213052 +0100" stop="20230804223052 +0100" channel="ETVPPV1">
-<title lang="en">AEW Double or Nothing 2021</title>
-<desc lang="en">BELL TIME: May 30 2021, 8:00 PM. LIVE from Daily's Place, Jacksonville, FL, United States</desc>
+<programme start="20220129213052 +0000" stop="20220130223052 +0000" channel="ETVPPV1">
+<title lang="en">WWE Royal Rumble 2021</title>
+<desc lang="en">Premium Live Event. Brock Lesnar(c) vs Bobby Lashley - WWE Championship, Roman Reigns(c) vs Seth “Freakin” Rollins - WWE Universal Championship, Becky Lynch(c) vs Doudrop - WWE RAW Women’s Championship, Edge & Beth Pheonix vs The Miz & Maryse, 30 Men Royal Rumble Match and 30 Women Royal Rumble Match.</desc>
+<category lang="en">Sports/Wrestling</category>
+</programme>
+  
+<programme start="20220130223052 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
+<title lang="en">No PPV's airing or available at this time</title>
+<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+<category lang="en">Sports/Wrestling</category>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP1">
