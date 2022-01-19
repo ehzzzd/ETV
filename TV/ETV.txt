@@ -249,7 +249,7 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2220
 #EXTINF:0 tvg-name="FS2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/446.png" tvg-ID="59305",FS2HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2060
-#EXTINF:0 tvg-name="NBCSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/321.png" tvg-ID="48639",NBCSNHD
+#EXTINF:0 tvg-name="NBCSNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/258px-NBC_Sports_Network_logo.svg.png" tvg-ID="NBCSN",NBCSNHD
 https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 #EXTINF:0 tvg-name="CBSSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/285.png" tvg-ID="59250",CBSSNHD
 http://randomserver.site:2086/live/Bria/Bria/220.m3u8?checkedby:hlscat.com
@@ -595,7 +595,7 @@ http://1581.f5.si:8000/mezawcm/JVQHF2Y74U/135862
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/201
 #EXTINF:0 tvg-name="ATRESSE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png" tvg-ID="Atreseries.TV",ATRESSE
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="ODTV" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/footer/on-directv/hero/Logo_OnDirectv_desk.png" tvg-ID="",ODTV
+#EXTINF:0 tvg-name="ODTV" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/footer/on-directv/hero/Logo_OnDirectv_desk.png" tvg-ID="ODTV",ODTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/46331
 #EXTINF:0 tvg-name="WBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/263px-Warner2018LA.png" tvg-ID="WarnerChannelPanregional.us",WBTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/764
