@@ -600,9 +600,9 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/46331
 #EXTINF:0 tvg-name="WBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/263px-Warner2018LA.png" tvg-ID="WarnerChannelPanregional.us",WBTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/764
 #EXTINF:0 tvg-name=“STAR” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590935/d8bc018ef45cafd4aaf40c53971f83bb/284x160-Q75_d8bc018ef45cafd4aaf40c53971f83bb.png" tvg-ID="StarChannelChile.us",STAR
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/7973
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/792
 #EXTINF:0 tvg-name=“STRL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590928/97b80d15e66a32091a1f9478201e4513/284x160-Q75_97b80d15e66a32091a1f9478201e4513.png" tvg-ID=“StarLifeLatin.us”,STRL
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/133788
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/793
 #EXTINF:0 tvg-name=“TLCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/740.png” tvg-ID="TLCLatinoamerica.us",TLCLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/961
 #EXTINF:0 tvg-name=“H&HLA” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" tvg-ID="DiscoveryHomeHealthLatinoamerica.us",H&HLA
