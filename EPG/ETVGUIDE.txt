@@ -4,6 +4,9 @@
 <channel id="WAEH">
 <display-name>WAEH</display-name>
 </channel>
+<channel id="ODTV">
+<display-name>OnDIRECTV</display-name>
+</channel>
 <channel id="INFOSTAR">
 <display-name>INFO</display-name>
 </channel>
@@ -109,6 +112,9 @@
 <channel id="ETVP30">
 <display-name>ETVP30</display-name>
 </channel>
+<channel id="NBCSN">
+<display-name>NBCSN</display-name>
+</channel>
 
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WAEH">
@@ -116,24 +122,24 @@
 <desc lang="en">WAEH-FM Programming.</desc>
 </programme>
 
-
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WLII">
-<title lang="en">TeleOnce</title>
-<desc lang="en">TeleOnce Programming.</desc>
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
+<title lang="en">OnDIRECTV</title>
 </programme>
-
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="AEWSP">
 <title lang="en">All Elite Wrestling en Español</title>
 <desc lang="en">Shows y Pay-Per-Views pasados de All Elite Wrestling en tu idioma.</desc>
 </programme>
 
-
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVOD">
-<title lang="en">ETV Premiere OnDemand</title>
-<desc lang="en">See what’s new on ETV OnDemand.</desc>
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="NBCSN">
+<title lang="en">Channel No Longer Broadcasting</title>
+<desc lang="en">Channel No Longer Broadcasting</desc>
 </programme>
 
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP1">
+<title lang="en">BLACKPINK: Light Up the Sky</title>
+<desc lang="en">Record-shattering Korean girl band BLACKPINK tell their story — and detail the hard-fought journey of the dreams and trials behind their meteoric rise.</desc>
+</programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVSMX">
 <title lang="en">ETV SportsMix</title>
