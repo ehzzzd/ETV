@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://example.org/xmltv.dtd">
+<tv generator-info-name="ETV" generator-info-url="http://192.168.0.11:12345">
+
+<channel id="WAEH">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="INFOSTAR">
+<display-name>INFO</display-name>
+</channel>
+<channel id="ETVOD">
+<display-name>ETVOD</display-name>
+</channel>
+<channel id="ETVSMX">
+<display-name>ETVSMX</display-name>
+</channel>
+<channel id="ETVPPV1">
+<display-name>ETVPPV1</display-name>
+</channel>
+<channel id="ETVPPV2">
+<display-name>ETVPPV2</display-name>
+</channel>
+<channel id="ETVP1">
+<display-name>ETVP1</display-name>
+</channel>
+<channel id="ETVP2">
+<display-name>ETVP2</display-name>
+</channel>
+<channel id="ETVP3">
+<display-name>ETVP3</display-name>
+</channel>
+<channel id="ETVP4">
+<display-name>ETVP4</display-name>
+</channel>
+<channel id="ETVP5">
+<display-name>ETVP5</display-name>
+</channel>
+<channel id="ETVP6">
+<display-name>ETVP6</display-name>
+</channel>
+<channel id="ETVP7">
+<display-name>ETVP7</display-name>
+</channel>
+<channel id="ETVP8">
+<display-name>ETVP8</display-name>
+</channel>
+<channel id="ETVP9">
+<display-name>ETVP9</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP11">
+<display-name>ETVP11</display-name>
+</channel>
+<channel id="ETVP12">
+<display-name>ETVP12</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP20">
+<display-name>ETVP20</display-name>
+</channel>
+<channel id="ETVP30">
+<display-name>ETVP30</display-name>
+</channel>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WAEH">
+<title lang="en">EH Radio</title>
+<desc lang="en">WAEH-FM Programming.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WLII">
+<title lang="en">TeleOnce</title>
+<desc lang="en">TeleOnce Programming.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="AEWSP">
+<title lang="en">All Elite Wrestling en Español</title>
+<desc lang="en">Shows y Pay-Per-Views pasados de All Elite Wrestling en tu idioma.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVOD">
+<title lang="en">ETV Premiere OnDemand</title>
+<desc lang="en">See what’s new on ETV OnDemand.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVSMX">
+<title lang="en">ETV SportsMix</title>
+<desc lang="en"> </desc>
+</programme>
+
+<programme start="20210530213052 +0100" stop="20230804223052 +0100" channel="ETVPPV1">
+<title lang="en">AEW Double or Nothing 2021</title>
+<desc lang="en">BELL TIME: May 30 2021, 8:00 PM. LIVE from Daily's Place, Jacksonville, FL, United States</desc>
+</programme>
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP1">
+<title lang="en">BLACKPINK: Light Up the Sky</title>
+<desc lang="en">Record-shattering Korean girl band BLACKPINK tell their story — and detail the hard-fought journey of the dreams and trials behind their meteoric rise.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP2">
+<title lang="en">Five Feet Apart (2019)</title>
+<desc lang="en">A pair of teenagers with cystic fibrosis meet in a hospital and fall in love, though their disease means they must avoid close physical contact.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP3">
+<title lang="en">Soul (2020)</title>
+<desc lang="en">After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP4">
+<title lang="en">TOMORROW X TOGETHER - 2021 Season's Greetings - Making Film</title>
+<desc lang="en">TOMORROW X TOGETHER 2021 SEASON'S GREETINGS features the members portraying the life as house fairies. This 95-minute film presents the making-of-footage, fairy ability test, the first encounter with fairies, a look into the personality chemistry among the fairies based on MBTI test, and the members talking about their new year’s resolutions.</desc>
+</programme>
+
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP5">
+<title lang="en">2021 TOMORROW X TOGETHER FANLIVE: SHINE X TOGETHER</title>
+<desc lang="en"> </desc>
+</programme>
+
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOSTAR">
+<title lang="en">Noticia Importante sobre los canales STAR Premium</title>
+<desc lang="en"> </desc>
+</programme>
+
+
+
+</tv>
