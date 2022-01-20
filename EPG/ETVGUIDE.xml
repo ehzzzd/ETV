@@ -10,11 +10,17 @@
 <channel id="INFOSTAR">
 <display-name>INFO</display-name>
 </channel>
+<channel id="INFOETV">
+<display-name>INFO</display-name>
+</channel>
 <channel id="ETVOD">
 <display-name>ETVOD</display-name>
 </channel>
 <channel id="ETVSMX">
 <display-name>ETVSMX</display-name>
+</channel>
+<channel id="ETVSE">
+<display-name>ETVSE</display-name>
 </channel>
 <channel id="ETVPPV1">
 <display-name>ETVPPV1</display-name>
@@ -124,7 +130,9 @@
   
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVOD">
 <title lang="en">ETV On Demand</title>
+<title lang="es">ETV On Demand</title>
 <desc lang="en">Check out and see what's new on demand!</desc>
+<desc lang="es">Disfruta del mejor contenido On Demand en ETV!</desc>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
@@ -199,9 +207,22 @@
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOSTAR">
 <title lang="en">Noticia Importante sobre los canales STAR Premium</title>
-<desc lang="en"> </desc>
+<title lang="es">Noticia Importante sobre los canales STAR Premium</title>
+</programme>
+  
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
+<title lang="en">ETV Information Channel</title>
+<title lang="es">Canal Informativo ETV</title>
+<desc lang="en">Information of interest and explanatory videos about everything that ETV offers.</desc>
+<desc lang="es">Información de interés y vídeos explicativos sobre todo lo que ETV ofrece.</desc>
 </programme>
 
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVSE">
+<title lang="en">ETV SERIES</title>
+<title lang="es">ETV SERIES</title>
+<desc lang="en">Series Potal on ETV</desc>
+<desc lang="es">Portal de series en ETV.</desc>
+</programme>
 
 
 </tv>
