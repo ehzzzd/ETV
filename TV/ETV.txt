@@ -126,81 +126,81 @@ http://192.168.0.2:12345/VOD%2FConcerts%2FBTS%2FBTS+Japan+Official+Fanmeeting+Vo
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/sFLQ9ZR/ETVP.png" size="Medium" background="#103a8c", BLACKPINK: Light Up the Sky
 http://192.168.0.2:12345/VOD%2FMovies%2FBLACKPINK%3A+Light+Up+the+Sky+%282020%29.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/sFLQ9ZR/ETVP.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/sFLQ9ZR/ETVP.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 tvg-name="ETVSMX" tvg-logo="Logo N/A" tvg-ID="",ETVSMX
 https://archive.org/download/etvnav-42020/ETVNAV42020.m3u8
 #EXTINF:0 tvg-name="ESPNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179",ESPNHD
