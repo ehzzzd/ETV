@@ -686,7 +686,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1108
 #EXTINF:0 tvg-name="CARA" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/569.png" tvg-ID="39719",CARA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1111
 #EXTINF:0 tvg-name=“TMCR” tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/cropped-512transp-1-192x192.png" tvg-ID="Telemicro5.do" tvg-shift="-5",TMCR
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/623
+https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
 #EXTINF:0 tvg-name="SNCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-ID="SonyChannelAndes.us",SNCH
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/773
 #EXTINF:0 tvg-name="SCCM" tvg-logo="https://i.ibb.co/xmQ9CWK/BE56-C9-AD-6561-4-BCF-A24-F-E5-CACD0-AA85-F.png" tvg-ID="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05",SCCM
