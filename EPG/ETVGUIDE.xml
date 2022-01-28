@@ -158,22 +158,33 @@
 <title lang="en">ETV SportsMix</title>
 </programme>
   
-<programme start="20210530213052 +0000" stop="20220129223052 +0000" channel="ETVPPV1">
+<programme start="20210530213052 +0000" stop="20220130000000 +0000" channel="ETVPPV1">
 <title lang="en">Get prepared for the WWE Royal Rumble 2022</title>
 <desc lang="en">The 2022 Royal Rumble is the upcoming 35th annual Royal Rumble professional wrestling live event produced by WWE. Saturday, January 29 at 8PM ET/9PM AST/ 5PM PT.</desc>
 <category lang="en">Sports/Wrestling</category>
 </programme>
 
-<programme start="20220129213052 +0000" stop="20220130223052 +0000" channel="ETVPPV1">
-<title lang="en">WWE Royal Rumble 2021</title>
-<desc lang="en">Premium Live Event. Brock Lesnar(c) vs Bobby Lashley - WWE Championship, Roman Reigns(c) vs Seth “Freakin” Rollins - WWE Universal Championship, Becky Lynch(c) vs Doudrop - WWE RAW Women’s Championship, Edge & Beth Pheonix vs The Miz & Maryse, 30 Men Royal Rumble Match and 30 Women Royal Rumble Match.</desc>
-<category lang="en">Sports/Wrestling</category>
+<programme start="20220130000000 +0000" stop="20220130010000 +0000" channel="ETVPPV1">
+    <title>WWE Royal Rumble 2022 Kickoff</title>
+    <desc>Royal Rumble 2022 kicks off as an all-star panel of WWE Superstars, Hall of Famers and experts predicts and dissects the action to come, including the Men's and Women's Royal Rumble Matches and WWE Champion Brock Lesnar vs. Bobby Lashley.</desc>
+    <category>Special</category>
+    <category>Pro Wrestling</category>
+    <live />
+</programme>
+ 
+<programme start="20220130010000 +0000" stop="20220130043000 +0000" channel="ETVPPV1">
+    <title>WWE Royal Rumble 2022</title>
+    <desc>From The Dome at America's Center in St. Louis.</desc>
+    <category>Sports</category>
+    <category>Special</category>
+    <category>Pro Wrestling</category>
+    <sport>Special</sport>
+    <live />
 </programme>
   
-<programme start="20220130223052 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
+<programme start="20220130043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
 <title lang="en">No PPV's airing or available at this time</title>
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
-<category lang="en">Sports/Wrestling</category>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP1">
