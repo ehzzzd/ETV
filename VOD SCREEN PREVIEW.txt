@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSudidhR3TCIzRUMURMV-cOjOYzNH7oTrlVJAUs-goIdhgxKKD" group-title="Recently Added Movies",2 Fast 2 Furious
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvgrrfLcIlcVr6kIpJrdgdzedjbuWsCRG6zoEYNVt55V0l5ts" group-title="Recently Added TV Shows",30 Rock
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Recently Added TV Shows",Big Time Rush
+
