@@ -90,7 +90,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 #EXTINF:0 tvg-name="QVC2" tvg-logo="Logo N/A" tvg-ID="",QVC2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="Logo N/A" tvg-ID="ETVPPV1",ETVPPV1
-https://giant.gfycat.com/SeveralTalkativeIberianchiffchaff.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2344
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="Logo N/A" tvg-ID="ETVPPV2",ETVPPV2
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="ETVP1" tvg-logo="https://resizing.flixster.com/FUmc7GfTjvVPD4Uh4AFWeCgtzd4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzg0MTkxOGY0LWJmMzgtNGZkNS1iMTUwLWNkN2JiNGExNWQyNy5qcGc=" tvg-ID="ETVP1",ETVP1
@@ -766,7 +766,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1787
 #EXTINF:0 tvg-name=“DTS+” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/320px-DirecTV_Sports%2B_Latin_America_%282018%29.png" tvg-ID="“,DTS+
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5189
 #EXTINF:0 tvg-name=“PPV” tvg-logo="" tvg-ID="ETVPPV1",PPV
-https://giant.gfycat.com/SeveralTalkativeIberianchiffchaff.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2344
 #EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
