@@ -792,7 +792,7 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“INFO” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/551.png" tvg-ID="INFOSTAR",INFO
-https://archive.org/download/INFOSTAR/INFOSTAR.mp4
+https://giant.gfycat.com/AntiqueMellowBetafish.mp4
 #EXTINF:0 tvg-name=“HBOEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png" tvg-ID="HBOE“,HBOEHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/848
 #EXTINF:0 tvg-name=“HB2EHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="HBO 2 (USA) “,HB2EHD
@@ -911,10 +911,10 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/791
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/794
 #EXTINF:0 tvg-name=“SCL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590780/3c264dc9f4688ca2f10e992c53a46e8e/284x160-Q75_3c264dc9f4688ca2f10e992c53a46e8e.png" tvg-ID=“StarClassics.us”,SCL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/790
-#EXTINF:0 tvg-name=“STARA” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590748/e03d1f08ae03c82d2da1001e1977442c/284x160-Q75_e03d1f08ae03c82d2da1001e1977442c.png" tvg-ID=“StarActionPlus3.us”,STARA
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/784
-#EXTINF:0 tvg-name=“STARCI” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590786/8b7be3ed301537e6bb37047ae084f6f9/284x160-Q75_8b7be3ed301537e6bb37047ae084f6f9.png" tvg-ID=“StarCinema.us”,STARCI
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/785
+#EXTINF:0 tvg-name=“STARA” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590748/e03d1f08ae03c82d2da1001e1977442c/284x160-Q75_e03d1f08ae03c82d2da1001e1977442c.png" tvg-ID=“INFOSTAR”,STARA
+https://giant.gfycat.com/AntiqueMellowBetafish.mp4
+#EXTINF:0 tvg-name=“STARCI” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590786/8b7be3ed301537e6bb37047ae084f6f9/284x160-Q75_8b7be3ed301537e6bb37047ae084f6f9.png" tvg-ID=“INFOSTAR”,STARCI
+https://giant.gfycat.com/AntiqueMellowBetafish.mp4
 #EXTINF:0 tvg-name=“GLDP” tvg-logo="" tvg-ID="" tvg-shift=“”,GLDP
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2386
 #EXTINF:0 tvg-name=“GLDP2” tvg-logo="" tvg-ID="" tvg-shift=“”,GLDP2
