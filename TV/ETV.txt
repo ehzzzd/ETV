@@ -88,7 +88,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 #EXTINF:0 tvg-name="QVC2" tvg-logo="Logo N/A" tvg-ID="",QVC2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:0 tvg-name="INFO" tvg-logo="Logo N/A" tvg-ID="INFOETV",INFO
-https://github.com/hernandez756/ETV/blob/main/TV/INFOCH.mp4
+https://giant.gfycat.com/ReadyMeanJellyfish.mp4
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="Logo N/A" tvg-ID="ETVPPV1",ETVPPV1
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="Logo N/A" tvg-ID="ETVPPV2",ETVPPV2
