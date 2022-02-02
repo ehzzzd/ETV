@@ -75,8 +75,6 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 https://buzzrota-web.amagi.tv/playlist720.m3u8
 #EXTINF:0 tvg-name="COZI" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" tvg-ID="",COZI
 http://71.187.29.220:8000/play/a088/index.m3u8
-#EXTINF:0 tvg-name="INFO" tvg-logo="Logo N/A" tvg-ID="",INFO
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="QVC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/127.png" tvg-ID="QVC",QVC
 https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
 #EXTINF:0 tvg-name="HSN" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/551.png" tvg-ID="HSN",HSN
@@ -89,6 +87,8 @@ https://aos01-evine.secure.footprint.net/evine/dirtyfeed/VIDEO_1_1564000.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:0 tvg-name="QVC2" tvg-logo="Logo N/A" tvg-ID="",QVC2
 https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:0 tvg-name="INFO" tvg-logo="Logo N/A" tvg-ID="INFOETV",INFO
+https://github.com/hernandez756/ETV/blob/main/TV/INFOCH.mp4
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="Logo N/A" tvg-ID="ETVPPV1",ETVPPV1
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="Logo N/A" tvg-ID="ETVPPV2",ETVPPV2
