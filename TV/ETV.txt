@@ -255,6 +255,10 @@ https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2228
 #EXTINF:0 tvg-name="CBSHQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-ID="5e9f2c05172a0f0007db4786",CBSHQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:0 tvg-name=“BEIN” tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" tvg-ID="I392.76950.schedulesdirect.org", BEIN
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5689
+#EXTINF:0 tvg-name=“BEINE” tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_spanish_c.png?" tvg-ID="I873.76943.schedulesdirect.org", BEINE
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1854
 #EXTINF:0 tvg-name="BEIX" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-ID="5df975e2b27cf5000921c102",BEIX
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,beIN.m3u8
 #EXTINF:0 tvg-name="BEIXE" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" tvg-ID="60492fdd9989d30007ccd30a",BEIXE
@@ -668,9 +672,9 @@ https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“TLFE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/320px-Telefe_%28nuevo_logo%29.png" tvg-ID="“,TLFE
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/485
-#EXTINF:0 tvg-name=“TVCH” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/275px-Logo_de_TV_Chile.png" tvg-ID="",TVCH
+#EXTINF:0 tvg-name=“TVCH” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/275px-Logo_de_TV_Chile.png" tvg-ID="TVChile.cl",TVCH
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29053
-#EXTINF:0 tvg-name="VNVS" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaciｽn_web-10.png" tvg-ID="",VNVS
+#EXTINF:0 tvg-name="VNVS" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaciｽn_web-10.png" tvg-ID="Venevision.ve",VNVS
 http://wwz.cisneros.tv/ch-estudio4/myStream/chunklist_w117396919.m3u8
 #EXTINF:0 tvg-name="RCN+" tvg-logo="https://i.ibb.co/PtvxqDj/RCNMAS.png" tvg-ID="",RCN+
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=e42bfdde-e1ed-51ff-bbb0-856c7275c831&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=e42bfdde-e1ed-51ff-bbb0-856c7275c831&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
@@ -694,7 +698,7 @@ https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/
 https://30ce6d2bbb2d4db9aa1802fa364ce6d9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalNovelas-1/playlist.m3u8?
 #EXTINF:0 tvg-name=“TNVLA” tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-ID="I651.37232.schedulesdirect.org",TNVLA
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/3798
-#EXTINF:0 tvg-name=“UNTL” tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/429.png" tvg-ID="Univisión tlnovelas",UNTL
+#EXTINF:0 tvg-name=“UNTL” tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/429.png" tvg-ID="UnivisionTlnovelas.us",UNTL
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“TMTL” tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvg-ID="5cf96cc422df39f1a338d165",TMTL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -790,25 +794,25 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“INFO” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/551.png" tvg-ID="INFOSTAR",INFO
 https://giant.gfycat.com/AntiqueMellowBetafish.mp4
-#EXTINF:0 tvg-name=“HBOEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png" tvg-ID="HBOE“,HBOEHD
+#EXTINF:0 tvg-name=“HBOEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png" tvg-ID="HBOEast.us“,HBOEHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/848
-#EXTINF:0 tvg-name=“HB2EHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="HBO 2 (USA) “,HB2EHD
+#EXTINF:0 tvg-name=“HB2EHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="HBO2East.us“,HB2EHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBSEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" tvg-ID="59363“,HBSEHD
+#EXTINF:0 tvg-name=“HBSEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" tvg-ID="HBOSignatureEast.us“,HBSEHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBOWHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/732.png" tvg-ID="HBOW“,HBOWHD
+#EXTINF:0 tvg-name=“HBOWHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/732.png" tvg-ID="HBOWest.us“,HBOWHD
 https://edge.roku-live.top.comcast.net/out/u/hbo-west_1.m3u8
-#EXTINF:0 tvg-name=“HB2WHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="59355“,HB2WHD
+#EXTINF:0 tvg-name=“HB2WHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="HBO2West.us“,HB2WHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBCHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/290.png" tvg-ID="59839“,HBCHD
+#EXTINF:0 tvg-name=“HBCHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/290.png" tvg-ID="HBOComedyEast.us“,HBCHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBOFEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png” tvg-ID="59357“,HBOFEHD
+#EXTINF:0 tvg-name=“HBOFEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png” tvg-ID="HBOFamilyEast.us“,HBOFEHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBFWHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" tvg-ID="59357“ tvg-shift="-7",HBFWHD
+#EXTINF:0 tvg-name=“HBFWHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" tvg-ID="HBOFamilyWest.us“,HBFWHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBOZHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/948.png" tvg-ID="HBO Zone (USA) “,HBOZHD
+#EXTINF:0 tvg-name=“HBOZHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/948.png" tvg-ID="HBOZoneEast.us“,HBOZHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“HBOLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/291.png" tvg-ID="HBOE“,HBOLHD
+#EXTINF:0 tvg-name=“HBOLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/291.png" tvg-ID="HBOLatinoEste.us“,HBOLHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“MAXEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/725.png" tvg-ID="CINE“,MAXEHD
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east_1.m3u8
