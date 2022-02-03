@@ -600,7 +600,7 @@ http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/2693
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/7975
 #EXTINF:0 tvg-name=“TLCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/740.png” tvg-ID="TLCLatinoamerica.us" tvg-shift="-5",TLCLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/961
-#EXTINF:0 tvg-name=“H&HLA” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" tvg-ID="DiscoveryHomeHealthLatinoamerica.us" tvg-shift="+15",H&HLA
+#EXTINF:0 tvg-name=“H&HLA” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" tvg-ID="DiscoveryHomeHealthLatinoamerica.us" tvg-shift="+16",H&HLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29528
 #EXTINF:0 tvg-name=“FOODLA” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" tvg-ID="" tvg-shift=“”,FOODLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/969
