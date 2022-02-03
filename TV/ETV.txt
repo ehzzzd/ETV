@@ -662,7 +662,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/168
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/200
 #EXTINF:0 tvg-name="ESTRE” tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" tvg-ID=“LasEstrellasMexico.mx” tvg-shift="",ESTRE
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27552
-#EXTINF:0 tvg-name=“XHGC” tvg-logo="https://i.ibb.co/3fCWZMt/XHGC.png" tvg-ID=“Canal5.mx”,XHGC
+#EXTINF:0 tvg-name=“XHGC” tvg-logo="https://i.ibb.co/3fCWZMt/XHGC.png" tvg-ID=“Canal5.mx” tvg-ID="-3“,XHGC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/192
 #EXTINF:0 tvg-name=“MEX” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/568.png" tvg-ID="",MEX
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIwIDEwOjE4OjI1IFBNJmhhc2hfdmFsdWU9OXZKYjFHbEZjOUtqOVNhS0Q3bTh0UT09JnZhbGlkbWludXRlcz01JmlkPQ==
