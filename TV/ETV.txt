@@ -256,7 +256,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2228
 #EXTINF:0 tvg-name="CBSHQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-ID="5e9f2c05172a0f0007db4786",CBSHQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:0 tvg-name=“BEIN” tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" tvg-ID="I392.76950.schedulesdirect.org", BEIN
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5689
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131979
 #EXTINF:0 tvg-name=“BEINE” tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_spanish_c.png?" tvg-ID="I873.76943.schedulesdirect.org", BEINE
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1854
 #EXTINF:0 tvg-name="BEIX" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-ID="5df975e2b27cf5000921c102",BEIX
