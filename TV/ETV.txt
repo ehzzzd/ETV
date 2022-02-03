@@ -224,7 +224,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/339
 #EXTINF:0 tvg-name="WAPAD2" tvg-logo="https://static.locastnet.org/logo/PuertoRico/WTIN2.png" tvg-ID="WAPADT2.us",WAPAD2
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5581
 #EXTINF:0 tvg-name="WWEN" tvg-logo="https://officialpsds.com/imageview/7y/2n/7y2njk_large.png?1521316562" tvg-ID="91306",WWEN
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2344
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/25807
 #EXTINF:0 tvg-name="AEWS" tvg-logo="https://static.wixstatic.com/media/94b54e_f31adf9fcafc453fbc9deabd1c59917b~mv2.png/v1/fill/w_158,h_80,al_c,usm_0.66_1.00_0.01/aew-official-logo.png" tvg-ID="5f4d1697f10a0e000798ed8d",AEWS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=0e026368-9f16-4c04-b8e0-09eacc740141&clientModelNumber=na&deviceDNT=false&deviceId=0e026368-9f16-4c04-b8e0-09eacc740141&deviceLat=19.4360&deviceLon=-99.1446&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=VE&serverSideAds=true&sessionID=b2dbdca0-49e5-11eb-b132-0242ac110002&sid=b2dbdca0-49e5-11eb-b132-0242ac110002&userId=
 #EXTINF:0 tvg-name="IMPHD" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-ID="IMPACT Wrestling",IMPHD
@@ -254,7 +254,7 @@ https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 #EXTINF:0 tvg-name="CBSSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/285.png" tvg-ID="59250",CBSSNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2228
 #EXTINF:0 tvg-name="CBSHQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-ID="5e9f2c05172a0f0007db4786",CBSHQ
-https://dai.google.com/ssai/event/lKh5_XooSbam79G4T7KvYQ/master.m3u8
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:0 tvg-name="BEIX" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-ID="5df975e2b27cf5000921c102",BEIX
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,beIN.m3u8
 #EXTINF:0 tvg-name="BEIXE" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" tvg-ID="60492fdd9989d30007ccd30a",BEIXE
@@ -477,24 +477,19 @@ https://dai.google.com/linear/hls/event/EM-7A-YKToCBEKrAcwiiwA/master.m3u8
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:0 tvg-name="BNCHD" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" tvg-ID="Black News Channel",BNCHD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=230&deviceId=5f1efad04320070007dbb60b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 tvg-name=“CP24" tvg-logo="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/fitfactory/white-logos/CP24.png" tvg-ID="18168",CP24    
-https://pe-ak-lp01a-9c9media.akamaized.net/live/DMCDigi07/p/dash/00000001/459c40b91162c969/manifest.mpd?News
+#EXTINF:0 tvg-name=“CBCNWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CBC_News_Logo_%282020%29.png/800px-CBC_News_Logo_%282020%29.png" tvg-ID=" ",CBCNWS
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
 #EXTINF:0 tvg-name=“SKYNWS" tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" tvg-ID="16234",SKYNWS    
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:0 tvg-name=“24HSP” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" tvg-ID="" tvg-shift=“”,24HSP
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-#EXTINF:0 tvg-name="ACCUWEATHH" tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/accuweather-partner-professional-services-azure/resources/56c71bb9-c1ec-4160-a51e-1b2e00d6c841/1099377540332979175_1099377540332979175" tvg-ID="",ACCUWEATHH
-http://randomserver.site:2086/live/Bria/Bria/63468.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-name="ACCUWEATHH" tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/accuweather-partner-professional-services-azure/resources/56c71bb9-c1ec-4160-a51e-1b2e00d6c841/1099377540332979175_1099377540332979175" tvg-ID="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",ACCUWEATHH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=0aacee66-6caf-52d3-a62e-df544004c665&dnt=0&X-Plex-Token=test&channelId=6151d74593dbf246f0843f01
 #EXTINF:0 tvg-name="WEATN" tvg-logo="https://sc.dish.com/shared/images/station-logos/WN.png" tvg-ID="",WEATN
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/proxy/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=5.107.0-4a2a6cc411c0f4fdbcce2a647a5add9995648102&app_name=web&clientDeviceType=0&clientID=8f7a41a7-32bf-4d64-a5db-7e2fee508797&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=8f7a41a7-32bf-4d64-a5db-7e2fee508797&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=97.0.4692&marketingRegion=US&serverSideAds=true&sessionID=c00595cd-7877-11ec-8837-0242ac110003&sid=c00595cd-7877-11ec-8837-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIwNDQ3MzVkLWRmNmItNDIxYi05M2MwLTVlYzFjMzI4NGI1YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjMDA1OTVjZC03ODc3LTExZWMtODgzNy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE2MS4zNS41Mi4xNSIsImNpdHkiOiJOb3J0aCBCZXJnZW4iLCJwb3N0YWxDb2RlIjoiMDcwNDciLCJjb3VudHJ5IjoiVVMiLCJkbWEiOjUwMSwiYWN0aXZlUmVnaW9uIjoiVVMiLCJkZXZpY2VMYXQiOjQwLjc5MywiZGV2aWNlTG9uIjotNzQuMDI0NywicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTcuMC40NjkyIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNy4wLTRhMmE2Y2M0MTFjMGY0ZmRiY2NlMmE2NDdhNWFkZDk5OTU2NDgxMDIiLCJjbGllbnRJRCI6IjhmN2E0MWE3LTMyYmYtNGQ2NC1hNWRiLTdlMmZlZTUwODc5NyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL05ld19Zb3JrIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIxIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhpNjM5NXZFbEJadTJZaXRuRlpSM1kwUFl2c0JJQldFZXpXYUoyMXFxUHpROVBmdWlTUkxxLXhaTmFXUk51MjNpNndNcWoiLCJmd1ZjSUQyQ29wcGEiOiI4ZjdhNDFhNy0zMmJmLTRkNjQtYTVkYi03ZTJmZWU1MDg3OTciLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjhmN2E0MWE3LTMyYmYtNGQ2NC1hNWRiLTdlMmZlZTUwODc5NyIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWGk2Mzk1dkVsQlp1MllpdG5GWlIzWTBQWXZzQklCV0VleldhSjIxcXFQelE5UGZ1aVNSTHEteFpOYVdSTnUyM2k2d01xaiIsImZtc19oaF9yYW1wX2lkIjoiVU5NQVRDSEVEIn19LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQyNTUwNDI1LCJqdGkiOiJhZmFmY2VmMi04NGRmLTRkN2EtYTlmOS04YzVjMDAyNzliNzciLCJpYXQiOjE2NDI1MjE2MjUsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpPR1kzWVRReFlUY3RNekppWmkwMFpEWTBMV0UxWkdJdE4yVXlabVZsTlRBNE56azMifQ.LtmCv7XkqeNu39rqDYMWXVs1VHp7Sy5t2hAoKqezY14&masterJWTPassthrough=true&startingOffset=0
-#EXTINF:0 tvg-name="FXWX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png" tvg-ID="",FXWX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8#EXTINF:0 tvg-name="FXWX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png" tvg-ID="",FXWX
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:0 tvg-name="WEATHHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/755.png" tvg-ID="58812",WEATHHD
-https://cdn1-4p.teleuptv.net/2c3b2693-71e7-4df6-aab6-752e9ce25289/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="WXSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Weatherscan_logo_March_2016.png" tvg-ID="",WXSN
-http://192.168.150.128:8080/?00603
-#EXTINF:0 tvg-name="PRWEATH" tvg-logo="Logo N/A" tvg-ID="",PRWEATH
-https://st1.uvnimg.com/weather-widget/prism/Radar_satelite_PuertoRico_WLII.gif
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2205
 #EXTINF:0 tvg-name="NWSMX" tvg-logo="Logo N/A" tvg-ID="",NWSMX
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="GEB" tvg-logo="Logo N/A" tvg-ID="",GEB
@@ -725,6 +720,8 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“TVGAC” tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/294px-Television_de_Galicia.svg.png" tvg-ID="“,TVGAC
 https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-name=“TDLIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" tvg-ID="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302",TDLIFE
+https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=0aacee66-6caf-52d3-a62e-df544004c665&ads.targetopt=0&ads.plex_token=MczDZnSUgPvY_xWtqZh4&ads.plex_id=61e86022307b907b95d63302&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:0 tvg-name=“HITN” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/532.png" tvg-ID="",HITN
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“DISNLA” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/320px-2019_Disney_Channel_logo.svg.png" tvg-ID="DisneyChannelCentro.us", DISNLA
