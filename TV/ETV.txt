@@ -1110,6 +1110,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5497
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5495
 #EXTINF:0 tvg-name=“SBTHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-9-canal-sbt.png" tvg-ID="TVJornalCaruaru.br",SBTHD    
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="85f9c040b03cd5496a2d950b2380d793" tvg-chno="700",ETVTEST1
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“          " tvg-logo="                 " tvg-ID="         ",   
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“          " tvg-logo="                 " tvg-ID="         ",    
