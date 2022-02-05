@@ -404,170 +404,217 @@
 <desc lang="es">Portal de series en ETV.</desc>
 </programme>
 
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCBB">
+<title lang="en">Big Band</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCMF">
+<title lang="en">Malt Shop Favorites</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MC60">
+<title lang="en">'60s Movement</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MC90">
+<title lang="en">'90s</title>
+<desc lang="en">Music Choice wants you to catch up on your favorite jams by bringing you the mega Pop, Rock, and Urban hits from the '90s. Mariah Carey, Boyz II Men, Alanis Morissette, Nirvana, Janet Jackson.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCSW">
+<title lang="en">Singers & Swing</title>
+<desc lang="en">Music Choice wants you to discover the Great American Songbook in a tasteful mix of the best recordings from the singers and bands that made these tunes famous and the current artists that keep the music alive.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCCH">
+<title lang="en">Country Hits</title>
+  <desc lang="en">Reminisce with non-stop ballads and upbeat hits from your favorite pioneers and current stars of country music. George Strait, Kenny Chesney, Martina McBride, Keith Urban, Miranda Lambert, Brad Paisley.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCAM">
+<title lang="en">Americana</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCHT">
+<title lang="en">Honky Tonk</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCBG">
+<title lang="en">Bluegrass</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCHL">
+<title lang="en">Hit List</title>
+  <desc lang="en">Only the most popular, radio-friendly artists, without any of the commercials that go with it. Taylor Swift, Justin Bieber, Demi Lovato, The Weeknd.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCKP">
+<title lang="en">K-Pop</title>
+  <desc lang="en">Hear the best of Korea's catchy pop scene right to your TV! BTS, Girl's Day, Jay Park, 2NE1.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCY2">
+<title lang="en">Y2K</title>
+  <desc lang="en">All things sugar, spice, and everything nice made the airwaves in the year 2000. Music Choice wants you to relive the very best from the turn of the century. Backstreet Boys, Britney Spears, Christina Aguilera, Destiny's Child.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCMA">
+<title lang="en">Max</title>
+  <desc lang="en">Music Choice serves up today's hottest Pop and Hip-Hop songs, while adding just the right amount of brand new EDM and Alternative. Drake, Katy Perry, Justin Timberlake.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCLS">
+<title lang="en">Love Songs</title>
+  <desc lang="en">From the couch to the bedroom, Music Choice is setting the mood for all couples out there. Fall in love all over again with monster ballads and mid-tempo tunes from yesterday and today. Bruno Mars, Maroon 5, Justin Timberlake, Adele.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCCI">
+<title lang="en">Contemporary Instrumentals</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCPH">
+<title lang="en">Pop Hits</title>
+  <desc lang="en">Music Choice has got you covered with your favorite non-stop Pop hits plus a mix of today and yesterday's hits minus the Rap. Pink, Train, Gavin DeGraw, Taylor Swift.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCMS">
+<title lang="en">Movie Scores</title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCBW">
+<title lang="en">Broadway</title>
+  <desc lang="en">From Broadway to the big screen, Music Choice presents an original mix of the music made famous in epic blockbuster film scores, television and the Broadway stage. Your adve Godfather, Titanic Suite, Cinema Paradiso, West Side Story, Wicked, Mad Men, Glee Cast.</desc>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="MCHH">
+<title lang="en">Hip-Hop and R&B</title>
+  <desc lang="en">The only channel you need for hot tracks. Whether it be 16 bars or smooth R&B, Music Choice has you covered with a blend of both. Drake, Beyoncé, Nicki Minaj, Chris Brown, Rihanna.</desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 <programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
 <title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
-</programme>
-<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
-<title lang="en"></title>
+  <desc lang="en"></desc>
 </programme>
 
 </tv>
