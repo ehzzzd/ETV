@@ -121,6 +121,175 @@
 <channel id="NBCSN">
 <display-name>NBCSN</display-name>
 </channel>
+<channel id="MCBB">
+<display-name>MCBB</display-name>
+</channel>
+<channel id="MCMF">
+<display-name>MCMF</display-name>
+</channel>
+<channel id="MC60">
+<display-name>MC60</display-name>
+</channel>
+<channel id="MC90">
+<display-name>MC90</display-name>
+</channel>
+<channel id="MCSW">
+<display-name>MCSW</display-name>
+</channel>
+<channel id="MCCH">
+<display-name>MCCH</display-name>
+</channel>
+<channel id="MCAM">
+<display-name>MCAM</display-name>
+</channel>
+<channel id="MCHT">
+<display-name>MCHT</display-name>
+</channel>
+<channel id="MCBG">
+<display-name>MCBG</display-name>
+</channel>
+<channel id="MCHL">
+<display-name>MCHL</display-name>
+</channel>
+<channel id="MCKP">
+<display-name>MCKP</display-name>
+</channel>
+<channel id="MCY2">
+<display-name>MCY2</display-name>
+</channel>
+<channel id="MCMA">
+<display-name>MCMA</display-name>
+</channel>
+<channel id="MCLS">
+<display-name>MCLS</display-name>
+</channel>
+<channel id="MCCI">
+<display-name>MCCI</display-name>
+</channel>
+<channel id="MCPH">
+<display-name>MCPH</display-name>
+</channel>
+<channel id="MCMS">
+<display-name>MCMS</display-name>
+</channel>
+<channel id="MCBW">
+<display-name>MCBW</display-name>
+</channel>
+<channel id="MCHH">
+<display-name>MCHH</display-name>
+</channel>
+<channel id="MCCC">
+<display-name>MCCC</display-name>
+</channel>
+<channel id="MCGO">
+<display-name>MCGO</display-name>
+</channel>
+<channel id="MCGH">
+<display-name>MCGH</display-name>
+</channel>
+<channel id="MCME">
+<display-name>MCME</display-name>
+</channel>
+<channel id="MCAA">
+<display-name>MCAA</display-name>
+</channel>
+<channel id="MCAL">
+<display-name>MCAL</display-name>
+</channel>
+<channel id="MCHR">
+<display-name>MCHR</display-name>
+</channel>
+<channel id="MCCS">
+<display-name>MCCS</display-name>
+</channel>
+<channel id="MCCA">
+<display-name>MCCA</display-name>
+</channel>
+<channel id="MCPC">
+<display-name>MCPC</display-name>
+</channel>
+<channel id="MCRC">
+<display-name>MCRC</display-name>
+</channel>
+<channel id="MCRS">
+<display-name>MCRS</display-name>
+</channel>
+<channel id="MCCD">
+<display-name>MCCD</display-name>
+</channel>
+<channel id="MCRP">
+<display-name>MCRP</display-name>
+</channel>
+<channel id="MCMR">
+<display-name>MCMR</display-name>
+</channel>
+<channel id="MCSR">
+<display-name>MCSR</display-name>
+</channel>
+<channel id="MCJH">
+<display-name>MCJH</display-name>
+</channel>
+<channel id="MCSJ">
+<display-name>MCSJ</display-name>
+</channel>
+<channel id="MCEL">
+<display-name>MCEL</display-name>
+</channel>
+<channel id="MCBL">
+<display-name>MCBL</display-name>
+</channel>
+<channel id="MCJV">
+<display-name>MCJV</display-name>
+</channel>
+<channel id="MCNA">
+<display-name>MCNA</display-name>
+</channel>
+<channel id="MCXM">
+<display-name>MCXM</display-name>
+</channel>
+<channel id="MCDE">
+<display-name>MCDE</display-name>
+</channel>
+<channel id="MCRG">
+<display-name>MCRG</display-name>
+</channel>
+<channel id="MCSY">
+<display-name> </display-name>
+</channel>
+<channel id="MCLC">
+<display-name>MCLC</display-name>
+</channel>
+<channel id="MCRM">
+<display-name>MCRM</display-name>
+</channel>
+<channel id="MCPL">
+<display-name>MCPL</display-name>
+</channel>
+<channel id="MCTR">
+<display-name>MCTR</display-name>
+</channel>
+<channel id="MCMU">
+<display-name>MCMU</display-name>
+</channel>
+<channel id="MCMX">
+<display-name> </display-name>
+</channel>
+<channel id="MCRL">
+<display-name>MCRL</display-name>
+</channel>
+<channel id="MCLJ">
+<display-name>MCLJ</display-name>
+</channel>
+<channel id="MCBP">
+<display-name>MCBP</display-name>
+</channel>
+<channel id="MCFI">
+<display-name>MCFI</display-name>
+</channel>
+<channel id="MCVI">
+<display-name>MCVI</display-name>
+</channel>
+
 
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WAEH">
@@ -235,5 +404,170 @@
 <desc lang="es">Portal de series en ETV.</desc>
 </programme>
 
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
+<programme start="20220804213052 +0100" stop="20240804223052 +0100" channel="">
+<title lang="en"></title>
+</programme>
 
 </tv>
