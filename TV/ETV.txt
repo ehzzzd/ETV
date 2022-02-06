@@ -202,7 +202,7 @@ https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
 https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 tvg-name="ETVSMX" tvg-logo="Logo N/A" tvg-ID="",ETVSMX
-https://archive.org/download/etvnav-42020/ETVNAV42020.m3u8
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="ESPNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179",ESPNHD
 https://cdn1-7p.teleuptv.net/2b6137ae-6b4e-48f7-ac91-903ea24658d2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="ESPNWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179" tvg-shift="-7",ESPNWHD
@@ -242,14 +242,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072
 #EXTINF:0 tvg-name="TENISHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/712.png" tvg-ID="33395",TENISHD
 https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8
 #EXTINF:0 tvg-name="GOLFHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/852.png" tvg-ID="14899",GOLFHD
-http://randomserver.site:2086/live/Bria/Bria/390.m3u8?checkedby:hlscat.com
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131112
 #EXTINF:0 tvg-name="GOLFP" tvg-logo="https://s3.amazonaws.com/gav_static/assets/getaways/badges/golfpass-logo-white-large.png" tvg-ID="USBB400000145",GOLFP
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:0 tvg-name="FS1HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/445.png" tvg-ID="82541",FS1HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2220
 #EXTINF:0 tvg-name="FS2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/446.png" tvg-ID="59305",FS2HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2060
-#EXTINF:0 tvg-name="NBCSNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/258px-NBC_Sports_Network_logo.svg.png" tvg-ID="NBCSN",NBCSNHD
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/258px-NBC_Sports_Network_logo.svg.png" tvg-ID="NBCSN",INFO
 https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 #EXTINF:0 tvg-name="CBSSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/285.png" tvg-ID="59250",CBSSNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2228
@@ -272,15 +272,15 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2202
 #EXTINF:0 tvg-name="MAGNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/300px-Magnolia_Network.svg.png" tvg-ID="67375",MAGNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2270
 #EXTINF:0 tvg-name="FOODHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/403.png" tvg-ID="50747",FOODHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2322
 #EXTINF:0 tvg-name="COOKHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/933.png" tvg-ID="68065",COOKHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22271
 #EXTINF:0 tvg-name="GRMET" tvg-logo="https://i.ibb.co/y0L5cqz/Unknown-2.png" tvg-ID="5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6175",GRMET
 https://b96858af07884905b4d8a468cbc4c4dc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ElGourmet/playlist.m3u8?
 #EXTINF:0 tvg-name="GSNHD" tvg-logo="https://www.gsntv.com/themes/gsntv-react/assets/images/shared/Game_Show_Network_Logo_2018_RGB.png" tvg-ID="I233.14909.schedulesdirect.org",GSNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40120
 #EXTINF:0 tvg-name="EHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/026.png" tvg-ID="10989",EHD
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2225
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/146557
 #EXTINF:0 tvg-name="BRAVOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/070.png" tvg-ID="58625",BRAVOHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2323
 #EXTINF:0 tvg-name="REELZHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/406.png" tvg-ID="68385",REELZHD
@@ -288,9 +288,9 @@ https://dai2.xumo.com/xumocdn/p=roku&rdid=a448aa06-6f00-5a09-9486-db23a62d54b7&c
 #EXTINF:0 tvg-name="PARHD" tvg-logo="https://www.paramountnetwork.com/activate/resources/images/paramountnetwork-activation-page/logo.png" tvg-ID="59186",PARHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2241
 #EXTINF:0 tvg-name="USAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/753.png" tvg-ID="58452",USAHD
-https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22264
 #EXTINF:0 tvg-name="SYFYHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/905.png" tvg-ID="58623",SYFYHD
-https://cdn1-7p.teleuptv.net/a0da9b12-200a-4a24-9f62-1757184b80d5/tracks-v3a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2213
 #EXTINF:0 tvg-name="DUST" tvg-logo="https://i.imgur.com/q2jim9n.png" tvg-ID="DUST",DUST
 http://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="TNTHD" tvg-logo="https://lh3.googleusercontent.com/9l837ir9qg99DjNExP5X3exkZ7Y-x9yhGXy_Yax12VamvvxbrKwpKoOCZi4UriMRKMD8Wfov2Krc" tvg-ID="11164",TNTHD
@@ -300,7 +300,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:0 tvg-name="TBSHD" tvg-logo="https://lh3.googleusercontent.com/SrvjQVWXjBQllMC6WxJ7pC-t2miqW9x3MJHAtSzRcS9s7xZKTpPh-Cpbp-NmIjIok2TNwa3ei1js" tvg-ID="58515",TBSHD
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-name="FXHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/493.png" tvg-ID="58574",FXHD
-https://sp6.teleuptv.net/550a56d1-6480-41c7-9bad-371352b6b2fc/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2219
 #EXTINF:0 tvg-name="CCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/390.png" tvg-ID="10149",CCHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2246
 #EXTINF:0 tvg-name="OXYGNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/823.png" tvg-ID="70522",OXYGNHD
@@ -308,9 +308,9 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2254
 #EXTINF:0 tvg-name="LIFEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/452.png" tvg-ID="60150",LIFEHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2257
 #EXTINF:0 tvg-name="LMNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/320.png" tvg-ID="55887",LMNHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="AMCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/069.png" tvg-ID="59337",AMCHD
-https://cdn1-7p.teleuptv.net/2dc63f08-2996-4df8-af87-215de46c177f/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2231
 #EXTINF:0 tvg-name="TCMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/028.png" tvg-ID="64312",TCMHD
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-name="FXMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/444.png" tvg-ID="14988",FXMHD
@@ -330,55 +330,55 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2216
 #EXTINF:0 tvg-name="HSTRYHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/814.png" tvg-ID="57708",HSTRYHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2206
 #EXTINF:0 tvg-name="VICEHD" tvg-logo="https://logodix.com/logo/1853833.png" tvg-ID="65732",VICEHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131251
 #EXTINF:0 tvg-name="LOGO" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/618.png" tvg-ID="",LOGO
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131322
 #EXTINF:0 tvg-name="POPHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/004.png" tvg-ID="",POPHD
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40131
 #EXTINF:0 tvg-name="OVATNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ovation_Logo.png" tvg-ID="15807",OVATNHD
-https://cdn1-4p.teleuptv.net/141b824e-7ef7-4632-8f96-878bac837d8b/tracks-v1a1/mono.m3u8
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="NGCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/235.png" tvg-ID="49438",NGCHD
-https://cdn1-4p.teleuptv.net/b2b30a4d-868c-4b8e-9bdf-a6947cf2393b/tracks-v3a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2236
 #EXTINF:0 tvg-name="TRAVHD" tvg-logo="https://lh3.googleusercontent.com/QoCMijTk2q0tUCzHs5dktLa_-mPN61ROJGnVXrT4pKI25Wxr-x5vvBOtEoSKttS6tS2-47GVBuWtbg" tvg-ID="11180",TRAVHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2204
 #EXTINF:0 tvg-name="DSCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/010.png" tvg-ID="56905",DSCHD
-https://cdn1-7p.teleuptv.net/24cf19c9-bb22-4843-ab49-868b411ccd2f/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2271
 #EXTINF:0 tvg-name="OWNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/273.png" tvg-ID="70388",OWNHD
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/72?
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131218
 #EXTINF:0 tvg-name="TLCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/841.png" tvg-ID="17454",TLCHD
-https://cdn1-7p.teleuptv.net/2f800095-cabb-4042-8bef-eb5e7d15a772/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2251
 #EXTINF:0 tvg-name="MTHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/126.png" tvg-ID="24284",MTHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40125
 #EXTINF:0 tvg-name="APLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/807.png" tvg-ID="57394",APLHD
-https://cdn1-7p.teleuptv.net/e3517ed9-e5ea-45f2-8642-b4233a37d561/tracks-v3a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22270
 #EXTINF:0 tvg-name="NGWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/934.png" tvg-ID="67331",NGWHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="SCIHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/799.png" tvg-ID="57390",SCIHD
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23?
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40117
 #EXTINF:0 tvg-name="IDHD" tvg-logo="https://lh3.googleusercontent.com/32Z4icEMOPOUH6a7Rv20jqxSNaOeWKrpU4YRZoTZRkdvUqDo7SNOmYSpcZZBCUwWckyxqxhAJcRuKA" tvg-ID="65342",IDHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2237
 #EXTINF:0 tvg-name="DESTHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/334.png" tvg-ID="60468",DESTHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131316
 #EXTINF:0 tvg-name="AHCHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ahc_logo.png" tvg-ID="78808",AHCHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40108
 #EXTINF:0 tvg-name="DISNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/001.png" tvg-ID="59684",DISNHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/313
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22259
 #EXTINF:0 tvg-name="DJCHHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/345.png" tvg-ID="74885",DJCHHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/311
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22261
 #EXTINF:0 tvg-name="DXDHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/257.png" tvg-ID="60006",DXDHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/6
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22262
 #EXTINF:0 tvg-name="BABY1" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/673.png" tvg-ID="",BABY1
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="BABYTV" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14973591/1b4e89c2080063368ab778e309bf086b/284x160-Q75_1b4e89c2080063368ab778e309bf086b.png" tvg-ID="",BABYTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1055
 #EXTINF:0 tvg-name="DFCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/507.png" tvg-ID="67749",DFCHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/314
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40118
 #EXTINF:0 tvg-name="UKIDSHD" tvg-logo="https://lh3.googleusercontent.com/t76UK7lBwdNYXf0N_G5BLC0xYsmmbg-ObhQPBDqsUs4eYwUPA_9OBx6g0AGvdJIjDQTpm9BeED7d" tvg-ID="Universal Kids (USA)",UKIDSHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/11306
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131254
 #EXTINF:0 tvg-name="TOONHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/015.png" tvg-ID="12131",TOONHD
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/337
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2207
 #EXTINF:0 tvg-name="BOOM" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" tvg-ID="21883",BOOM
-http://s2.iptv66.tv/D97915Q27254E/D97915Q27254E/322
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2239
 #EXTINF:0 tvg-name="NIKHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/759.png" tvg-ID="59432",NIKHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2245
 #EXTINF:0 tvg-name="NICJRHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/911.png" tvg-ID="82649",NICJRHD
@@ -388,15 +388,17 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2243
 #EXTINF:0 tvg-name="TNCK" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/912.png" tvg-ID="59036",TNCK
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140611
 #EXTINF:0 tvg-name="TVLNDHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/351.png" tvg-ID="73541",TVLNDHD
-http://out.yrsprts.io/tvland.m3u8
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131256
 #EXTINF:0 tvg-name="NWSNNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/554.png" tvg-ID="91097",NWSNNHD
 http://supersonictv.live:25461/903310/034806/22184
 #EXTINF:0 tvg-name="FREFMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/043.png" tvg-ID="10093",FREFMHD
-https://cdn1-4p.teleuptv.net/c916462a-7a7c-4090-a873-d5732b8a3c00/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="HALLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/242.png" tvg-ID="66268",HALLHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="HMMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/502.png" tvg-ID="66268",HMMHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40126
+#EXTINF:0 tvg-name="HALLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/242.png" tvg-ID="HallmarkChannelEast.us",HALLHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2266
+#EXTINF:0 tvg-name="HMMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/502.png" tvg-ID="HallmarkMoviesMysteriesEast.us",HMMHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2265
+#EXTINF:0 tvg-name="HLDHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/130.png" tvg-ID="HallmarkDrama.us",HLDHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2267
 #EXTINF:0 tvg-name=“HM&M” tvg-logo="https://image.xumo.com/v1/channels/channel/9999709/300x300.png?type=color_onBlack" tvg-ID=“”,HM&M
 https://dai2.xumo.com/xumocdn/p=roku&rdid=&coppa=&is_lat=&ottid=&content=&content_type=&content_rating=&channel_id=&genre=&platform=&is_roku_lat=&idtype=&ad_vertical=&ad_roll=&length=&device=&ai=&ott_app_id=&series_id=&studio_id=&season_id=&pod=&ppos=&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_2500000/index.m3u8
 #EXTINF:0 tvg-name="HSN2" tvg-logo="https://sc.dish.com/shared/images/station-logos/HSN2.png" tvg-ID="",HSN2
@@ -412,17 +414,23 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="TVONEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/601.png" tvg-ID="",TVONEHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="BETHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/492.png" tvg-ID="63236",BETHD
-http://randomserver.site:2086/live/Bria/Bria/13559.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-name="MTVHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/011.png" tvg-ID="",MTVHD
-http://out.yrsprts.io/mtv.m3u8
-#EXTINF:0 tvg-name="MTV2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/625.png" tvg-ID="",MTV2HD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2248
+#EXTINF:0 tvg-name="BETHHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" tvg-ID="BETHerEast.us",BETHHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40110
+#EXTINF:0 tvg-name="MTVHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/011.png" tvg-ID="MTVEast.us",MTVHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131318
+#EXTINF:0 tvg-name="MTV2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/625.png" tvg-ID="MTV2East.us",MTV2HD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2320
 #EXTINF:0 tvg-name="IFCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/256.png" tvg-ID="59444",IFCHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131125
+#EXTINF:0 tvg-name="VH1HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/402.png" tvg-ID="VH1East.us",VH1HD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="VH1HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/402.png" tvg-ID="",VH1HD
-http://out.yrsprts.io/vh1.m3u8
-#EXTINF:0 tvg-name="MTVCLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1000px-MTV_Classic_US.svg.png" tvg-ID="",MTVCLAS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:0 tvg-name="MTVUHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016–present%29.svg/285px-MTVU_Logo_%282016–present%29.svg.png" tvg-ID="",MTVUHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131331
+#EXTINF:0 tvg-name="MTVLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/045.png" tvg-ID="MTVLiveUSA.us",MTVLHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131330
+#EXTINF:0 tvg-name="MTVCLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1000px-MTV_Classic_US.svg.png" tvg-ID="MTVClassicEast.us",MTVCLAS
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2318
 #EXTINF:0 tvg-name="NKPOP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" tvg-ID="USAJ3000013FJ",NKPOP
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-name="MNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" tvg-ID="",MNET
@@ -435,7 +443,7 @@ https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="FUSEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/824.png" tvg-ID="",FUSEHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="AXSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" tvg-ID="",AXSTV
+#EXTINF:0 tvg-name="AXSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" tvg-ID="AXSTV.us",AXSTV
 https://cdn1-7p.teleuptv.net/bf1e8cfd-37b2-47c2-9e1d-8334dc51116b/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="SONLFHD" tvg-logo="Logo N/A" tvg-ID="",SONLFHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
@@ -460,15 +468,15 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-name="HLNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/HLN_2017_logo.jpg" tvg-ID="10145",HLNHD
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-name="CNBCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/046.png" tvg-ID="58780",CNBCHD
-https://cdn1-7p.teleuptv.net/88c3358a-4f67-4c37-a36b-aaada997d447/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2227
 #EXTINF:0 tvg-name="MSNBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/118.png" tvg-ID="16300",MSNBC
 https://cdn1-7p.teleuptv.net/642d4295-2c3c-4ba8-99d1-66fda6d1c3d0/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="CNBW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/528.png" tvg-ID="",CNBW
-https://cdn1-4p.teleuptv.net/e8f360b1-03b5-49f3-a053-961178dec88c/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="CNBW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/528.png" tvg-ID="CNBCWorld.us",CNBW
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2226
 #EXTINF:0 tvg-name="FBNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/757.png" tvg-ID="58718",FBNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27083
 #EXTINF:0 tvg-name="FNCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/848.png" tvg-ID="60179",FNCHD
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27102
 #EXTINF:0 tvg-name="NWNHD" tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" tvg-ID="",NWNHD
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:0 tvg-name="NBCNN" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-ID="NBC News NOW",NBCNN
@@ -636,6 +644,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/781
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/782
 #EXTINF:0 tvg-name="CCNAL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590886/774cc3ca4f3624aca7621156231dca4c/284x160-Q75_774cc3ca4f3624aca7621156231dca4c.png" tvg-ID="CinecanalOeste.us",CCNAL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/802
+#EXTINF:0 tvg-name="AMCLA" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/210.png" tvg-ID="",AMCLA
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/806
 #EXTINF:0 tvg-name=“CILA” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/514.png" tvg-ID="62401",CILA
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/4921
 #EXTINF:0 tvg-name=“HOLATV” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/221.png" tvg-ID="",HOLATV
@@ -733,7 +743,7 @@ https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-name=“HITN” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/532.png" tvg-ID="",HITN
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“DISNLA” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/320px-2019_Disney_Channel_logo.svg.png" tvg-ID="DisneyChannelCentro.us", DISNLA
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29529
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1078
 #EXTINF:0 tvg-name="DISJRLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/320px-Disney_Junior.svg.png" tvg-ID="", DISJRLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29530
 #EXTINF:0 tvg-name="TOONLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-ID="CartoonNetworkLatinAmerica.us", TOONLA
