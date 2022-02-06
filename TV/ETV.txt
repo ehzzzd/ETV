@@ -774,29 +774,29 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5189
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV",STREV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/53828
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/MLS_Direct_Kick_2017.png" tvg-ID="         ",MLSHD
+#EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/59915
@@ -822,6 +822,54 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5186
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/30107
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“INFO” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/551.png" tvg-ID="INFOSTAR",INFO
 https://giant.gfycat.com/AntiqueMellowBetafish.mp4
 #EXTINF:0 tvg-name=“HBOEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png" tvg-ID="HBOEast.us“,HBOEHD
