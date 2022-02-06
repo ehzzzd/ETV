@@ -28,6 +28,12 @@
 <channel id="ETVPPV2">
 <display-name>ETVPPV2</display-name>
 </channel>
+<channel id="STREV1">
+<display-name>STREV1</display-name>
+</channel>
+<channel id="STREV2">
+<display-name>STREV2</display-name>
+</channel>
 <channel id="ETVP1">
 <display-name>ETVP1</display-name>
 </channel>
@@ -354,6 +360,21 @@
 <programme start="20220130043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
 <title lang="en">No PPV's airing or available at this time</title>
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+</programme>
+  
+<programme start="20220130043000 +0000" stop="20240130223052 +0000" channel="ETVPPV2">
+<title lang="en">No PPV's airing or available at this time</title>
+<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+</programme>
+  
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="STREV1">
+<title lang="en">STAR+ EVENTS</title>
+<title lang="es">STAR+ EVENTOS</title>
+</programme>
+  
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="STREV2">
+<title lang="en">STAR+ EVENTS</title>
+<title lang="es">STAR+ EVENTOS</title>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVP1">
