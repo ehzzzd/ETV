@@ -240,7 +240,7 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0 tvg-name="BLTR" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-ID="Bellator MMA",BLTR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-name="TENISHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/712.png" tvg-ID="33395",TENISHD
-https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:0 tvg-name="GOLFHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/852.png" tvg-ID="14899",GOLFHD
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131112
 #EXTINF:0 tvg-name="GOLFP" tvg-logo="https://s3.amazonaws.com/gav_static/assets/getaways/badges/golfpass-logo-white-large.png" tvg-ID="USBB400000145",GOLFP
@@ -572,8 +572,8 @@ https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
 https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
 #EXTINF:0 tvg-name="VPLUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/219.png" tvg-ID="",VPLUS
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/598
-#EXTINF:0 tvg-name=“UVSOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/012.png" tvg-ID="I410.91588.schedulesdirect.org",UVSOHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:0 tvg-name=“UVSOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/012.png" tvg-ID="NBCUniversoEste.us",UVSOHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27013
 #EXTINF:0 tvg-name="WAPAUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/577.png" tvg-ID="44322",WAPAUS
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="",AZA
@@ -810,29 +810,29 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“MLSHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/424.png" tvg-ID="         ",MLSHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/59915
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5178
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5180
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5182
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5184
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5186
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/683.png" tvg-ID="         “,NBAHD
+#EXTINF:0 tvg-name=“NBAHD” tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" tvg-ID="         “,NBAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/30107
 #EXTINF:0 tvg-name=“NHLHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/636.png" tvg-ID=““,NHLHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
