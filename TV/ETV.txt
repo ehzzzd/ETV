@@ -992,20 +992,16 @@ https://cdn1-6p.teleuptv.net/ec28b745-2e9b-473b-8655-470affb35e4d/tracks-v1a1/mo
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name=“SONKAL” tvg-logo="https://i.ibb.co/2MJtKYc/Unknown-1.png" tvg-ID="5e20b730f2f8d5003d739db7-61ae65bd03baf19077bbf931",SONKAL
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8?ads.wurl_channel=1007&ads.wurl_name=SonyKAL&ads.coppa=0&ads.us_privacy=1---&ads.psid=6599335c-559a-5c9e-8bd4-1938f007d563&ads.targetopt=0&ads.plex_token=ktn92srspyZsh7mzYHbr&ads.plex_id=61ae65bd03baf19077bbf931&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.ctv&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=tv&ads.device_id_type=
-#EXTINF:0 tvg-name=“SSE” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590784/04abfeebc378cc43fc5362ba207126e9/284x160-Q75_04abfeebc378cc43fc5362ba207126e9.png" tvg-ID=“StarSeriesPlus3.us”,SSE
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/932
-#EXTINF:0 tvg-name=“SFU” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590782/27617c482d7e670a601eeab3aa36947a/284x160-Q75_27617c482d7e670a601eeab3aa36947a.png" tvg-ID=“StarFunPlus3.us”,SFU
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/789
-#EXTINF:0 tvg-name=“STARCO” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590758/8e14b59e179a3d05f12e4d2439913d39/284x160-Q75_8e14b59e179a3d05f12e4d2439913d39.png" tvg-ID=“StarComedy.us”,STARCO
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/791
-#EXTINF:0 tvg-name=“STARH” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590751/73593cc43e4933ed5d35facd49ed8aba/284x160-Q75_73593cc43e4933ed5d35facd49ed8aba.png" tvg-ID=“StarHits.us”,STARH
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/794
-#EXTINF:0 tvg-name=“SCL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590780/3c264dc9f4688ca2f10e992c53a46e8e/284x160-Q75_3c264dc9f4688ca2f10e992c53a46e8e.png" tvg-ID=“StarClassics.us”,SCL
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/790
-#EXTINF:0 tvg-name=“STARA” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590748/e03d1f08ae03c82d2da1001e1977442c/284x160-Q75_e03d1f08ae03c82d2da1001e1977442c.png" tvg-ID=“INFOSTAR”,STARA
-https://giant.gfycat.com/AntiqueMellowBetafish.mp4
-#EXTINF:0 tvg-name=“STARCI” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590786/8b7be3ed301537e6bb37047ae084f6f9/284x160-Q75_8b7be3ed301537e6bb37047ae084f6f9.png" tvg-ID=“INFOSTAR”,STARCI
-https://giant.gfycat.com/AntiqueMellowBetafish.mp4
+#EXTINF:0 tvg-name=“UPREHD" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" tvg-ID="",UPREHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29533
+#EXTINF:0 tvg-name=“UNCIHD" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" tvg-ID="",UNCIHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29535
+#EXTINF:0 tvg-name=“UNCYHD" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" tvg-ID="",UNCYHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/58276
+#EXTINF:0 tvg-name=“UNCEHD" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" tvg-ID="",UNCEHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29534
+#EXTINF:0 tvg-name=“UNREHD" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" tvg-ID="",UNREHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/58289
 #EXTINF:0 tvg-name=“GLDP” tvg-logo="" tvg-ID="" tvg-shift=“”,GLDP
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2386
 #EXTINF:0 tvg-name=“GLDP2” tvg-logo="" tvg-ID="" tvg-shift=“”,GLDP2
