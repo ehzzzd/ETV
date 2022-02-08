@@ -1025,7 +1025,21 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“SECHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/501.png" tvg-ID="         ",SECHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“ACCNHD” tvg-logo="https://sc.dish.com/shared/images/station-logos/ACCN.png" tvg-ID="         ",ACCNHD
-https://gma2.blab.email/acc.m3u8
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“BSHD” tvg-logo="" tvg-ID="",BSHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140735
+#EXTINF:0 tvg-name=“BSUNHD” tvg-logo="" tvg-ID="",BSUNHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22101
+#EXTINF:0 tvg-name=“BSFLHD” tvg-logo="" tvg-ID="",BSFLHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22105
+#EXTINF:0 tvg-name=“BSWSTHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/936.png" tvg-ID="",BSWSTHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22115
+#EXTINF:0 tvg-name=“BSOHHD” tvg-logo="" tvg-ID="",BSOHHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140738
+#EXTINF:0 tvg-name=“BSAZHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/877.png" tvg-ID="",BSAZHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140775
+#EXTINF:0 tvg-name=“BSSWHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/906.png" tvg-ID="",BSSWHD
+http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140742
 #EXTINF:0 tvg-name=“OLYCHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/084.png" tvg-ID="104089",OLYCHD
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:0 tvg-name=“NESNHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/177.png" tvg-ID="         ",NESNHD
@@ -1185,7 +1199,7 @@ http://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 #EXTINF:0 tvg-name=“ARANG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png" tvg-ID="28452",ARANG    
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:0 tvg-name=“BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/320px-Rede_Bandeirantes_logo_2018.svg.png" tvg-ID=""BandSaoPaulo.br",BAND
-https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4yhhvBxGZ8_B5WgkKLTEKW0)/dm/3/x83vbd6/s/live-3.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5454
 #EXTINF:0 tvg-name=“GLOB" tvg-logo="https://skytvplanos.com.br/img/channels/lg-5-canal-globo.png" tvg-ID="RedeGlobo.br",GLOB    
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5497
 #EXTINF:0 tvg-name=“GLOBNW" tvg-logo="https://skytvplanos.com.br/img/channels/lg-40-canal-globo-news.png" tvg-ID="",GLOBNW
