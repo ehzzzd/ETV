@@ -18,21 +18,21 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WVEO" tvg-logo="https://static.locastnet.org/logo/PuertoRico/MEGAUS.png" tvg-ID="",WVEO
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WCBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/873.png" tvg-ID="11331",WCBS
-http://71.187.29.220:8000/play/a081/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27063
 #EXTINF:0 tvg-name="WNBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" tvg-ID="11705",WNBC
-http://71.187.29.220:8000/play/a07x/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/26999
 #EXTINF:0 tvg-name="WNYW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/874.png" tvg-ID="11746",WNYW
-http://71.187.29.220:8000/play/a075/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27039
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
-http://71.187.29.220:8000/play/a08l/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/19165
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+https://cdn1-6p.teleuptv.net/a7e11418-f40d-4dbe-8ac5-25595d259177/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
 https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
-http://71.187.29.220:8000/play/a07t/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/391
 #EXTINF:0 tvg-name="WNJU" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",WNJU
-http://71.187.29.220:8000/play/a07a/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/347
 #EXTINF:0 tvg-name="NBCLX" tvg-logo="https://www.lx.com/wp-content/themes/nbc-station-lx/img/a-branding-logo@3x.png" tvg-ID="WNBC3.us",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8?
 #EXTINF:0 tvg-name="ABCLOC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Localish/showimages/92e021f68d1af2b6dc597c2be47b6b16/700x234-Q80_92e021f68d1af2b6dc597c2be47b6b16.png" tvg-ID="",ABCLOC
@@ -40,7 +40,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8
 #EXTINF:0 tvg-name="WLNY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/WLNY-TV_logo.svg/320px-WLNY-TV_logo.svg.png" tvg-ID=" ",WLNY
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WFUT" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",WFUT
-http://71.187.29.220:8000/play/a08b/index.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/362
 #EXTINF:0 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Antenna_TV_logo.svg" tvg-ID="WPIX2.us",ANTV
 https://v-ny.mybtv.net/event/563/640x480.m3u8?start_time=2020-12-30&end_time=2030-10-21&env=prd&uid=
 #EXTINF:0 tvg-name="PBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/022.png" tvg-ID="WNET",PBS
