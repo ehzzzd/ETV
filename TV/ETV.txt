@@ -444,7 +444,7 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="FUSEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/824.png" tvg-ID="",FUSEHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="AXSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" tvg-ID="AXSTV.us",AXSTV
-https://cdn1-7p.teleuptv.net/bf1e8cfd-37b2-47c2-9e1d-8334dc51116b/tracks-v1a1/mono.m3u8
+https://cdn1-7p.teleuptv.net/a4b0cac0-81fc-4867-9365-ed35d6f35fe5/index.m3u8
 #EXTINF:0 tvg-name="SONLFHD" tvg-logo="Logo N/A" tvg-ID="",SONLFHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="RFDHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/570.png" tvg-ID="",RFDHD
@@ -547,9 +547,11 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="JBS" tvg-logo="Logo N/A" tvg-ID="",JBS
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WGN" tvg-logo="https://wgntv.com/wp-content/uploads/sites/5/2020/02/cropped-WGN_Logo_Jumbo-3.png" tvg-ID="",WGN
-http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
+http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
 #EXTINF:0 tvg-name="KTLA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ktla.png" tvg-ID="KTLA.us",KTLA
-https://cdn1-6p.teleuptv.net/6b6c241d-220a-4583-8695-d146be99d1f7/tracks-v1a1/mono.m3u8
+http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="",CWP
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
 https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
 #EXTINF:0 tvg-name="UNIWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049" tvg-shift="+3",UNIWHD
@@ -597,7 +599,7 @@ http://dnsplay.xyz:80/zlwkrwcj/gD6ci9p6G9/35209
 #EXTINF:0 tvg-name="TLMDI" tvg-logo="https://www.universalplus.com/dev/_nuxt/img/telemundo-logo.78ea696.png" tvg-ID="TelemundoInternacional.us",TLMDI
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27842
 #EXTINF:0 tvg-name="UNILA" tvg-logo="https://i.ibb.co/T8Q311M/Univision-LATAM.png" tvg-ID="UnivisionLatinoamerica.us",UNILA
-http://1581.f5.si:8000/mezawcm/JVQHF2Y74U/135862
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/358
 #EXTINF:0 tvg-name=“MUND” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/320px-TV_Azteca_Mundo_logo.svg.png" tvg-ID="" tvg-shift=“”,MUND
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/201
 #EXTINF:0 tvg-name="ATRESSE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png" tvg-ID="Atreseries.TV",ATRESSE
@@ -987,9 +989,9 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“HDNM” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/565.png" tvg-ID="         ",HDNM
 https://cdn1-6p.teleuptv.net/b34ec693-5201-49c5-b51d-30540ddeb1c5/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name=“SONYHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/261.png" tvg-ID="69130",SONYHD
-https://cdn1-6p.teleuptv.net/ec28b745-2e9b-473b-8655-470affb35e4d/tracks-v1a1/mono.m3u8
+https://cdn1-6p.teleuptv.net/ec28b745-2e9b-473b-8655-470affb35e4d/index.m3u8
 #EXTINF:0 tvg-name=“CNSONY” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/508.png" tvg-ID="I449.76408.schedulesdirect.org",CNSONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v1a1/mono.m3u8
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:0 tvg-name=“SONKAL” tvg-logo="https://i.ibb.co/2MJtKYc/Unknown-1.png" tvg-ID="5e20b730f2f8d5003d739db7-61ae65bd03baf19077bbf931",SONKAL
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8?ads.wurl_channel=1007&ads.wurl_name=SonyKAL&ads.coppa=0&ads.us_privacy=1---&ads.psid=6599335c-559a-5c9e-8bd4-1938f007d563&ads.targetopt=0&ads.plex_token=ktn92srspyZsh7mzYHbr&ads.plex_id=61ae65bd03baf19077bbf931&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.ctv&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=tv&ads.device_id_type=
 #EXTINF:0 tvg-name=“UPREHD" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" tvg-ID="",UPREHD
