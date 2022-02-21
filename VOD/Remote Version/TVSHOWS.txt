@@ -1,158 +1,207 @@
 #EXTM3U x-tvg-url="https://pastebin.com/raw/weDPjeNN"
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvgrrfLcIlcVr6kIpJrdgdzedjbuWsCRG6zoEYNVt55V0l5ts" group-title="30 Rock",S01E07 - Tracy Does Conan
-http://192.168.0.4:12345/VOD%2FTV+Shows%2F30+Rock%2FSeason+1%2F30+Rock+S01E07+-+Tracy+Does+Conan.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2F30+Rock%2FSeason+1%2F30+Rock+S01E07+-+Tracy+Does+Conan.mp4
  
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E02 - Big Time School of Rocque
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E02+-+Big+Time+School+of+Rocque.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E02+-+Big+Time+School+of+Rocque.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E05 - Big Time Bad Boy
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E05+-+Big+Time+Bad+Boy.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E05+-+Big+Time+Bad+Boy.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E06 - Big Time Love Song
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E06+-+Big+Time+Love+Song.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E06+-+Big+Time+Love+Song.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E07 - Big Time Mansion
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E07+-+Big+Time+Mansion.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E07+-+Big+Time+Mansion.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E13 - Big Time Terror
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E13+-+Big+Time+Terror.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E13+-+Big+Time+Terror.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E17 - Big Time Video
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E17+-+Big+Time+Video.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E17+-+Big+Time+Video.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Big Time Rush", S01E19 - Big Time Concert
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E19-20+-+Big+Time+Concert.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FBig+Time+Rush%2FSeason+1%2FBig+Time+Rush+S01E19-20+-+Big+Time+Concert.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E01 - Baa Baa Blackmail
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E01+-+Baa+Baa+Blackmail.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E01+-+Baa+Baa+Blackmail.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E28 - Santa vs. Rudolph vs. Predator
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E28+-+Santa+vs.+Rudolph+vs.+Predator.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E28+-+Santa+vs.+Rudolph+vs.+Predator.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E37 - Hello And Dubai
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E37+-+Hello+And+Dubai.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E37+-+Hello+And+Dubai.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E41 - Who Will Cry for The Third Nipple?
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E41+-+Who+Will+Cry+for+The+Third+Nipple%EF%80%A5.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E41+-+Who+Will+Cry+for+The+Third+Nipple%EF%80%A5.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E49 - Love Gets Liposuctioned
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E49+-+Love+Gets+Liposuctioned.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E49+-+Love+Gets+Liposuctioned.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E162 - It's the Great Pumpki-- No Wait, That's just Conan's Head
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E162+-+It%27s+the+Great+Pumpki--+No+Wait%2C+That%27s+just+Conan%27s+Head.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E162+-+It%27s+the+Great+Pumpki--+No+Wait%2C+That%27s+just+Conan%27s+Head.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E71 - Where There's a Will, There's a Dead Person
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E71+-+Where+There%27s+a+Will%2C+There%27s+a+Dead+Person.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E71+-+Where+There%27s+a+Will%2C+There%27s+a+Dead+Person.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E72 - Countdown to Crotchfire
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E72+-+Countdown+to+Crotchfire.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E72+-+Countdown+to+Crotchfire.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S01E78 - The Devil's Pre-nup
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E78+-+The+Devil%27s+Pre-nup.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+1%2FConan+S01E78+-+The+Devil%27s+Pre-nup.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S07E26 - Viggo Mortensen, Brian Posehn, Emily Heller
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+7%2FConan+S07E26+-+Viggo+Mortensen%2C+Brian+Posehn%2C+Emily+Heller.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+7%2FConan+S07E26+-+Viggo+Mortensen%2C+Brian+Posehn%2C+Emily+Heller.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S08E05 - Stephen Colbert, Rod Man
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E05+-+Stephen+Colbert%2C+Rod+man.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E05+-+Stephen+Colbert%2C+Rod+man.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S08E21 - Allison Janney, Pete Holmes, Daniel Sloss
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E21+-+Allison+Janney%2C+Pete+Holmes%2C+Daniel+Sloss.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E21+-+Allison+Janney%2C+Pete+Holmes%2C+Daniel+Sloss.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S08E116 - Deon Cole
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E116+-+Deon+Cole.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+8%2FConan+S08E116+-+Deon+Cole.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S09E01 - Tom Hanks
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+9%2FConan+S09E01+-+Tom+Hanks.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+9%2FConan+S09E01+-+Tom+Hanks.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S09E123 - Adam Sandler
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+9%2FConan+S09E123+-+Adam+Sandler.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+9%2FConan+S09E123+-+Adam+Sandler.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan",S11E38 - Flula Borg
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+11%2FConan+S11E38+-+Flula+Borg.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+11%2FConan+S11E38+-+Flula+Borg.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVv6Ogtf-4OGm7cI0dSsYCqX0r39Mcotn3PXU7H3loC3vXTowd" group-title="Conan", S11E59 - Jack Black
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FConan%2FSeason+11%2FConan+S11E59+-+Jack+Black.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FConan%2FSeason+11%2FConan+S11E59+-+Jack+Black.mkv
  
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://www.primerahora.com/resizer/5eK_gSLka-g9EonjqbqwHpScV5k=/1390x0/smart/filters:quality(75):format(jpeg)/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/3FKNYHXLVNGONBPSQGIVS6F5R4.jpg" group-title="El Condominio", Aprendiendo a Guiar
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+Aprendiendo+a+Guiar.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+Aprendiendo+a+Guiar.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://www.primerahora.com/resizer/5eK_gSLka-g9EonjqbqwHpScV5k=/1390x0/smart/filters:quality(75):format(jpeg)/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/3FKNYHXLVNGONBPSQGIVS6F5R4.jpg" group-title="El Condominio", El Juicio de Guengui
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+El+Juicio+de+Guengui.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+El+Juicio+de+Guengui.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://www.primerahora.com/resizer/5eK_gSLka-g9EonjqbqwHpScV5k=/1390x0/smart/filters:quality(75):format(jpeg)/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/3FKNYHXLVNGONBPSQGIVS6F5R4.jpg" group-title="El Condominio", La Herencia
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+La+Herencia.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+La+Herencia.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://www.primerahora.com/resizer/5eK_gSLka-g9EonjqbqwHpScV5k=/1390x0/smart/filters:quality(75):format(jpeg)/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/3FKNYHXLVNGONBPSQGIVS6F5R4.jpg" group-title="El Condominio", Malas Noticias
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+Malas+Noticias.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+Malas+Noticias.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/65cc728/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fdf%2Fe1366c5e4b0a88c227fa7f8aff5e%2F05cf2ae301a8756bb61f888cc4b77955e49d4512.jpg" group-title="El Show de Cristina",
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/65cc728/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fdf%2Fe1366c5e4b0a88c227fa7f8aff5e%2F05cf2ae301a8756bb61f888cc4b77955e49d4512.jpg" group-title="El Show de Cristina", COMING SOON
+https://edge.music-choice-chaina.top.comcast.net/streamwebacdtva1/DTVAudioChannels/772/O0U9MTY0NDA5MTUwMTtBPTE7Sz0wO1A9MDExMTA7Uz04YzQyNjdiNTViYTJhOTc1YzFiZWYzYmZmNmFhZjE3YmYyYmQyZmRi/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=dtv-acchaina&AssetID=AC_772&AssetType=AudioChannel&RegionID=1&MvpdID=128&IsPrimary=True&IsDR=False
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond",
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Akino Curita
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Akino%20Curita.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Axila: Sobaco Apestoso
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Axila%2C%20Sobaco%20Apestoso.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Caco TV - Miguel Cotto
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Caco%20TV%20-%20Miguel%20Cotto.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Caco Tetilla - A que te lo unto
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Caco%20Tetilla%20-%20A%20que%20te%20lo%20unto.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Crispina - Hoy soy alguien diferente, por que he cambiado
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Crispina%20-%20Hoy%20soy%20alguien%20diferente%2C%20por%20que%20he%20cambiado.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", El Cabo - La Tripita, Shake It Up Baby
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/El%20Cabo%20-%20La%20Tripita%2C%20Shake%20It%20Up%20Baby.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Festival de Bloopers
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Festival%20de%20Bloopers.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Las Noti Adentro - Mini-Me
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Las%20Noti%20Adentro%20-%20Mini-Me.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Lorenzano - Cuando Un Hermano Se Va
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Lorenzano%20-%20Cuando%20Un%20Hermano%20Se%20Va.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Pirulo El Colora'o y Caco Tetilla
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Pirulo%20El%20Colora%27o%20y%20Caco%20Tetilla.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Plinia Soplai - En el Camping
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Plinia%20Soplai%20-%20En%20el%20Camping.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Plinia Soplai - Refugio 5 Estrellas
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Plinia%20Soplai%20-%20Refugio%205%20Estrellas.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Raymond A La Vega - Playa no quiero ir más
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Raymond%20A%20La%20Vega%20-%20Playa%20no%20quiero%20ir%20más.mp4
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond", Trompetilla - Luchador
+https://archive.org/download/plinia-soplai-refugio-5-estrellas/Trompetilla%20-%20Luchador.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo16SjiGV3fy4B70--g5VwT6T5IvtbPiSX1wfO2Hinz-AxY2E0" group-title="Enfermeras",E01
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSOM7Ne9AJE1vXKD7Ca8-Z2W-jL8lh-yivrf0te-kSSiCRZEVr" group-title="Fresh, Fried & Crispy",S01E01
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FFresh%2C+Fried+%26+Crispy%2FSeason+1%2FFresh+Fried+And+Crispy+S01E01.mkv
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FFresh%2C+Fried+%26+Crispy%2FSeason+1%2FFresh+Fried+And+Crispy+S01E01.mkv
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMpWgFcYiV0MThcMMAVihr_5Zx2twoZ2Q_kVZOsVZ9nH1hmJZj" group-title="Friends",S01E01
 
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkYzRjOTktMjMzMC00MWM2LWE5N2EtNTBkYjE5YzIxZmEyXkEyXkFqcGdeQXVyMzg2MDc2Nzk@._V1_UY1200_CR753,0,630,1200_AL_.jpg" group-title="Guerreros (Puerto Rico)",Hombres vs. Mujeres #TBT - 8/04/2021
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Hombres+vs.+Mujeres+%23TBT+-+8+de+abril+de+2021.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Hombres+vs.+Mujeres+%23TBT+-+8+de+abril+de+2021.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkYzRjOTktMjMzMC00MWM2LWE5N2EtNTBkYjE5YzIxZmEyXkEyXkFqcGdeQXVyMzg2MDc2Nzk@._V1_UY1200_CR753,0,630,1200_AL_.jpg" group-title="Guerreros (Puerto Rico)",Hombres vs. Mujeres #TBT - 15/04/2021
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Hombres+vs+Mujeres+%23TBT+15+de+abril+de+2021.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Hombres+vs+Mujeres+%23TBT+15+de+abril+de+2021.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkYzRjOTktMjMzMC00MWM2LWE5N2EtNTBkYjE5YzIxZmEyXkEyXkFqcGdeQXVyMzg2MDc2Nzk@._V1_UY1200_CR753,0,630,1200_AL_.jpg" group-title="Guerreros (Puerto Rico)",Cobras vs. Leones Recargado - 14/10/2021
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Cobras+vs.+Leones+Recargado+-+14+de+octubre+de+2021.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Cobras+vs.+Leones+Recargado+-+14+de+octubre+de+2021.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbV2NYacCutix5u2FE91_IvleaywYY6YV2HMJJ0sQ_tjzmVn1X" group-title="I-LAND",Episode 1
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FI-LAND%2FI-LAND+-+Episode+1.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FI-LAND%2FI-LAND+-+Episode+1.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxv2WoODC05kbgEpRMlgxZqhpzVQCHHs1WbjzkPuFYm0sPehN" group-title="Impractical Jokers",Medium, Well Done
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FImpractical+Jokers%2FImpractical+Jokers+%28Volume+10%29%2FImpractical+Jokers+%28Volume+10%29+-+Medium%2C+Well+Done.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FImpractical+Jokers%2FImpractical+Jokers+%28Volume+10%29%2FImpractical+Jokers+%28Volume+10%29+-+Medium%2C+Well+Done.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxv2WoODC05kbgEpRMlgxZqhpzVQCHHs1WbjzkPuFYm0sPehN" group-title="Impractical Jokers",Cruisin' for a Bruisin'
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FImpractical+Jokers%2FImpractical+Jokers+%28Volume+10%29%2FImpractical+Jokers+S04E13+-+Cruisin%27+for+a+Bruisin%27.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FImpractical+Jokers%2FImpractical+Jokers+%28Volume+10%29%2FImpractical+Jokers+S04E13+-+Cruisin%27+for+a+Bruisin%27.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8gSCq_HmN4RA1MVK1_jyBe7He5PItKjFA0M3QCAB8_v06-o9n" group-title="In the SOOP - BTS ver.",
 
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S01E01 - John Goodman, Drew Barrymore, Tony Randall
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+1%2FLate+Night+with+Conan+O%27Brien+S01E01+-+John+Goodman%2C+Drew+Barrymore%2C+Tony+Randall.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+1%2FLate+Night+with+Conan+O%27Brien+S01E01+-+John+Goodman%2C+Drew+Barrymore%2C+Tony+Randall.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S02E184 - Circle Line Boat Show: Janeane Garofolo, Buster Poindexter
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+2%2FLate+Night+with+Conan+O%27Brien+S02E184+-+Circle+Line+Boat+Show%3A+Janeane+Garofolo%2C+Buster+Poindexter.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+2%2FLate+Night+with+Conan+O%27Brien+S02E184+-+Circle+Line+Boat+Show%3A+Janeane+Garofolo%2C+Buster+Poindexter.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S04E154 - Dave Foley, Myron Kandel, Clyde Peeling
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+4%2FLate+Night+with+Conan+O%27Brien+S04E154+-+Dave+Foley%2C+Myron+Kandel%2C+Clyde+Peeling.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+4%2FLate+Night+with+Conan+O%27Brien+S04E154+-+Dave+Foley%2C+Myron+Kandel%2C+Clyde+Peeling.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S06E54 - Al Roker, George Brett, Jake Evans
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+6%2FLate+Night+with+Conan+O%27Brien+S06E54+-+Al+Roker%2C+George+Brett%2C+Jake+Evans.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+6%2FLate+Night+with+Conan+O%27Brien+S06E54+-+Al+Roker%2C+George+Brett%2C+Jake+Evans.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien", S09E05 - Steve Kroft, Sarah Vowell, Joshua Bell
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+9%2FLate+Night+with+Conan+O%27Brien+S09E05+-+Steve+Kroft%2C+Sarah+Vowell%2C+Joshua+Bell.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+9%2FLate+Night+with+Conan+O%27Brien+S09E05+-+Steve+Kroft%2C+Sarah+Vowell%2C+Joshua+Bell.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S10E78 - Christopher Walken, Laura Prepon, Nada Surf
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+10%2FLate+Night+with+Conan+O%27Brien+S10E78+-+Christopher+Walken%2C+Laura+Prepon%2C+Nada+Surf.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+10%2FLate+Night+with+Conan+O%27Brien+S10E78+-+Christopher+Walken%2C+Laura+Prepon%2C+Nada+Surf.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",10th Anniversary Special
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSpecials%2FLate+Night+with+Conan+O%27Brien+-+10th+Anniversary+Special.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSpecials%2FLate+Night+with+Conan+O%27Brien+-+10th+Anniversary+Special.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S12E24 - Sean P. "Diddy" Combs, Dave Navarro, Interpol
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+12%2FLate+Night+with+Conan+O%27Brien+S12E24+-+Sean+P.+%22Diddy%22+Combs%2C+Dave+Navarro%2C+Interpol.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+12%2FLate+Night+with+Conan+O%27Brien+S12E24+-+Sean+P.+%22Diddy%22+Combs%2C+Dave+Navarro%2C+Interpol.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S13E91 - Conan goes to Finland
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+13%2FLate+Night+with+Conan+O%27Brien+S13E91+-+Conan+goes+to+Finland.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+13%2FLate+Night+with+Conan+O%27Brien+S13E91+-+Conan+goes+to+Finland.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S15E39 - Bob Saget, Dwayne Perkins, Robert Gordon, Chris Spedding
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+15%2FLate+Night+with+Conan+O%27Brien+S15E39+-+Bob+Saget%2C+Dwayne+Perkins%2C+Robert+Gordon%2C+Chris+Spedding.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+15%2FLate+Night+with+Conan+O%27Brien+S15E39+-+Bob+Saget%2C+Dwayne+Perkins%2C+Robert+Gordon%2C+Chris+Spedding.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S15E60 - Izabel Goulart, Len Berman, Nada Surf
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+15%2FLate+Night+with+Conan+O%27Brien+S15E60+-+Izabel+Goulart%2C+Len+Berman%2C+Nada+Surf.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+15%2FLate+Night+with+Conan+O%27Brien+S15E60+-+Izabel+Goulart%2C+Len+Berman%2C+Nada+Surf.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hqn3cJ2fllfSGEYnYk_ZIxS8FsKG_m4Z5VOG-5jTWvhENSR6" group-title="Late Night with Conan O'Brien",S16E15 - Diane Lane, Patton Oswalt, Little Feat
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+16%2FLate+Night+With+Conan+O%27Brien+S16E15+-+Diane+Lane%2C+Patton+Oswalt%2C+Little+Feat.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeason+16%2FLate+Night+With+Conan+O%27Brien+S16E15+-+Diane+Lane%2C+Patton+Oswalt%2C+Little+Feat.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ZMOX7OiNAEL0C-2FNTltdGH-BI0ZmxIrpAOPyjjThXVD2Ao5" group-title="Me Caigo de Risa", 
 
@@ -161,13 +210,13 @@ http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeas
 
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDNJ1cfEpJdXN_WuyIbxWueap8kt7DiQlQYwlwFbPnYydglst4" group-title="Music Bank K-Chart",E1092 - AB6IX, ELAST, ITZY, Nik, OMEGA X, STAYC, Norazo, LUMINOUS , SKYLE, Ciipher, ICHILLN, Yang Yo-seop, Wonho, Yoon Seo-ryung, Key, PURPLEKISS, Hot Issue
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FMusic+Bank+K-Chart%2F2020+-+2021+%28Soobin+%26+Arin%29%2FMusic+Bank+E1092+-+AB6IX%2C+ELAST%2C+ITZY%2C+Nik%2C+OMEGA+X%2C+STAYC%2C+Norazo%2C+LUMINOUS+%2C+SKYLE%2C+Ciipher%2C+ICHILLN%2C+Yang+Yo-seop%2C+Wonho%2C+Yoon+Seo-ryung%2C+Key%2C+PURPLEKISS%2C+Hot+Issue.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FMusic+Bank+K-Chart%2F2020+-+2021+%28Soobin+%26+Arin%29%2FMusic+Bank+E1092+-+AB6IX%2C+ELAST%2C+ITZY%2C+Nik%2C+OMEGA+X%2C+STAYC%2C+Norazo%2C+LUMINOUS+%2C+SKYLE%2C+Ciipher%2C+ICHILLN%2C+Yang+Yo-seop%2C+Wonho%2C+Yoon+Seo-ryung%2C+Key%2C+PURPLEKISS%2C+Hot+Issue.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZKfkQElQJJBLLKmngUWEmXdSJQX0-h9Uw4xC72PtAGYAmAyF" group-title="Nevertheless", 
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQruKctWwybssse4D3aH8JfAoKtudVyuZ8xG_j8aA0CPf67BRUy" group-title="Rebelde (2004)", S1E01
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FRebelde+%282004%29%2FSeason+1%2FRebelde+2004+S01E01.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FRebelde+%282004%29%2FSeason+1%2FRebelde+2004+S01E01.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAe8TTP-orp9mtoPq0bh3FehQiFrKwShbL5s_rl1uVD4xayuNK" group-title="Rick & Morty", 
 
@@ -203,16 +252,16 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/360869/1346491-4-optimized.jpg" group-title="TALK X TODAY",S03E04 - Hueningkai.mp4 
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FTALK+X+TODAY%2FSeason+3%2FTALK+X+TODAY+S03E04+-+Hueningkai.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FTALK+X+TODAY%2FSeason+3%2FTALK+X+TODAY+S03E04+-+Hueningkai.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVZx5SUWGdA06qJGNvW9snjTZvuXV2kAWznoFy3PsofXpYWvOb" group-title="The Tonight Show with Conan O'Brien", S01E01 - Will Ferrell
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E01+-+Will+Ferrell.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E01+-+Will+Ferrell.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVZx5SUWGdA06qJGNvW9snjTZvuXV2kAWznoFy3PsofXpYWvOb" group-title="The Tonight Show with Conan O'Brien", S01E03 - Julia Louis-Dreyfus, Bradley Cooper, Sheryl Crow
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E03+-+Julia+Louis-Dreyfus%2C+Bradley+Cooper%2C+Sheryl+Crow.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E03+-+Julia+Louis-Dreyfus%2C+Bradley+Cooper%2C+Sheryl+Crow.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVZx5SUWGdA06qJGNvW9snjTZvuXV2kAWznoFy3PsofXpYWvOb" group-title="The Tonight Show with Conan O'Brien", S01E06 - David Duchovny, Anna Friel, Bill Burr
-http://192.168.0.4:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E06+-+David+Duchovny%2C+Anna+Friel%2C+Bill+Burr.mp4
+http://192.168.0.13:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien%2FSeason+1%2FThe+Tonight+Show+with+Conan+O%27Brien+S01E06+-+David+Duchovny%2C+Anna+Friel%2C+Bill+Burr.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRkZjUwMjAtNjQ3Ny00Y2Y4LWIxNmItMzFjMTE4YWMzZmMwXkEyXkFqcGdeQXVyMTA2MTU3NDk1._V1_.jpg" group-title="Unus Annus", 
 
