@@ -160,7 +160,7 @@ http://192.168.0.4:12345/VOD%2FTV+Shows%2FLate+Night+with+Conan+O%27Brien%2FSeas
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyYxF_pQ1xZnNz4Hoac_Qofi6ZkshW_V-MqZtp7RA0wFJVFHcM" group-title="Miraculous Ladybug", 
 
 
-#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDNJ1cfEpJdXN_WuyIbxWueap8kt7DiQlQYwlwFbPnYydglst4" group-title="Music Bank K-Chart",E1092 - AB6IX, ELAST, ITZY, Nik, OMEGA X, STAYC, Norazo, LUMINOUS , SKYLE, Ciipher, ICHILLN, Yang Yo-seop, Wonho, Yoon Seo-ryung, Key, PURPLEKISS, Hot Issue
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDNJ1cfEpJdXN_WuyIbxWueap8kt7DiQlQYwlwFbPnYydglst4" group-title="Music Bank K-Chart",E1092: AB6IX - ELAST - ITZY - Nik - OMEGA X - STAYC - Norazo - LUMINOUS - SKYLE - Ciipher - ICHILLN - Yang Yo-seop - Wonho - Yoon Seo-ryung - Key - PURPLEKISS - Hot Issue
 http://192.168.0.4:12345/VOD%2FTV+Shows%2FMusic+Bank+K-Chart%2F2020+-+2021+%28Soobin+%26+Arin%29%2FMusic+Bank+E1092+-+AB6IX%2C+ELAST%2C+ITZY%2C+Nik%2C+OMEGA+X%2C+STAYC%2C+Norazo%2C+LUMINOUS+%2C+SKYLE%2C+Ciipher%2C+ICHILLN%2C+Yang+Yo-seop%2C+Wonho%2C+Yoon+Seo-ryung%2C+Key%2C+PURPLEKISS%2C+Hot+Issue.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZKfkQElQJJBLLKmngUWEmXdSJQX0-h9Uw4xC72PtAGYAmAyF" group-title="Nevertheless", 
