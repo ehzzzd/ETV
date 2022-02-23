@@ -26,9 +26,9 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27039
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/19165
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
-https://cdn1-6p.teleuptv.net/a7e11418-f40d-4dbe-8ac5-25595d259177/tracks-v1a1/mono.m3u8
+https://cdn1-6p.teleuptv.net/a7e11418-f40d-4dbe-8ac5-25595d259177/index.m3u8
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
-https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v1a1/mono.m3u8
+https://cdn1-6p.teleuptv.net/411c9d57-737d-4086-b249-68db95332cef/index.m3u8
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/391
 #EXTINF:0 tvg-name="WNJU" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",WNJU
@@ -578,7 +578,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/598
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27013
 #EXTINF:0 tvg-name="WAPAUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/577.png" tvg-ID="44322",WAPAUS
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="",AZA
+#EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="AztecaUSEste.mx",AZA
 https://v-pi.mybtv.net/event/338/1280x720.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
 #EXTINF:0 tvg-name=“ESTV” tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" tvg-ID="USBA300040WR",ESTV
 https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/1920x1080_5055600/index.m3u8
