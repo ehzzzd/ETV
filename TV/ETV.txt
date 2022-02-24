@@ -215,7 +215,7 @@ https://cdn1-7p.teleuptv.net/886b567e-1a50-48a5-8f02-e173fae01a25/tracks-v1a1/mo
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/340
 #EXTINF:0 tvg-name="MLBHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/855.png" tvg-ID="62081",MLBHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/25083
-#EXTINF:0 tvg-name="MLBSZ" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mlbsz.png" tvg-ID="",MLBSZ
+#EXTINF:0 tvg-name="MLBSZ" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mlbsz.png" tvg-ID="MLB.Network.Strike.Zone.us",MLBSZ
 http://dnsplay.xyz/zlwkrwcj/gD6ci9p6G9/301677
 #EXTINF:0 tvg-name="NHLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/480.png" tvg-ID="58690",NHLHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/25087
@@ -242,7 +242,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072
 #EXTINF:0 tvg-name="TENISHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/712.png" tvg-ID="33395",TENISHD
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:0 tvg-name="GOLFHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/852.png" tvg-ID="14899",GOLFHD
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131112
+http://00322.xyz:8000/Luissgt/IJJD0Y54D8/131112
 #EXTINF:0 tvg-name="GOLFP" tvg-logo="https://s3.amazonaws.com/gav_static/assets/getaways/badges/golfpass-logo-white-large.png" tvg-ID="USBB400000145",GOLFP
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:0 tvg-name="FS1HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/445.png" tvg-ID="82541",FS1HD
@@ -580,10 +580,10 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27013
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="AztecaUSEste.mx",AZA
 https://v-pi.mybtv.net/event/338/1280x720.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
-#EXTINF:0 tvg-name=“ESTV” tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" tvg-ID="USBA300040WR",ESTV
-https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:0 tvg-name=“ESNW” tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" tvg-ID="USAJ2200020N4",ESNW
-https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/1280x720_2855600/index.m3u8
+#EXTINF:0 tvg-name=“ESRTV” tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" tvg-ID="EstrellaTVEast.us",ESRTV
+https://dai.google.com/linear/hls/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
+#EXTINF:0 tvg-name=“ESNW” tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" tvg-ID="",ESNW
+https://dai.google.com/linear/hls/event/y1Zjs_6rS3-ltPqmaNLQDQ/master.m3u8
 #EXTINF:0 tvg-name="NTN" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/914.png" tvg-ID="NTN24USA.co",NTN
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/174
 #EXTINF:0 tvg-name="CNNE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/164.png" tvg-ID="27773",CNNE
