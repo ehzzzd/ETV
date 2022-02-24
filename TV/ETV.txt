@@ -435,6 +435,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2318
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-name="MNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" tvg-ID="",MNET
 http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name=“KPOP” tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmCIJ02KEPIjawFuNmDD5lJqx_8mgHti4De3fQtA=s900-c-k-c0x00ffffff-no-rj" tvg-ID=“THEKPOP”,KPOP
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:0 tvg-name="YGTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png" tvg-ID="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b",YGTV
 https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8?ads.wurl_channel=900&ads.wurl_name=YGTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=LysE3ycuKjDT9HyB8Ksg&ads.plex_id=60d4ede2b2fdec002c14113b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:0 tvg-name=“KMTV” tvg-logo="https://i.ibb.co/qNgKg4c/KMTV.png" tvg-ID="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4424",KMTV
@@ -592,6 +594,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27568
 #EXTINF:0 tvg-name=“TLFN” tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png?w=117" tvg-ID="60492d5522166000071a73c8",TLFN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-name=“24HCL” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/153.png" tvg-ID=“”,24HCL
+https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:0 tvg-name=“DISCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/732.png”,DISCLA
 http://dnsplay.xyz/zlwkrwcj/gD6ci9p6G9/34810
 #EXTINF:0 tvg-name=“IDLA" tvg-logo=“”,IDLA
@@ -782,6 +786,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1785
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1787
 #EXTINF:0 tvg-name=“DTS+” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/320px-DirecTV_Sports%2B_Latin_America_%282018%29.png" tvg-ID="“,DTS+
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5189
+#EXTINF:0 tvg-name=“CLSP” tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" tvg-ID=“”,CLSP
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:0 tvg-name=“PPV” tvg-logo="" tvg-ID="ETVPPV1",PPV
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV1",STREV
