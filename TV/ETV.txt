@@ -548,11 +548,11 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="JBS" tvg-logo="Logo N/A" tvg-ID="",JBS
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="WGN" tvg-logo="https://wgntv.com/wp-content/uploads/sites/5/2020/02/cropped-WGN_Logo_Jumbo-3.png" tvg-ID="",WGN
+#EXTINF:0 tvg-name="WGN" tvg-logo="https://wgntv.com/wp-content/uploads/sites/5/2020/02/cropped-WGN_Logo_Jumbo-3.png" tvg-ID="WGN.Chicago.(LOCAL).us",WGN
 http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
 #EXTINF:0 tvg-name="KTLA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ktla.png" tvg-ID="KTLA.us",KTLA
 http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
-#EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="",CWP
+#EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="CW.Plus.(WLFI-DT2).Lafayette,.IN.us",CWP
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
 https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
@@ -594,6 +594,10 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27568
 #EXTINF:0 tvg-name=“TLFN” tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png?w=117" tvg-ID="60492d5522166000071a73c8",TLFN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-name="ATV+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/320px-ATV%2B_logo_2020.png" tvg-ID=“”,ATV+HD
+https://dai.google.com/linear/hls/event/lZxYWB6ERF-xqWt6z3sE4w/master.m3u8
+#EXTINF:0 tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" tvg-ID=“”,TN23
+https://dai.google.com/linear/hls/event/ACujhLdCRbaUyp5PwXzxtA/master.m3u8
 #EXTINF:0 tvg-name=“24HCL” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/153.png" tvg-ID=“”,24HCL
 https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:0 tvg-name=“DISCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/732.png”,DISCLA
@@ -690,6 +694,28 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/485
 #EXTINF:0 tvg-name=“TVCH” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/275px-Logo_de_TV_Chile.png" tvg-ID="TVChile.cl",TVCH
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29053
+#EXTINF:0 tvg-name="REDHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" tvg-ID=“”,REDHD
+https://marine2.miplay.cl/lared/mono.m3u8
+#EXTINF:0 tvg-name="TVNHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png" tvg-ID=“”,TVNHD
+https://marine2.miplay.cl/tvn/mono.m3u8
+#EXTINF:0 tvg-name="MEGACL" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/150.png" tvg-ID=“”,MEGACL
+https://marine2.miplay.cl/mega/mono.m3u8
+#EXTINF:0 tvg-name="CHVHD" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_02/large.5a8c6a702e9cf_LogoCHV2018Blanco1.png.46fe4fbddd7de2f13abc0d53500758bc.png" tvg-ID=“”,CHVHD
+https://marine2.miplay.cl/chilevision/mono.m3u8
+#EXTINF:0 tvg-name="C13HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/306px-Logotipo_de_Canal_13.png" tvg-ID=“”,C13HD
+https://marine2.miplay.cl/canal13/mono.m3u8
+#EXTINF:0 tvg-name="REC13" tvg-logo="Logo N/A" tvg-ID=“”,REC13
+https://marine2.miplay.cl/rec/mono.m3u8
+#EXTINF:0 tvg-name="13ENT" tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png" tvg-ID=“13ENT”,13ENT
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:0 tvg-name="13PRM" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png" tvg-ID=“13PRM”,13PRM
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:0 tvg-name="13TEL" tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" tvg-ID=“13TEL”,13TEL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#EXTINF:0 tvg-name="AME4HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" tvg-ID=“”,AME4HD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1134
+#EXTINF:0 tvg-name="ATV9HD" tvg-logo="Logo N/A" tvg-ID=“”,ATV9HD
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/chunklist_b1024000.m3u8
 #EXTINF:0 tvg-name="VNVS" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaciｽn_web-10.png" tvg-ID="Venevision.ve",VNVS
 http://wwz.cisneros.tv/ch-estudio4/myStream/chunklist_w117396919.m3u8
 #EXTINF:0 tvg-name="RCNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/273px-Canal_RCN_logo_%282%29.svg.png" tvg-ID="",RCNHD
