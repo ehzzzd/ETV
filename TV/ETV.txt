@@ -550,10 +550,10 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WGN" tvg-logo="https://wgntv.com/wp-content/uploads/sites/5/2020/02/cropped-WGN_Logo_Jumbo-3.png" tvg-ID="WGN.Chicago.(LOCAL).us",WGN
 http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
-#EXTINF:0 tvg-name="KTLA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ktla.png" tvg-ID="KTLA.us",KTLA
+#EXTINF:0 tvg-name="KTLA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ktla.png" tvg-ID="KTLA.Los.Angeles,.CA.us",KTLA
 http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
 #EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="CW.Plus.(WLFI-DT2).Lafayette,.IN.us",CWP
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+http://trn03.tulix.tv/teleup-cw-whp/mono.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
 https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
 #EXTINF:0 tvg-name="UNIWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049" tvg-shift="+3",UNIWHD
