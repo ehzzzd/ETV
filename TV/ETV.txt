@@ -676,13 +676,13 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 http://cdn.stg.cvattv.com.ar/live/live2/NatGeoHD/SA_Live_fta/index.m3u8
 #EXTINF:0 tvg-name=“MTV3” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/956.png" tvg-ID="",MTV3
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“AZUNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/320px-Azteca_Uno_2020.svg.png" tvg-ID="",AZUNO
+#EXTINF:0 tvg-name=“AZUNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azteca_Uno_2020.svg/320px-Azteca_Uno_2020.svg.png" tvg-ID="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx",AZUNO
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/168
-#EXTINF:0 tvg-name=“AZ7HD” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" tvg-ID="16464",AZ7HD
+#EXTINF:0 tvg-name=“AZ7HD” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" tvg-ID="XHIMT.Azteca.7.DF.(AZT-7).mx",AZ7HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/200
-#EXTINF:0 tvg-name="ESTRE” tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" tvg-ID=“LasEstrellasMexico.mx” tvg-shift="",ESTRE
+#EXTINF:0 tvg-name="ESTRE” tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" tvg-ID=“XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx” tvg-shift="",ESTRE
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27552
-#EXTINF:0 tvg-name=“XHGC” tvg-logo="https://i.ibb.co/3fCWZMt/XHGC.png" tvg-ID=“Canal5.mx” tvg-ID="-3“,XHGC
+#EXTINF:0 tvg-name=“XHGC” tvg-logo="https://i.ibb.co/3fCWZMt/XHGC.png" tvg-ID=“XHGC.5.Nacional.(CANL5).mx“,XHGC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/192
 #EXTINF:0 tvg-name=“MEX” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/568.png" tvg-ID="",MEX
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIwIDEwOjE4OjI1IFBNJmhhc2hfdmFsdWU9OXZKYjFHbEZjOUtqOVNhS0Q3bTh0UT09JnZhbGlkbWludXRlcz01JmlkPQ==
@@ -730,7 +730,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1108
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1111
 #EXTINF:0 tvg-name="CARAI" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/569.png" tvg-ID="CaracolTVInternacional.co",CARAI
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/52316
-#EXTINF:0 tvg-name=“TMCR” tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/cropped-512transp-1-192x192.png" tvg-ID="Telemicro5.do" tvg-shift="-5",TMCR
+#EXTINF:0 tvg-name=“TMCR” tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/cropped-512transp-1-192x192.png" tvg-ID="Telemicro.(Dominican.Republic).(TLMIC)..do",TMCR
 https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
 #EXTINF:0 tvg-name="SNCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-ID="SonyChannelAndes.us",SNCH
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/773
