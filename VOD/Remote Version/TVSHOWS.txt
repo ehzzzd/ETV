@@ -285,3 +285,8 @@ http://192.168.0.13:12345/VOD%2FTV+Shows%2FThe+Tonight+Show+with+Conan+O%27Brien
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAgubef-OHfqIqFX6nyrnnvAA4xjOk_X5ts9F5Kl0MB5O-57g" group-title="Victorious", 
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1iKfyvDPK_urwo6XRhgwQ4v1y_ksQyUz8fhbLBHAAGXi6FWpZ" group-title="WandaVision", 
+
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1iKfyvDPK_urwo6XRhgwQ4v1y_ksQyUz8fhbLBHAAGXi6FWpZ" group-title="Women Of Wrestling", 
+
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://images.cwtv.com/images/cw/show-vertical/women-of-wrestling.jpg" group-title="Women Of Wrestling", Episode One - 1.18.19
+https://3aa37dc0e8bb47e08042e0ebb25acb34.dlvr1.net/nosec/The_CW/904/5/126574661950/WomenOfWrestling-101-EpisodeOne.m3u8
