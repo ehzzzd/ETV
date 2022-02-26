@@ -209,6 +209,9 @@ https://cdn.jwplayer.com/manifests/TqCQLauy.m3u8
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://estrellatv.com/img/programs/MC-636X918.webp" group-title="MasterChef Latinos", T1 E2 - "Se Va El Primero, Pero Se Va Feliz"
 https://cdn.jwplayer.com/manifests/KcVXKs6I.m3u8
 
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://estrellatv.com/img/programs/MC-636X918.webp" group-title="MasterChef Latinos", T1 E3
+https://archive.org/download/mclats/MasterChef%20Latinos/S01E03.mp4
+
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ZMOX7OiNAEL0C-2FNTltdGH-BI0ZmxIrpAOPyjjThXVD2Ao5" group-title="Me Caigo de Risa", 
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ZMOX7OiNAEL0C-2FNTltdGH-BI0ZmxIrpAOPyjjThXVD2Ao5" group-title="Me Caigo de Risa", COMING SOON
