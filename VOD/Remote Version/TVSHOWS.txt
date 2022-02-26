@@ -90,8 +90,8 @@ http://192.168.0.13:12345/VOD%2FTV+Shows%2FEl+Condominio%2FEl+Condominio+-+Malas
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/65cc728/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fdf%2Fe1366c5e4b0a88c227fa7f8aff5e%2F05cf2ae301a8756bb61f888cc4b77955e49d4512.jpg" group-title="El Show de Cristina",
 
-#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/65cc728/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fdf%2Fe1366c5e4b0a88c227fa7f8aff5e%2F05cf2ae301a8756bb61f888cc4b77955e49d4512.jpg" group-title="El Show de Cristina", COMING SOON
-https://edge.music-choice-chaina.top.comcast.net/streamwebacdtva1/DTVAudioChannels/772/O0U9MTY0NDA5MTUwMTtBPTE7Sz0wO1A9MDExMTA7Uz04YzQyNjdiNTViYTJhOTc1YzFiZWYzYmZmNmFhZjE3YmYyYmQyZmRi/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=dtv-acchaina&AssetID=AC_772&AssetType=AudioChannel&RegionID=1&MvpdID=128&IsPrimary=True&IsDR=False
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/65cc728/2147483647/strip/true/crop/1920x1080+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fdf%2Fe1366c5e4b0a88c227fa7f8aff5e%2F05cf2ae301a8756bb61f888cc4b77955e49d4512.jpg" group-title="El Show de Cristina", MENUDO: El Reencuentro
+https://archive.org/download/el-show-de-cristina/El%20Show%20de%20Cristina/MENUDO%20-%20El%20Reencuentro.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://scontent.fsig3-1.fna.fbcdn.net/v/t1.18169-9/426484_244699158955065_947964007_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gha41lxiBGAAX8Toxp1&_nc_oc=AQmD9nH9P9X9LswTl9G1Vz4c0jluVJNEEFJCQAovjKOJPbSVrRorkxdN-JuzFSyR5H8&_nc_ht=scontent.fsig3-1.fna&oh=00_AT_qHrKgMLD3b4THepqRUS76u8LkbmkXBK1bfjBd4COyrQ&oe=62385A07" group-title="El Show de Raymond",
 
