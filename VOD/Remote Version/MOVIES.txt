@@ -67,8 +67,6 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FWeverse%2F2022+Wev
 #EXTINF:-1 tvg-id="ETVODC0" tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/happier-than-ever-a-love-letter-to-los-angeles-407038.jpg" group-title="Concerts & Music Specials", Billie Eilish - Happier Than Ever, A Love Letter to Los Angeles (2021)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBillie+Eillish%2FHappier+Than+Ever%2C+A+Love+Letter+to+Los+Angeles+%282021%29.mp4
 
-#EXTINF:-1 tvg-id="ETVODC2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYN4S-4_-aT1-cREwCjJEbFK_XroOcTeJjJ3ZBngGSkaxrcOW" group-title="Concerts & Music Specials", BTS Love Yourself in Seoul (August 26, 2018)
-http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+%27LOVE+YOURSELF%27+IN+SEOUL.mp4
 #EXTINF:-1 tvg-id="ETVODC3" tvg-logo="https://static.wikia.nocookie.net/the-bangtan-boys/images/d/d5/Bang_Bang_Con_The_Live.jpg/revision/latest?cb=20200514053156" group-title="Concerts & Music Specials", BTS Bang Bang Con: The Live (June 14, 2020)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BANG+CON%3A+The+Live+%28%2C+2020%29.mp4
 #EXTINF:-1 tvg-id="ETVODC4" tvg-logo="https://64.media.tumblr.com/09855e2302ffe0eaa9ca97f3415ef0b0/4a38bb2dcc63b548-1d/s1280x1920/64becf1c5f9f2cc18239e09a3381d7fc90e6da69.png" group-title="Concerts & Music Specials", BTS 6th MUSTER SOWOOZOO Concert D1
@@ -81,6 +79,10 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BAN
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BANG+CON+%282021%29%2FBangBangCon+2021+BTS+Begins.mp4
 #EXTINF:-1 tvg-id="ETVODC8" tvg-logo="https://img.discogs.com/iXnOYJP6wQl8hwSS-Bshnoyge1I=/fit-in/600x791/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-15204675-1606000272-7879.jpeg.jpg" group-title="Concerts & Music Specials", BangBangCon 2021 LYSY Sao Paulo
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BANG+CON+%282021%29%2FBangBangCon+2021+LYSY+Sao+Paulo.mp4
+#EXTINF:-1 tvg-id="ETVODC2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYN4S-4_-aT1-cREwCjJEbFK_XroOcTeJjJ3ZBngGSkaxrcOW" group-title="Concerts & Music Specials", BTS World Tour: Love Yourself in Seoul (August 26 2018)
+https://archive.org/download/btlyskr-082618/BTLYSKR082618.mp4
+#EXTINF:-1 tvg-id="ETVODC2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYN4S-4_-aT1-cREwCjJEbFK_XroOcTeJjJ3ZBngGSkaxrcOW" group-title="Concerts & Music Specials", BTS World Tour: Love Yourself in New York (October 6 2018)
+https://archive.org/download/BTSWTLYNYC19/BTS%20WORLD%20TOUR%20%27LOVE%20YOURSELF%27%20NEW%20YORK%20%5BFULL%20CONCERT%5D.mp4
 #EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SOUNDCHECK (October 24 2021)
 https://archive.org/download/BPTDOS/BPTDOS-SC.mp4
 #EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE (October 24 2021)
