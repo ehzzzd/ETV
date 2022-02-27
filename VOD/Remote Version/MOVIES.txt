@@ -81,8 +81,10 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BAN
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BANG+CON+%282021%29%2FBangBangCon+2021+BTS+Begins.mp4
 #EXTINF:-1 tvg-id="ETVODC8" tvg-logo="https://img.discogs.com/iXnOYJP6wQl8hwSS-Bshnoyge1I=/fit-in/600x791/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-15204675-1606000272-7879.jpeg.jpg" group-title="Concerts & Music Specials", BangBangCon 2021 LYSY Sao Paulo
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BANG+CON+%282021%29%2FBangBangCon+2021+LYSY+Sao+Paulo.mp4
-#EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE (October 24, 2021)
-http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+PERMISSION+TO+DANCE+ON+STAGE%2FBTS+PERMISSION+TO+DANCE+ON+STAGE.mp4
+#EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SOUNDCHECK (October 24 2021)
+https://archive.org/download/BPTDOS/BPTDOS-SC.mp4
+#EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE (October 24 2021)
+https://archive.org/download/BPTDOS/BPTDOS/BPTDOSFULL.mp4
 #EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://venewlive.com/_nuxt/img/PtoD_640.44eb3e3.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - LA (December 2, 2021)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+PERMISSION+TO+DANCE+ON+STAGE+-+LA+%28December+2%2C+2021%29.mp4
 
