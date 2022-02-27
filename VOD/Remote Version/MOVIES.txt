@@ -6,28 +6,31 @@
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="" group-title="Movies",
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSudidhR3TCIzRUMURMV-cOjOYzNH7oTrlVJAUs-goIdhgxKKD" group-title="Movies", 2 Fast 2 Furious
-http://192.168.0.13:12345/VOD%2FMovies%2F2+Fast+2+Furious.mp4
+http://xdgo.live:8080/movie/fontanezenittmia/AXaWZNUG6J/24951.mkv
+
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUe-VEpaKo9QHl_3ZAiDPtLh-EaRtaySNNMmWMu2P0txZ4XQ5" group-title="Movies", Ant-Man
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/144901.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuQZFDMyz5H4izAKJWkj8lNzCBmzqfnXuZEh8euAo7kksMiaXd" group-title="Movies", Ant-Man and the Wasp
-http://192.168.0.13:12345/VOD%2FMovies%2FAnt-Man+and+the+Wasp.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/137003.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1XqLwyNz2bvqRqyP6ZW_MguLg2W6QYvQH8TLrMuoNWLOgVvZ" group-title="Movies",BREAK THE SILENCE: THE MOVIE
 http://192.168.0.13:12345/VOD%2FMovies%2FBREAK+THE+SILENCE%3A+THE+MOVIE.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrZBHpC7U4I-FYPtJnS_KuABcilQb4tPElUyrZBZPoBOgD59YW" group-title="Movies",Black Widow
-http://192.168.0.13:12345/VOD%2FMovies%2FBlack+Widow+%282021%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/140046.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt0yAP_z7lqIyCh_4QK7jxKiEbVo7O21BV6mouLh6Eq95h4Dep" group-title="Movies", Captain Marvel
-http://192.168.0.13:12345/VOD%2FMovies%2FCaptain+Marvel+%282019%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/145027.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbVe05Cq_P9ms7S3fGSzF9Sz0MBB4JLBhXMBw9PzXndbg7dgPn" group-title="Movies",Conan O'Brien - Can't Stop
 http://192.168.0.13:12345/VOD%2FMovies%2FConan+O%27Brien+-+Cant+Stop+%282011%29.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5t5u-NFz05_jk9e-P0hScZAVWTLtR4AoUw1969nFtFfye1sQ5" group-title="Movies",Encanto (2021)
-http://192.168.0.13:12345/VOD%2FMovies%2FEncanto+%282021%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/149508.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANrEj3vjRr4yMAA0qqgzOTSoFzUKxHr2KhuNxRSrZw6tL2k6D" group-title="Movies", Jumanji: The Next Level
-http://192.168.0.13:12345/VOD%2FMovies%2FJumanji+-+The+Next+Level+%282019%29.mkv
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/145719.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvx8u12oBmoXtiaEiwjFaLhCI6eJFyYy-3swJzK2b4JkL_GxON" group-title="Movies",P2
 http://192.168.0.13:12345/VOD%2FMovies%2FP2+%28LAT%29.avi
@@ -39,16 +42,16 @@ http://192.168.0.13:12345/VOD%2FMovies%2FShrek+1+%28LAT%29.avi
 http://192.168.0.13:12345/VOD%2FMovies%2FShrek+2+%28LAT%29.avi
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu5QPgNuQCyV7oSlambfGZYO48gYIsbCVboZ62Wpa4-Pfst2Nc" group-title="Movies", Soul
-http://192.168.0.13:12345/VOD%2FMovies%2FSoul+%282020%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/133057.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXGJJq9ioEIztF_HSvK0fnX4UMKjcnEaEsg_WHbGJOeAf3uwft" group-title="Movies",Spider-Man Far From Home
-http://192.168.0.13:12345/VOD%2FMovies%2FSpider-Man+Far+From+Home+%282019%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/146766.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxVjMJ6WGAGaAICy3h-VXXfdH9uN-LrUthkDJvLIe3zWuUWgRF" group-title="Movies", The Darkest Minds
-http://192.168.0.13:12345/VOD%2FMovies%2FThe+Darkest+Minds+%282018%29.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/147139.mp4
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4juWE_xfWjSxvCKAepB0aeP2a4NAlV2HO8Sn_pxXOvsaJtDQ" group-title="Movies", The Fast and The Furious
-http://192.168.0.13:12345/VOD%2FMovies%2FThe+Fast+and+The+Furious.mp4
+http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/94105.mp4
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYzYwYmYtNGQxOC00YmVkLTlkYzQtYzFlMGM4MjAyNGQ4XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX720_.jpg" group-title="Sports Events", WWE WrestleMania 37 (Night 1) - April 10, 2021
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FWWE%2FPPV%2FWrestleMania+37%2FWWE+WrestleMania+37+%28Night+1%29+-+April+10%2C+2021.mp4
