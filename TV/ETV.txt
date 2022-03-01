@@ -607,7 +607,7 @@ http://dnsplay.xyz:80/zlwkrwcj/gD6ci9p6G9/35209
 #EXTINF:0 tvg-name="TLMDI" tvg-logo="https://www.universalplus.com/dev/_nuxt/img/telemundo-logo.78ea696.png" tvg-ID="TelemundoInternacional.us",TLMDI
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27842
 #EXTINF:0 tvg-name="UNILA" tvg-logo="https://i.ibb.co/T8Q311M/Univision-LATAM.png" tvg-ID="UnivisionLatinoamerica.us",UNILA
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/358
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5580
 #EXTINF:0 tvg-name=“MUND” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/320px-TV_Azteca_Mundo_logo.svg.png" tvg-ID="" tvg-shift=“”,MUND
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/201
 #EXTINF:0 tvg-name="ATRESSE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/249.png" tvg-ID="Atreseries.TV",ATRESSE
