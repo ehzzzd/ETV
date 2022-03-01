@@ -614,11 +614,11 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/201
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="ODTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/OnDIRECTV_Latin_America_2018.svg/320px-OnDIRECTV_Latin_America_2018.svg.png" tvg-ID="ODTV",ODTV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/46331
-#EXTINF:0 tvg-name="WBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/263px-Warner2018LA.png" tvg-ID="WarnerChannelPanregional.us",WBTV
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/3013
-#EXTINF:0 tvg-name=“STAR” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590935/d8bc018ef45cafd4aaf40c53971f83bb/284x160-Q75_d8bc018ef45cafd4aaf40c53971f83bb.png" tvg-ID="StarChannelChile.us" tvg-shift="-5",STAR
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/792
-#EXTINF:0 tvg-name=“STRL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590928/97b80d15e66a32091a1f9478201e4513/284x160-Q75_97b80d15e66a32091a1f9478201e4513.png" tvg-ID=“StarLifeLatin.us”,STRL
+#EXTINF:0 tvg-name="WBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/263px-Warner2018LA.png" tvg-ID="Warner.Channel.(Andes).(WARNER)..do",WBTV
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29540
+#EXTINF:0 tvg-name=“STAR” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590935/d8bc018ef45cafd4aaf40c53971f83bb/284x160-Q75_d8bc018ef45cafd4aaf40c53971f83bb.png" tvg-ID="Fox.International.HDTV.(Centroamérica).(FOXHD)..cr",STAR
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29519
+#EXTINF:0 tvg-name=“STRL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590928/97b80d15e66a32091a1f9478201e4513/284x160-Q75_97b80d15e66a32091a1f9478201e4513.png" tvg-ID=“Fox.Life.HDTV.(Latin.America).(FOXLF)..cr”,STRL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/793
 #EXTINF:0 tvg-name=“TLCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/740.png” tvg-ID="TLCLatinoamerica.us" tvg-shift="-5",TLCLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/961
