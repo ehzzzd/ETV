@@ -604,6 +604,8 @@ https://marine2.miplay.cl/24horas/mono.m3u8
 http://dnsplay.xyz/zlwkrwcj/gD6ci9p6G9/34810
 #EXTINF:0 tvg-name=“IDLA" tvg-logo=“”,IDLA
 http://dnsplay.xyz:80/zlwkrwcj/gD6ci9p6G9/35209
+#EXTINF:0 tvg-name="TDCRIM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4194f8aa-c90d-47b0-a154-0337c8660783/todo_crimen_750x500_v2_-_Kam_Jey.png" tvg-ID="5e20b730f2f8d5003d739db7-61e86191307b907b95d63304”,TDCRIM
+https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/playlist.m3u8?ads.wurl_channel=1054&ads.wurl_name=TodoCrimen&ads.coppa=0&ads.us_privacy=1---&ads.psid=0aacee66-6caf-52d3-a62e-df544004c665&ads.targetopt=0&ads.plex_token=&ads.plex_id=61e86191307b907b95d63304&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:0 tvg-name="TLMDI" tvg-logo="https://www.universalplus.com/dev/_nuxt/img/telemundo-logo.78ea696.png" tvg-ID="TelemundoInternacional.us",TLMDI
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27842
 #EXTINF:0 tvg-name="UNILA" tvg-logo="https://i.ibb.co/T8Q311M/Univision-LATAM.png" tvg-ID="UnivisionLatinoamerica.us",UNILA
@@ -620,13 +622,15 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29540
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29519
 #EXTINF:0 tvg-name=“STRL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590928/97b80d15e66a32091a1f9478201e4513/284x160-Q75_97b80d15e66a32091a1f9478201e4513.png" tvg-ID=“Fox.Life.HDTV.(Latin.America).(FOXLF)..cr”,STRL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/793
+#EXTINF:0 tvg-name=“TDLIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" tvg-ID="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302",TDLIFE
+https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=0aacee66-6caf-52d3-a62e-df544004c665&ads.targetopt=0&ads.plex_token=MczDZnSUgPvY_xWtqZh4&ads.plex_id=61e86022307b907b95d63302&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:0 tvg-name=“TLCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/740.png” tvg-ID="TLCLatinoamerica.us" tvg-shift="-5",TLCLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/961
 #EXTINF:0 tvg-name=“H&HLA” tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" tvg-ID="DiscoveryHomeHealthLatinoamerica.us" tvg-shift="+15",H&HLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29528
 #EXTINF:0 tvg-name=“FOODLA” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" tvg-ID="" tvg-shift=“”,FOODLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/969
-#EXTINF:0 tvg-name="MCHIC" tvg-logo="https://i.ibb.co/CKTdS38/Unknown-3.png" tvg-ID=" ",MCHIC
+#EXTINF:0 tvg-name="MCHIC" tvg-logo="https://i.ibb.co/CKTdS38/Unknown-3.png" tvg-ID="5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6177",MCHIC
 https://f2b4dc86ea1f4f378b5a1e09f254eb8f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MasChic/f8c63262-29aa-43f6-a0e8-cbc9df8130b1/2.m3u8
 #EXTINF:0 tvg-name="UVRSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" tvg-ID="UniversalTVChile.us",UVRSAL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/816
@@ -690,6 +694,8 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wms
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:0 tvg-name=“ENLC” tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s20286_dark_360w_270h.png" tvg-ID="I236.20286.schedulesdirect.org",ENLC
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name=“AZGT” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/642px-Azteca_Guate_2017.png" tvg-ID="“,AZGT
+https://5fc584f3f19c9.streamlock.net/aztecaguate/aztecaguate.smil/playlist.m3u8
 #EXTINF:0 tvg-name=“TLFE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/320px-Telefe_%28nuevo_logo%29.png" tvg-ID="“,TLFE
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/485
 #EXTINF:0 tvg-name=“TVCH” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/275px-Logo_de_TV_Chile.png" tvg-ID="TVChile.cl",TVCH
@@ -770,8 +776,6 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“TVGAC” tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/294px-Television_de_Galicia.svg.png" tvg-ID="“,TVGAC
 https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-name=“TDLIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" tvg-ID="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302",TDLIFE
-https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=0aacee66-6caf-52d3-a62e-df544004c665&ads.targetopt=0&ads.plex_token=MczDZnSUgPvY_xWtqZh4&ads.plex_id=61e86022307b907b95d63302&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:0 tvg-name=“HITN” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/532.png" tvg-ID="",HITN
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“DISNLA” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/320px-2019_Disney_Channel_logo.svg.png" tvg-ID="DisneyChannelCentro.us", DISNLA
