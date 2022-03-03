@@ -792,6 +792,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29570
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1046
 #EXTINF:0 tvg-name="TNIKLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/320px-TeenNick_2019_logo.svg.png" tvg-ID="", TNIKLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1047
+#EXTINF:0 tvg-name="CHAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/320px-El_Chavo_%28simple_logo%29.svg.png" tvg-ID="CHAVO24",CHAVO
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:0 tvg-name=“TUDNHD” tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s77068_dark_360w_270h.png" tvg-ID="I673.75951.schedulesdirect.org”,TUDNHD
 https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 #EXTINF:0 tvg-name=“FOXDHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/370.png" tvg-ID="72189",FOXDHD
