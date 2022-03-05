@@ -45,6 +45,8 @@
 
 #EXTINF:-1 tvg-id="ETVODS5" tvg-logo="https://www.fite.tv/thumbs/v/2p8yo/1/2p8yo_1617960068/gcw-josh-barnetts-bloodsport-6-800x1280fit.jpg" group-title="Sports Events",GCW Josh Barnetts Bloodsport 6
 
+#EXTINF:-1 tvg-id="ETVODS5" tvg-logo="https://images.moviefit.me/t/b/600568-nxt-takeover-36.webp" group-title="Sports Events",NXT Takeover 36
+
 #EXTINF:-1 tvg-id="ETVODC0" tvg-logo="https://venewlive.com/_nuxt/img/Weverse_Mobile2.b6baab5.jpg" group-title="Concerts & Music Specials", 2022 Weverse-con
 
 #EXTINF:-1 tvg-id="ETVODC0" tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/happier-than-ever-a-love-letter-to-los-angeles-407038.jpg" group-title="Concerts & Music Specials", Billie Eilish - Happier Than Ever, A Love Letter to Los Angeles (2021)
