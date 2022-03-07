@@ -92,7 +92,7 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:0 tvg-name="INFO" tvg-logo="Logo N/A" tvg-ID="INFOETV",INFO
 https://giant.gfycat.com/ReadyMeanJellyfish.mp4
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="Logo N/A" tvg-ID="ETVPPV1",ETVPPV1
-https://oklive6-4.vkuser.net/hls/2300144192075.m3u8/sig/ZMPJahgB-Pg/expires/1646702547955/srcIp/24.50.225.96/urls/185.226.53.54/clientType/1/srcAg/CHROME_MAC/mid/3558908632651/video.m3u8?p
+https://oklive6-13.vkuser.net/hls/2300144912971.m3u8/sig/kofTmhDxi-w/expires/1646703433663/srcIp/24.50.225.96/urls/45.136.21.64/clientType/1/srcAg/SAFARI_MAC/mid/3558909222475/video.m3u8?p
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="Logo N/A" tvg-ID="ETVPPV2",ETVPPV2
 https://vsd115.mycdn.me/hls/2216518748762.m3u8/sig/jLiWugCdVBM/expires/1646702886114/srcIp/24.50.225.96/clientType/1/srcAg/CHROME_MAC/mid/3365782101594/video.m3u8?p
 #EXTINF:0 tvg-name="ETVP1" tvg-logo="https://resizing.flixster.com/FUmc7GfTjvVPD4Uh4AFWeCgtzd4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzg0MTkxOGY0LWJmMzgtNGZkNS1iMTUwLWNkN2JiNGExNWQyNy5qcGc=" tvg-ID="ETVP1",ETVP1
