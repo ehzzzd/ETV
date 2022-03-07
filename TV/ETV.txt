@@ -92,9 +92,9 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:0 tvg-name="INFO" tvg-logo="Logo N/A" tvg-ID="INFOETV",INFO
 https://giant.gfycat.com/ReadyMeanJellyfish.mp4
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="Logo N/A" tvg-ID="ETVPPV1",ETVPPV1
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://oklive6-4.vkuser.net/hls/2300144192075.m3u8/sig/ZMPJahgB-Pg/expires/1646702547955/srcIp/24.50.225.96/urls/185.226.53.54/clientType/1/srcAg/CHROME_MAC/mid/3558908632651/video.m3u8?p
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="Logo N/A" tvg-ID="ETVPPV2",ETVPPV2
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://vsd115.mycdn.me/hls/2216518748762.m3u8/sig/jLiWugCdVBM/expires/1646702886114/srcIp/24.50.225.96/clientType/1/srcAg/CHROME_MAC/mid/3365782101594/video.m3u8?p
 #EXTINF:0 tvg-name="ETVP1" tvg-logo="https://resizing.flixster.com/FUmc7GfTjvVPD4Uh4AFWeCgtzd4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzg0MTkxOGY0LWJmMzgtNGZkNS1iMTUwLWNkN2JiNGExNWQyNy5qcGc=" tvg-ID="ETVP1",ETVP1
 http://192.168.0.13:12345/VOD%2FMovies%2FBLACKPINK%3A+Light+Up+the+Sky+%282020%29.mp4
 #EXTINF:0 tvg-name="ETVP2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VVNIjRGluFscGZWTN7C-hfOHYJHdF07csPlPDvu8r4E71Rm3" tvg-ID="ETVP2",ETVP2
@@ -821,7 +821,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5189
 #EXTINF:0 tvg-name=“CLSP” tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" tvg-ID=“”,CLSP
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:0 tvg-name=“PPV” tvg-logo="" tvg-ID="ETVPPV1",PPV
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://oklive6-4.vkuser.net/hls/2300144192075.m3u8/sig/ZMPJahgB-Pg/expires/1646702547955/srcIp/24.50.225.96/urls/185.226.53.54/clientType/1/srcAg/CHROME_MAC/mid/3558908632651/video.m3u8?p
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV1",STREV
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/53828
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV2",STREV
