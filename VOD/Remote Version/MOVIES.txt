@@ -97,8 +97,10 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FBTS%2FBTS+BANG+BAN
 https://archive.org/download/BPTDOS/BPTDOS-SC.mp4
 #EXTINF:-1 tvg-id="ETVODC9" tvg-logo="https://i.pinimg.com/550x/cc/6a/c5/cc6ac51cfda4b1487efe29286fe36c74.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE (October 24 2021)
 https://archive.org/download/BPTDOS/BPTDOS/BPTDOSFULL.mp4
-#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://venewlive.com/_nuxt/img/PtoD_640.44eb3e3.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - LA (December 2, 2021)
+#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://venewlive.com/_nuxt/img/PtoD_640.44eb3e3.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - LA (December 2 2021)
 https://archive.org/download/BPTDOS/BPTDOS-LAFULL.mp4
+#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://concerts.weverse.io/event-management/concerts.weverse.io/assets/events/1644988574796_pcBTS_PTD_SEOUL.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SEOUL (D-1 - March 10 2022)
+https://archive.org/download/BPTDOS/BPTDOS-SEOULD1.mp4
 
 #EXTINF:-1 tvg-id="ETVODC11" tvg-logo="https://kt.wowkorea.jp/img/dispatch/0/2034/5819_l.jpg" group-title="Concerts & Music Specials", 2021 ENHYPEN FIRST FANMEETING EN-CONNECT
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FENHYPEN%2FENHYPEN+FIRST+FANMEETING+EN-CONNECT.mp4
@@ -110,7 +112,7 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FMarc+Anthony%2FMar
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2F2021+TOMORROW+X+TOGETHER+FANLIVE+-+SHINE+X+TOGETHER+%28D-1%29.mp4
 #EXTINF:-1 tvg-id="ETVODC14" tvg-logo="https://dareae.info/wp-content/uploads/2021/02/TOMORROW-X-TOGETHER-FANLIVE-SHINE-X-TOGETHER-JAPAN-EDITION.jpg" group-title="Concerts & Music Specials", TOMORROW X TOGETHER FANLIVE - SHINE X TOGETHER (D-2) JAPAN EDITION
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2F2021+TOMORROW+X+TOGETHER+FANLIVE+-+SHINE+X+TOGETHER+%28D-2%29+JAPAN+EDITION.mp4
-#EXTINF:-1 tvg-id="ETVODC15" tvg-logo="https://www.venewlive.com/concerts/txt-act-boy/txt20211003/hero_mobile.JPG" group-title="Concerts & Music Specials", TOMORROW X TOGETHER LIVE <ACT-BOY> (October 3, 2021)
+#EXTINF:-1 tvg-id="ETVODC15" tvg-logo="https://www.venewlive.com/concerts/txt-act-boy/txt20211003/hero_mobile.JPG" group-title="Concerts & Music Specials", TOMORROW X TOGETHER LIVE <ACT-BOY> (October 3 2021)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2FTOMORROW+X+TOGETHER+LIVE+%3CACT-BOY%3E+%28October+3%2C+2021%29.mp4
-#EXTINF:-1 tvg-id="ETVODC15" tvg-logo="https://www.venewlive.com/concerts/txt-act-boy/txt20211003/hero_mobile.JPG" group-title="Concerts & Music Specials", TOMORROW X TOGETHER LIVE <ACT-BOY> ''MULTI-VIEW'' (October 3, 2021)
+#EXTINF:-1 tvg-id="ETVODC15" tvg-logo="https://www.venewlive.com/concerts/txt-act-boy/txt20211003/hero_mobile.JPG" group-title="Concerts & Music Specials", TOMORROW X TOGETHER LIVE <ACT-BOY> ''MULTI-VIEW'' (October 3 2021)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2FTOMORROW+X+TOGETHER+LIVE+%3CACT-BOY%3E+%27%27MULTI-VIEW%27%27+%28October+3%2C+2021%29.mp4
