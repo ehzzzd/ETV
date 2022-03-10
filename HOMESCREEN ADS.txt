@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/JmLbynD/ETV-Launcher-Banner-VOD.png" tvg-ID="",1/4
-#EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/BPwcPNH/sonymoviesbanner.png" tvg-ID="",2/4
-#EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/k405X9h/ETVUNIVERSALBANNER.png" tvg-ID="",3/4
+#EXTINF:0 tvg-name=" " tvg-logo="https://github.com/hernandez756/ETV/raw/main/VOD/BTSPTDBANNER.png" tvg-ID="",2/4
+#EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/BPwcPNH/sonymoviesbanner.png" tvg-ID="",3/4
 #EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/FwK0V2v/DEPORTESETV.png" tvg-ID="",4/4
