@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvgrrfLcIlcVr6kIpJrdgdzedjbuWsCRG6zoEYNVt55V0l5ts" group-title="Recently Added TV Shows",30 Rock
 
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWAxpM2GfD8JZboC5rXCOVLoH-d_iRBFlCVpM9BBqbnaGCkiyJ" group-title="Recently Added TV Shows",AEW Dynamite
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYFaWOJGy1Zu59EyD0NVmEBLTVJ8aRtElZIDELN8H_YtW6Ldy" group-title="Recently Added TV Shows",AEW Rampage
+
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Recently Added TV Shows",Big Time Rush
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://estrellatv.com/img/programs/MC-636X918.webp" group-title="Recently Added TV Shows",MasterChef Latinos
@@ -38,11 +42,13 @@
 
 #EXTINF:-1 tvg-id="ETVODS5" tvg-logo="https://images.moviefit.me/t/b/600568-nxt-takeover-36.webp" group-title="Sports Events",NXT Takeover 36
 
+#EXTINF:-1 tvg-id="ETVODS5" tvg-logo="https://www.fite.tv/thumbs/v/2pawt/1/2pawt_1646051628/aew-revolution-2022-buy-in-800x1280fit.jpg" group-title="Sports Events",AEW Revolution 2022
+
 
 #EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://venewlive.com/_nuxt/img/PtoD_640.44eb3e3.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - LA (December 2, 2021)
 
 #EXTINF:-1 tvg-id="ETVODC0" tvg-logo="https://venewlive.com/_nuxt/img/Weverse_Mobile2.b6baab5.jpg" group-title="Concerts & Music Specials", 2022 Weverse-con
 
-#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://github.com/hernandez756/ETV/raw/main/VOD/BTSPTDSEOUL.png" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SEOUL (D1 Available/Disponible) (D2 13/03)
+#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://github.com/hernandez756/ETV/raw/main/VOD/BTSPTDSEOUL.png" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SEOUL (D1 Available NOW/Disponible AHORA) (D2 Available/Disponible 13/03)
 
 #EXTINF:-1 tvg-id="ETVODC11" tvg-logo="https://kt.wowkorea.jp/img/dispatch/0/2034/5819_l.jpg" group-title="Concerts & Music Specials", 2021 ENHYPEN FIRST FANMEETING EN-CONNECT - D1 & 2 (JPN)
