@@ -53,6 +53,8 @@ http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/147139.mp4
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4juWE_xfWjSxvCKAepB0aeP2a4NAlV2HO8Sn_pxXOvsaJtDQ" group-title="Movies", The Fast and The Furious
 http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/94105.mp4
 
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://www.fite.tv/thumbs/v/2pajn/1/2pajn_1645105219/aew-revolution-2022-800x1280fit.jpg" group-title="Sports Events", AEW Revolution 2022
+https://archive.org/download/aedubevs/AEDUBEVS/AEDUBREV2022.mp4
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYzYwYmYtNGQxOC00YmVkLTlkYzQtYzFlMGM4MjAyNGQ4XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX720_.jpg" group-title="Sports Events", WWE WrestleMania 37 (Night 1) - April 10, 2021
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FWWE%2FPPV%2FWrestleMania+37%2FWWE+WrestleMania+37+%28Night+1%29+-+April+10%2C+2021.mp4
 #EXTINF:-1 tvg-id="ETVODS2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYzYwYmYtNGQxOC00YmVkLTlkYzQtYzFlMGM4MjAyNGQ4XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX720_.jpg" group-title="Sports Events",WWE WrestleMania 37 (Night 2) - April 11, 2021
