@@ -35,11 +35,11 @@ http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/145719.mp4
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvx8u12oBmoXtiaEiwjFaLhCI6eJFyYy-3swJzK2b4JkL_GxON" group-title="Movies",P2
 http://192.168.0.13:12345/VOD%2FMovies%2FP2+%28LAT%29.avi
 
-#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkoDMIF3ZqLqmiHikbE0OtI_CDdHgC89Qbp6l133knwDkcClT9" group-title="Movies",Shrek 1 - LAT
-http://192.168.0.13:12345/VOD%2FMovies%2FShrek+1+%28LAT%29.avi
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkoDMIF3ZqLqmiHikbE0OtI_CDdHgC89Qbp6l133knwDkcClT9" group-title="Movies",Shrek 1
+https://archive.org/download/shk_20220313/SHK/SHK1.mkv
 
-#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvKfTLeSym6i6jiRBBajFjpApe51zeWRUeuPJw5TFHNNn5Nka" group-title="Movies",Shrek 2 - LAT
-http://192.168.0.13:12345/VOD%2FMovies%2FShrek+2+%28LAT%29.avi
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvKfTLeSym6i6jiRBBajFjpApe51zeWRUeuPJw5TFHNNn5Nka" group-title="Movies",Shrek 2
+https://archive.org/download/shk_20220313/SHK/SHK2.mkv
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu5QPgNuQCyV7oSlambfGZYO48gYIsbCVboZ62Wpa4-Pfst2Nc" group-title="Movies", Soul
 http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/133057.mkv
