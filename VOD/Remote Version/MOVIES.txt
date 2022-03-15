@@ -72,7 +72,7 @@ https://archive.org/download/nxto_20220304/NXTOSAD21-D1.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279219858%27&EntityType=%27Item%27&EntityId=%27161660%27&Width=674&Height=380&ImageUrl=%279219858.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT TakeOver: Stand & Deliver 2021 - Day 2
 https://archive.org/download/nxto_20220304/NXTOSAD21-D2.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279272271%27&EntityType=%27Item%27&EntityId=%27168322%27&Width=674&Height=380&ImageUrl=%279272271.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT TakeOver 36
-https://archive.org/download/nxto_20220304/NXTO/NXTO36.mp4
+https://archive.org/download/nxto_20220304/NXTO36.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279313248%27&EntityType=%27Item%27&EntityId=%27173200%27&Width=674&Height=380&ImageUrl=%279313248.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT WarGames 2021
 https://archive.org/download/nx2.0/NX2.0/NX20WG21.mp4
 
