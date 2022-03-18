@@ -329,8 +329,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2208
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2216
 #EXTINF:0 tvg-name="HSTRYHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/814.png" tvg-ID="57708",HSTRYHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2206
-#EXTINF:0 tvg-name="VICEHD" tvg-logo="https://logodix.com/logo/1853833.png" tvg-ID="65732",VICEHD
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131251
+#EXTINF:0 tvg-name="VICEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/254.png" tvg-ID="65732",VICEHD
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-name="LOGO" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/618.png" tvg-ID="",LOGO
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131322
 #EXTINF:0 tvg-name="POPHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/004.png" tvg-ID="",POPHD
@@ -380,7 +380,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2207
 #EXTINF:0 tvg-name="BOOM" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" tvg-ID="21883",BOOM
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2239
 #EXTINF:0 tvg-name="NIKHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/759.png" tvg-ID="59432",NIKHD
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2245
+http://mylatinotv.com:8080/chrisdelherbe/8h2ayy494o/82522
 #EXTINF:0 tvg-name="NICJRHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/911.png" tvg-ID="82649",NICJRHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2244
 #EXTINF:0 tvg-name="NIKTON" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/557.png" tvg-ID="",NIKTON
@@ -418,7 +418,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2248
 #EXTINF:0 tvg-name="BETHHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" tvg-ID="BETHerEast.us",BETHHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40110
 #EXTINF:0 tvg-name="MTVHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/011.png" tvg-ID="MTVEast.us",MTVHD
-http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131318
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
 #EXTINF:0 tvg-name="MTV2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/625.png" tvg-ID="MTV2East.us",MTV2HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2320
 #EXTINF:0 tvg-name="IFCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/256.png" tvg-ID="59444",IFCHD
@@ -1246,7 +1246,9 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5497
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5495
 #EXTINF:0 tvg-name=“SBTHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-9-canal-sbt.png" tvg-ID="TVJornalCaruaru.br",SBTHD    
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:0 tvg-name=“          " tvg-logo="                 " tvg-ID="         ",   
+#EXTINF:0 tvg-name=“CNNBR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/480px-CNN_Brasil.svg.png" tvg-ID="         ", CNNBR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+#EXTINF:0 tvg-name=“          " tvg-logo="                 " tvg-ID="         ",    
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“          " tvg-logo="                 " tvg-ID="         ",    
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
