@@ -48,9 +48,7 @@ https://pbs.lls.cdn.pbs.org/est/index_1920x1080_8000k.m3u8
 #EXTINF:0 tvg-name="PBSKeHD" tvg-logo="https://static.locastnet.org/logo/PuertoRico/HD06.png" tvg-ID="",PBSKeHD
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
 #EXTINF:0 tvg-name="CREAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/640px-Create_TV_network_logo.svg.png" tvg-ID="",CREAT
-https://v-ny.mybtv.net/event/576/768x432.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
-#EXTINF:0 tvg-name="KIDSTVPR" tvg-logo="https://static.locastnet.org/logo/PuertoRico/KIDS.png" tvg-ID="",KIDSTVPR
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
 #EXTINF:0 tvg-name="IONHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/423.png" tvg-ID="76894",IONHD
 http://supersonictv.live:25461/903310/034806/77472
 #EXTINF:0 tvg-name="IONP" tvg-logo="https://i.ibb.co/1d6TzDL/IONPlus-logo-white1.png" tvg-ID="USAJ2200014K9",IONP
@@ -62,11 +60,11 @@ https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
 #EXTINF:0 tvg-name="CHRG" tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png" tvg-ID="CHARGE",CHRG
 https://content-ausw1-up-1.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?pbs=e80cd3b3bb054ce0ba6127066c21a136
 #EXTINF:0 tvg-name="BNCE" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" tvg-ID="",BNCE
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 #EXTINF:0 tvg-name="BNXL" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" tvg-ID="USAJ3400001FM",BNXL
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/85e9b448-4de8-40c5-83f4-5f5fcd811192/1.m3u8
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:0 tvg-name="STRT" tvg-logo="https://www.starttv.com/images/logo_v3.png" tvg-ID=" ",STRT
-http://71.187.29.220:8000/play/a085/index.m3u8
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="AMGTV" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_PNG.png" tvg-ID="",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:0 tvg-name="COMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" tvg-ID="COMET",COMT
@@ -249,8 +247,6 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2220
 #EXTINF:0 tvg-name="FS2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/446.png" tvg-ID="59305",FS2HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2060
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/258px-NBC_Sports_Network_logo.svg.png" tvg-ID="NBCSN",INFO
-https://giant.gfycat.com/WearyCompetentAmethystinepython.mp4
 #EXTINF:0 tvg-name="CBSSNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/285.png" tvg-ID="59250",CBSSNHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2228
 #EXTINF:0 tvg-name="CBSHQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-ID="5e9f2c05172a0f0007db4786",CBSHQ
@@ -291,6 +287,10 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2241
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22264
 #EXTINF:0 tvg-name="SYFYHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/905.png" tvg-ID="58623",SYFYHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2213
+#EXTINF:0 tvg-name="G4TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/G4_current_logo.png/378px-G4_current_logo.png" tvg-ID=" ",G4TV
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+#EXTINF:0 tvg-name="G4SL" tvg-logo="https://images.pluto.tv/channels/61e718a821a4d20007c608ff/colorLogoPNG.png" tvg-ID="61e718a821a4d20007c608ff",G4SL
+https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
 #EXTINF:0 tvg-name="DUST" tvg-logo="https://i.imgur.com/q2jim9n.png" tvg-ID="DUST",DUST
 http://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="TNTHD" tvg-logo="https://lh3.googleusercontent.com/9l837ir9qg99DjNExP5X3exkZ7Y-x9yhGXy_Yax12VamvvxbrKwpKoOCZi4UriMRKMD8Wfov2Krc" tvg-ID="11164",TNTHD
@@ -334,7 +334,7 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-name="LOGO" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/618.png" tvg-ID="",LOGO
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131322
 #EXTINF:0 tvg-name="POPHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/004.png" tvg-ID="",POPHD
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40131
+http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8
 #EXTINF:0 tvg-name="OVATNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ovation_Logo.png" tvg-ID="15807",OVATNHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="NGCHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/235.png" tvg-ID="49438",NGCHD
