@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-name="ETVOD" tvg-logo="https://i.ibb.co/d2L7mmY/ETVOD.png" tvg-ID="ETVOD",ETVOD
 http://192.168.0.9:8080/download/ETVOD12210122.mp4?path=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fio.github.visnkmr.wirelessexplorer%2Ffiles%2F&file=ETVOD12210122.mp4
 #EXTINF:0 tvg-name="WKAQ" tvg-logo="https://static.locastnet.org/logo/PuertoRico/WKAQ-TV.png" tvg-ID="WKAQTV.us" tvg-shift="+4",WKAQ
-https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/index_2596_av-p.m3u8?sd=10&rebase=on
+https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/index_4096_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-name="WAPAHD" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/164.png" tvg-ID="WAPATV.us" tvg-shift="+4",WAPAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5195
 #EXTINF:0 tvg-name="WIPR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PR/166.png" tvg-ID="",WIPR
