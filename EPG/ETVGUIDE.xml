@@ -7,7 +7,7 @@
 <channel id="ODTV">
 <display-name>OnDIRECTV</display-name>
 </channel>
-<channel id="INFOSTAR">
+<channel id="INFOTV1">
 <display-name>INFO</display-name>
 </channel>
 <channel id="INFOETV">
@@ -406,9 +406,9 @@
 <desc lang="en"> </desc>
 </programme>
 
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOSTAR">
-<title lang="en">Noticia Importante sobre los canales STAR Premium</title>
-<title lang="es">Noticia Importante sobre los canales STAR Premium</title>
+<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOTV1">
+<title lang="en">Noticia Importante sobre los canales Disney en LATAM</title>
+<title lang="es">Noticia Importante sobre los canales Disney en LATAM</title>
 </programme>
   
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
