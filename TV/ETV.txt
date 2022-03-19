@@ -922,8 +922,8 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“MLBHD” tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/MLB-hero-image.png" tvg-ID="“,MLBHD
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name=“INFO” tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="INFOSTAR",INFO
-https://giant.gfycat.com/GenerousBaggyArkshell.mp4
+#EXTINF:0 tvg-name=“INFO” tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="INFOTV1",INFO
+https://giant.gfycat.com/DiscretePoliteCardinal.mp4
 #EXTINF:0 tvg-name=“HBOEHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/830.png" tvg-ID="HBOEast.us“,HBOEHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/848
 #EXTINF:0 tvg-name=“HB2EHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" tvg-ID="HBO2East.us“,HB2EHD
