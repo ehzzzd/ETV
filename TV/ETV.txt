@@ -14,7 +14,7 @@ https://d3hbd18bg7e94z.cloudfront.net/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/
 #EXTINF:0 tvg-name="WORO" tvg-logo="https://www8.lunapic.com/editor/working/160012104641842487?5429197725.png" tvg-ID="WORODT.us",WORO
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="PUNT2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PR/179.png" tvg-ID="WKAQDT2.us",PUNT2
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5193
 #EXTINF:0 tvg-name="WVEO" tvg-logo="https://static.locastnet.org/logo/PuertoRico/MEGAUS.png" tvg-ID="",WVEO
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:0 tvg-name="WCBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/873.png" tvg-ID="11331",WCBS
@@ -555,13 +555,13 @@ http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
 #EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="CW.Plus.(WLFI-DT2).Lafayette,.IN.us",CWP
 http://trn03.tulix.tv/teleup-cw-whp/mono.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
-https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/396
 #EXTINF:0 tvg-name="UNIWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049" tvg-shift="+3",UNIWHD
-https://dai.google.com/linear/hls/event/lTSACKfkQNSrCSBM_hE-mg/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/394
 #EXTINF:0 tvg-name="GALAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org",GALAHD
-https://dai.google.com/linear/hls/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5819
 #EXTINF:0 tvg-name="GALAWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org" tvg-shift="+3",GALAWHD
-https://dai.google.com/linear/hls/event/Nx4jutBDR5ekuML_73omhg/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5816
 #EXTINF:0 tvg-name="MEGAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/260.png" tvg-ID="I405.58698.schedulesdirect.org",MEGAHD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:0 tvg-name="TELE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",TELE
@@ -569,11 +569,11 @@ https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/index_4096_av-p.m3u8?sd=
 #EXTINF:0 tvg-name="TELWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org" tvg-shift="+3",TELWHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/349
 #EXTINF:0 tvg-name="TELXT" tvg-logo="https://www.telexitos.com/wp-content/themes/cozi/static/images/telexitos-logo.png" tvg-ID="WNJU2.us",TELXT
-http://71.187.29.220:8000/play/a088/index.m3u8
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="UMASHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",UMASHD
-https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5910
 #EXTINF:0 tvg-name="UNIMWST" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift=" ",UNIMWST
-https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/363
 #EXTINF:0 tvg-name="VPLUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/219.png" tvg-ID="",VPLUS
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/598
 #EXTINF:0 tvg-name=“UVSOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/012.png" tvg-ID="NBCUniversoEste.us",UVSOHD
