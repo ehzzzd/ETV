@@ -390,7 +390,7 @@ http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/140611
 #EXTINF:0 tvg-name="TVLNDHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/351.png" tvg-ID="73541",TVLNDHD
 http://00322.xyz:8000/chapitoorozcoa/6JRK84ZM3Y/131256
 #EXTINF:0 tvg-name="NWSNNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/554.png" tvg-ID="91097",NWSNNHD
-http://supersonictv.live:25461/903310/034806/22184
+http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/28491
 #EXTINF:0 tvg-name="FREFMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/043.png" tvg-ID="10093",FREFMHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/40126
 #EXTINF:0 tvg-name="HALLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/242.png" tvg-ID="HallmarkChannelEast.us",HALLHD
@@ -751,7 +751,7 @@ https://30ce6d2bbb2d4db9aa1802fa364ce6d9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-name=“TNVLA” tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-ID="I651.37232.schedulesdirect.org",TNVLA
 http://mylatinotv.com:8080/chrisdelherbe/8h2ayy494o/1165124
 #EXTINF:0 tvg-name=“UNTL” tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/429.png" tvg-ID="UnivisionTlnovelas.us",UNTL
-http://mylatinotv.com:8080/chrisdelherbe/8h2ayy494o/1160717
+http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/1160717
 #EXTINF:0 tvg-name=“TMTL” tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvg-ID="5cf96cc422df39f1a338d165",TMTL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-name=“PASHD” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/923.png" tvg-ID="",PASHD
