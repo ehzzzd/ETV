@@ -26,7 +26,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27039
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/19165
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
-https://cdn1-6p.teleuptv.net/a7e11418-f40d-4dbe-8ac5-25595d259177/index.m3u8
+http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/28488
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
 https://cdn1-6p.teleuptv.net/411c9d57-737d-4086-b249-68db95332cef/index.m3u8
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
@@ -128,8 +128,6 @@ http://192.168.0.2:12345/VOD%2FMovies%2FBLACKPINK%3A+Light+Up+the+Sky+%282020%29
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/sFLQ9ZR/ETVP.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
 https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/sFLQ9ZR/ETVP.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
-https://giant.gfycat.com/EquatorialTameCougar.mp4
-#EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
 https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
 https://giant.gfycat.com/EquatorialTameCougar.mp4
@@ -594,6 +592,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27568
 #EXTINF:0 tvg-name=“TLFN” tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png?w=117" tvg-ID="60492d5522166000071a73c8",TLFN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-name=“CHVSNT” tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" tvg-ID="61f94a2866401100074e9dee",CHVSNT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0 tvg-name="ATV+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/320px-ATV%2B_logo_2020.png" tvg-ID=“”,ATV+HD
 https://dai.google.com/linear/hls/event/lZxYWB6ERF-xqWt6z3sE4w/master.m3u8
 #EXTINF:0 tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" tvg-ID=“”,TN23
