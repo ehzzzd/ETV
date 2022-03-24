@@ -287,7 +287,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2241
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/22264
 #EXTINF:0 tvg-name="SYFYHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/905.png" tvg-ID="58623",SYFYHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2213
-#EXTINF:0 tvg-name="G4TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/G4_current_logo.png/378px-G4_current_logo.png" tvg-ID=" ",G4TV
+#EXTINF:0 tvg-name="G4TV" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/G4/large_white.png" tvg-ID=" ",G4TV
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="G4SL" tvg-logo="https://images.pluto.tv/channels/61e718a821a4d20007c608ff/colorLogoPNG.png" tvg-ID="61e718a821a4d20007c608ff",G4SL
 https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
