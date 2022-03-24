@@ -6,7 +6,7 @@ https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/index_4096_av-p.m3u8?sd=10&
 #EXTINF:0 tvg-name="WAPAHD" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/164.png" tvg-ID="WAPATV.us" tvg-shift="+4",WAPAHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5195
 #EXTINF:0 tvg-name="WIPR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PR/166.png" tvg-ID="",WIPR
-https://stream-wipr.online/hls/wipr/2_1/index.m3u8?sessId=
+https://streamwipr.pr/hls/wipr/index.m3u8
 #EXTINF:0 tvg-name="WSTE" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/167.png" tvg-ID="",WSTE
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WLII" tvg-logo="https://i.ibb.co/FqfWCgP/WLIIT11.png" tvg-ID="WLIIDT.us" tvg-shift="+4",WLII
