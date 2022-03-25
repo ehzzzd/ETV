@@ -22,7 +22,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27063
 #EXTINF:0 tvg-name="WNBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" tvg-ID="11705",WNBC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/26999
 #EXTINF:0 tvg-name="WNYW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/874.png" tvg-ID="11746",WNYW
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/27039
+http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/25348
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/19165
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
