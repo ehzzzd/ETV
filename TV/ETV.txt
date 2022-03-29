@@ -44,7 +44,7 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/362
 #EXTINF:0 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Antenna_TV_logo.svg" tvg-ID="WPIX2.us",ANTV
 https://v-ny.mybtv.net/event/563/640x480.m3u8?start_time=2020-12-30&end_time=2030-10-21&env=prd&uid=
 #EXTINF:0 tvg-name="PBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/022.png" tvg-ID="WNET",PBS
-https://pbs.lls.cdn.pbs.org/est/index_1920x1080_8000k.m3u8
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-name="PBSKeHD" tvg-logo="https://static.locastnet.org/logo/PuertoRico/HD06.png" tvg-ID="",PBSKeHD
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
 #EXTINF:0 tvg-name="CREAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/640px-Create_TV_network_logo.svg.png" tvg-ID="",CREAT
