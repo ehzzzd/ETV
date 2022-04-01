@@ -620,8 +620,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/46331
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29540
 #EXTINF:0 tvg-name=“STAR” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590935/d8bc018ef45cafd4aaf40c53971f83bb/284x160-Q75_d8bc018ef45cafd4aaf40c53971f83bb.png" tvg-ID="Fox.International.HDTV.(Centroamérica).(FOXHD)..cr",STAR
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29519
-#EXTINF:0 tvg-name=“STRL” tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590928/97b80d15e66a32091a1f9478201e4513/284x160-Q75_97b80d15e66a32091a1f9478201e4513.png" tvg-ID=“Fox.Life.HDTV.(Latin.America).(FOXLF)..cr”,STRL
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/793
+#EXTINF:0 tvg-name=“AXNHD” tvg-logo="https://la.axn.com/sites/la.axn/files/axn_endorsement_8_0_0.png" tvg-ID=“”,AXNHD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29523
 #EXTINF:0 tvg-name=“TDLIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" tvg-ID="5e20b730f2f8d5003d739db7-61e86022307b907b95d63302",TDLIFE
 https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=0aacee66-6caf-52d3-a62e-df544004c665&ads.targetopt=0&ads.plex_token=MczDZnSUgPvY_xWtqZh4&ads.plex_id=61e86022307b907b95d63302&ads.ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_6)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F14.0.3%20Safari%2F605.1.15&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:0 tvg-name=“TLCLA" tvg-logo=“https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/740.png” tvg-ID="TLCLatinoamerica.us" tvg-shift="-5",TLCLA
@@ -654,8 +654,10 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/780
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/928
 #EXTINF:0 tvg-name="FXLA" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590940/e6d5630efc7aa6418fd66df6ae4ee5e7/284x160-Q75_e6d5630efc7aa6418fd66df6ae4ee5e7.png" tvg-ID="FXNorte.us",FXLA
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/781
-#EXTINF:0 tvg-name="FXMLA" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png" tvg-ID="FXMOeste.us",FXMLA
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/782
+#EXTINF:0 tvg-name="SNCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-ID="SonyChannelAndes.us",SNCH
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/773
+#EXTINF:0 tvg-name="SONMOV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" tvg-ID="",SONMOV
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29532
 #EXTINF:0 tvg-name="CCNAL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590886/774cc3ca4f3624aca7621156231dca4c/284x160-Q75_774cc3ca4f3624aca7621156231dca4c.png" tvg-ID="CinecanalOeste.us",CCNAL
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/802
 #EXTINF:0 tvg-name="AMCLA" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/210.png" tvg-ID="",AMCLA
@@ -738,8 +740,6 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1111
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/52316
 #EXTINF:0 tvg-name=“TMCR” tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/cropped-512transp-1-192x192.png" tvg-ID="Telemicro.(Dominican.Republic).(TLMIC)..do",TMCR
 https://telemicro.com.do/wp-content/uploads/2021/08/0505.m3u8
-#EXTINF:0 tvg-name="SNCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-ID="SonyChannelAndes.us",SNCH
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/773
 #EXTINF:0 tvg-name="SCCM" tvg-logo="https://i.ibb.co/xmQ9CWK/BE56-C9-AD-6561-4-BCF-A24-F-E5-CACD0-AA85-F.png" tvg-ID="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05",SCCM
 https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalComedias-1/playlist.m3u8?
 #EXTINF:0 tvg-name=“DCOM” tvg-logo="https://i.ibb.co/dkQSTzZ/TDCOM.png" tvg-ID=“DistritoComedia.mx”,DCOM
