@@ -59,6 +59,7 @@ https://archive.org/download/aedubevs/AEDUBEVS/AEDUBREV2022.mp4
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FWWE%2FPPV%2FWrestleMania+37%2FWWE+WrestleMania+37+%28Night+1%29+-+April+10%2C+2021.mp4
 #EXTINF:-1 tvg-id="ETVODS2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYzYwYmYtNGQxOC00YmVkLTlkYzQtYzFlMGM4MjAyNGQ4XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX720_.jpg" group-title="Sports Events",WWE WrestleMania 37 (Night 2) - April 11, 2021
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FWWE%2FPPV%2FWrestleMania+37%2FWWE+WrestleMania+37+%28Night+2%29+-+April+11%2C+2021.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279357390%27&EntityType=%27Item%27&EntityId=%27178545%27&Width=516&Height=290&ImageUrl=%279357390.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events",WWE WrestleMania 38 (Saturday) - April 2 2022
 #EXTINF:-1 tvg-id="ETVODS3" tvg-logo="x" group-title="Sports Events", NJPW DOMINION (English) - June 6, 2021
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FNJPW%2FNJPW_6TH_June_2021_ENGLISH_HD.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="x" group-title="Sports Events", NJPW DOMINION (Japanese) - June 6, 2021
