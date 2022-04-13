@@ -498,7 +498,8 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:0 tvg-name="ACCUWEATHH" tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/accuweather-partner-professional-services-azure/resources/56c71bb9-c1ec-4160-a51e-1b2e00d6c841/1099377540332979175_1099377540332979175" tvg-ID="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01",ACCUWEATHH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=0aacee66-6caf-52d3-a62e-df544004c665&dnt=0&X-Plex-Token=test&channelId=6151d74593dbf246f0843f01
 #EXTINF:0 tvg-name="WEATN" tvg-logo="https://sc.dish.com/shared/images/station-logos/WN.png" tvg-ID="",WEATN
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8#EXTINF:0 tvg-name="FXWX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png" tvg-ID="",FXWX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:0 tvg-name="FXWX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png" tvg-ID="",FXWX
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:0 tvg-name="WEATHHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/755.png" tvg-ID="58812",WEATHHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/2205
@@ -507,8 +508,6 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="GEB" tvg-logo="Logo N/A" tvg-ID="",GEB
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="INSPHD" tvg-logo="Logo N/A" tvg-ID="",INSPHD
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
-#EXTINF:0 tvg-name="LWUSA" tvg-logo="Logo N/A" tvg-ID="",LWUSA
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="DYSTR" tvg-logo="Logo N/A" tvg-ID="",DYSTR
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
