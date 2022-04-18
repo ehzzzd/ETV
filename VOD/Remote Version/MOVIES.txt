@@ -26,6 +26,9 @@ http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/145027.mp4
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbVe05Cq_P9ms7S3fGSzF9Sz0MBB4JLBhXMBw9PzXndbg7dgPn" group-title="Movies",Conan O'Brien - Can't Stop
 http://192.168.0.13:12345/VOD%2FMovies%2FConan+O%27Brien+-+Cant+Stop+%282011%29.mp4
 
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeQbM3pSdCmgpUSR584jFPWRhXEBw9o3DPMBkBFG-a6SFxSAh2" group-title="Movies", Cuando Los Hijos Regresan
+https://archive.org/download/clhrmx/CLHR.mkv
+
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5t5u-NFz05_jk9e-P0hScZAVWTLtR4AoUw1969nFtFfye1sQ5" group-title="Movies",Encanto (2021)
 http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/149508.mkv
 
