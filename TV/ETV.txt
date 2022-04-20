@@ -566,7 +566,7 @@ https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/index_4096_av-p.m3u8?sd=
 #EXTINF:0 tvg-name="TELWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org" tvg-shift="+3",TELWHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/349
 #EXTINF:0 tvg-name="TELXT" tvg-logo="https://www.telexitos.com/wp-content/themes/cozi/static/images/telexitos-logo.png" tvg-ID="WNJU2.us",TELXT
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
 #EXTINF:0 tvg-name="UMASHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",UMASHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5910
 #EXTINF:0 tvg-name="UNIMWST" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift=" ",UNIMWST
