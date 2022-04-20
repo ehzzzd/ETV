@@ -26,7 +26,7 @@ http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/25348
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/19165
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
-http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/28488
+https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
 https://cdn1-6p.teleuptv.net/411c9d57-737d-4086-b249-68db95332cef/index.m3u8
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
