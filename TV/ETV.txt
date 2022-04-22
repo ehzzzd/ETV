@@ -50,21 +50,21 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m
 #EXTINF:0 tvg-name="CREAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/640px-Create_TV_network_logo.svg.png" tvg-ID="",CREAT
 https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
 #EXTINF:0 tvg-name="IONHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/423.png" tvg-ID="76894",IONHD
-http://supersonictv.live:25461/903310/034806/77472
+https://v-ny.theus6tv.tk/hls/31.1/playlist.m3u8
 #EXTINF:0 tvg-name="IONP" tvg-logo="https://i.ibb.co/1d6TzDL/IONPlus-logo-white1.png" tvg-ID="USAJ2200014K9",IONP
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="CWSED" tvg-logo="https://static.wikia.nocookie.net/arrow/images/2/28/CW_Seed_logo.png/revision/latest/scale-to-width-down/290?cb=20210316223517&path-prefix=es" tvg-ID="",CWSED
 https://cwseedlive.cwtv.com/ingest/playlist432p.m3u8
-#EXTINF:0 tvg-name="WXWZ" tvg-logo="" tvg-ID="",WXWZ
-https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+#EXTINF:0 tvg-name="WXWZ" tvg-logo="http://mastvpr.com/wp-content/uploads/2016/12/mastvpr-logo.png" tvg-ID="",WXWZ
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:0 tvg-name="CHRG" tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png" tvg-ID="CHARGE",CHRG
 https://content-ausw1-up-1.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?pbs=e80cd3b3bb054ce0ba6127066c21a136
 #EXTINF:0 tvg-name="BNCE" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" tvg-ID="",BNCE
-https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
+https://v-ny.theus6tv.tk/hls/31.2/playlist.m3u8
 #EXTINF:0 tvg-name="BNXL" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" tvg-ID="USAJ3400001FM",BNXL
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 #EXTINF:0 tvg-name="STRT" tvg-logo="https://www.starttv.com/images/logo_v3.png" tvg-ID=" ",STRT
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://v-ny.theus6tv.tk/hls/2.2/playlist.m3u8
 #EXTINF:0 tvg-name="AMGTV" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_PNG.png" tvg-ID="",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:0 tvg-name="COMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" tvg-ID="COMET",COMT
@@ -74,7 +74,7 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-name="BUZR" tvg-logo="https://www.k3colorado.com/img/icons/buzzr.png" tvg-ID="Buzzr",BUZR
 https://buzzrota-web.amagi.tv/playlist720.m3u8
 #EXTINF:0 tvg-name="COZI" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" tvg-ID="",COZI
-http://71.187.29.220:8000/play/a088/index.m3u8
+https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
 #EXTINF:0 tvg-name="QVC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/127.png" tvg-ID="QVC",QVC
 https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
 #EXTINF:0 tvg-name="HSN" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/551.png" tvg-ID="HSN",HSN
