@@ -548,7 +548,7 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WGN" tvg-logo="https://wgntv.com/wp-content/uploads/sites/5/2020/02/cropped-WGN_Logo_Jumbo-3.png" tvg-ID="WGN.Chicago.(LOCAL).us",WGN
 http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
 #EXTINF:0 tvg-name="KTLA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ktla.png" tvg-ID="KTLA.Los.Angeles,.CA.us",KTLA
-http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
+https://v-la.mybtv.net/live/164.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="CWP" tvg-logo="http://cwplustv.com/wp-content/uploads/2018/12/logo_blue121318.png" tvg-ID="CW.Plus.(WLFI-DT2).Lafayette,.IN.us",CWP
 http://trn03.tulix.tv/teleup-cw-whp/mono.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
@@ -578,7 +578,7 @@ http://xdgo.live:8080/mami2212002/As4DHpLBvA/27013
 #EXTINF:0 tvg-name="WAPAUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/577.png" tvg-ID="44322",WAPAUS
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name=“AZA” tvg-logo="https://www.directv.com/images/logos/channels/dark/large/348.png" tvg-ID="AztecaUSEste.mx",AZA
-https://v-pi.mybtv.net/event/338/1280x720.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
+https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name=“ESRTV” tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" tvg-ID="EstrellaTVEast.us",ESRTV
 https://dai.google.com/linear/hls/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
 #EXTINF:0 tvg-name=“ESNW” tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" tvg-ID="",ESNW
