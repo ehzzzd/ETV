@@ -228,8 +228,14 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDNJ1cfEpJdXN_WuyIbxWueap8kt7DiQlQYwlwFbPnYydglst4" group-title="Music Bank K-Chart",E1092 - AB6IX, ELAST, ITZY, Nik, OMEGA X, STAYC, Norazo, LUMINOUS , SKYLE, Ciipher, ICHILLN, Yang Yo-seop, Wonho, Yoon Seo-ryung, Key, PURPLEKISS, Hot Issue
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FMusic+Bank+K-Chart%2F2020+-+2021+%28Soobin+%26+Arin%29%2FMusic+Bank+E1092+-+AB6IX%2C+ELAST%2C+ITZY%2C+Nik%2C+OMEGA+X%2C+STAYC%2C+Norazo%2C+LUMINOUS+%2C+SKYLE%2C+Ciipher%2C+ICHILLN%2C+Yang+Yo-seop%2C+Wonho%2C+Yoon+Seo-ryung%2C+Key%2C+PURPLEKISS%2C+Hot+Issue.mp4
 
-#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZKfkQElQJJBLLKmngUWEmXdSJQX0-h9Uw4xC72PtAGYAmAyF" group-title="Nevertheless", 
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQZKfkQElQJJBLLKmngUWEmXdSJQX0-h9Uw4xC72PtAGYAmAyF" group-title="Nevertheless", Coming Soon
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiMAg75DZEGj021dlJhiAeKTtuBFDolGPz6Q6pey6P69boCH9c" group-title="NXT", Coming Soon
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", April 21 2022
+https://archive.org/download/nxuk_20220423/NXUK/NXT%20UK%20-%20April%2021%2C%202022.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQruKctWwybssse4D3aH8JfAoKtudVyuZ8xG_j8aA0CPf67BRUy" group-title="Rebelde (2004)", S1E01
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FRebelde+%282004%29%2FSeason+1%2FRebelde+2004+S01E01.mp4
