@@ -1194,7 +1194,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 #EXTINF:0 tvg-name=“MBCKR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1024px-Munhwa_Broadcasting_Company.svg.png" tvg-ID=" ",MBCKR
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-name=“MBCA" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" tvg-ID="MBC.kr",MBCA   
-https://v-la.mybtv.net/event/68/768x432.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
+https://v-la.mybtv.net/live/68.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name=“KBS1HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/KBS1.png/revision/latest?cb=20181106015556" tvg-ID="         ",KBS1HD    
 http://itskoi.dothome.co.kr/kbs.php?id=11
 #EXTINF:0 tvg-name=“KBS2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kbs_2_logo.svg/1024px-Kbs_2_logo.svg.png" tvg-ID="         ",KBS2HD    
@@ -1202,7 +1202,7 @@ http://itskoi.dothome.co.kr/kbs.php?id=12
 #EXTINF:0 tvg-name=“KBSWHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" tvg-ID="KBS.World.HD.my",KBSWHD    
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:0 tvg-name=“KBSA" tvg-logo="https://i.ibb.co/qs2hVNK/filedownload.png" tvg-ID="KBSWorld.kr",KBSA
-https://v-ca.mybtv.net/event/133/768x432.m3u8?start_time=2019-10-21&end_time=2030-10-21&env=prd&uid=
+https://v-ca.mybtv.net/live/133.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name=“TBSKR" tvg-logo="http://tbs.seoul.kr/common/images/gnb/logo.png" tvg-ID="",TBSKR
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:0 tvg-name="TBSKRFX" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/37/KRBB500003XT_20210413T065446.png" tvg-ID="",TBSKRFX
