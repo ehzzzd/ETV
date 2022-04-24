@@ -124,6 +124,9 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FENHYPEN%2FENHYPEN+
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="x" group-title="Concerts & Music Specials", Marc Anthony - Una Noche
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FMarc+Anthony%2FMarc+Anthony+-+Una+Noche+%28Full+Concert%29.mp4
 
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://concerts.weverse.io/event-management/concerts.weverse.io/assets/events/1645428134855_SVT-6FM-Poster-ON-1920_960.jpg" group-title="Concerts & Music Specials", 2022 SVT 6TH FAN MEETING <SEVENTEEN in CARAT LAND>
+https://archive.org/download/svtcl/2022%20SVT%206TH%20FAN%20MEETING%20%3CSEVENTEEN%20in%20CARAT%20LAND%3E%20March%2027%2C%202022.mp4
+
 #EXTINF:-1 tvg-id="ETVODC13" tvg-logo="https://static.wikia.nocookie.net/txt/images/8/8e/2021_TXT_FANLIVE_SHINE_X_TOGETHER_Poster.png/revision/latest?cb=20210724073457" group-title="Concerts & Music Specials", 2021 TOMORROW X TOGETHER FANLIVE - SHINE X TOGETHER
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2F2021+TOMORROW+X+TOGETHER+FANLIVE+-+SHINE+X+TOGETHER+%28D-1%29.mp4
 #EXTINF:-1 tvg-id="ETVODC14" tvg-logo="https://dareae.info/wp-content/uploads/2021/02/TOMORROW-X-TOGETHER-FANLIVE-SHINE-X-TOGETHER-JAPAN-EDITION.jpg" group-title="Concerts & Music Specials", TOMORROW X TOGETHER FANLIVE - SHINE X TOGETHER (D-2) JAPAN EDITION
