@@ -115,6 +115,8 @@ https://archive.org/download/BPTDOS/BPTDOS-LAFULL.mp4
 https://archive.org/download/BPTDOS/BPTDOS-SEOULD1.mp4
 #EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://concerts.weverse.io/event-management/concerts.weverse.io/assets/events/1644988574796_pcBTS_PTD_SEOUL.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - SEOUL (D-3 - March 13 2022)
 https://archive.org/download/BPTDOS/BPTDOS-SEOULD3.mp4
+#EXTINF:-1 tvg-id="ETVODC10" tvg-logo="https://concerts.weverse.io/event-management/concerts.weverse.io/assets/events/1647846693147_ver3_BTS_PTD_LV_PC.jpg" group-title="Concerts & Music Specials", BTS PERMISSION TO DANCE ON STAGE - LAS VEGAS (D-4 - April 16 2022)
+https://archive.org/download/BPTDOS/BPTDOS-LVFULL.mp4
 
 #EXTINF:-1 tvg-id="ETVODC11" tvg-logo="https://kt.wowkorea.jp/img/dispatch/0/2034/5819_l.jpg" group-title="Concerts & Music Specials", 2021 ENHYPEN FIRST FANMEETING EN-CONNECT
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FENHYPEN%2FENHYPEN+FIRST+FANMEETING+EN-CONNECT.mp4
