@@ -5,7 +5,7 @@ http://192.168.0.9:8080/download/ETVOD12210122.mp4?path=%2Fstorage%2Femulated%2F
 https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/index_4096_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-name="WAPAHD" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/164.png" tvg-ID="WAPATV.us" tvg-shift="+4",WAPAHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5195
-#EXTINF:0 tvg-name="WIPR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PR/166.png" tvg-ID="",WIPR
+#EXTINF:0 tvg-name="WIPR" tvg-logo="https://raw.githubusercontent.com/hernandez756/ETV/main/EPG/LOGOS/wipr-white-cobranded-logo-9ql3KZc.png" tvg-ID="",WIPR
 https://streamwipr.pr/hls/wipr/index.m3u8
 #EXTINF:0 tvg-name="WSTE" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/167.png" tvg-ID="",WSTE
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
