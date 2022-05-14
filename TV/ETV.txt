@@ -2,17 +2,17 @@
 #EXTINF:0 tvg-name="ETVOD" tvg-logo="https://i.ibb.co/d2L7mmY/ETVOD.png" tvg-ID="ETVOD",ETVOD
 http://192.168.0.9:8080/download/ETVOD12210122.mp4?path=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fio.github.visnkmr.wirelessexplorer%2Ffiles%2F&file=ETVOD12210122.mp4
 #EXTINF:0 tvg-name="WKAQ" tvg-logo="https://static.locastnet.org/logo/PuertoRico/WKAQ-TV.png" tvg-ID="WKAQTV.us" tvg-shift="+4",WKAQ
-https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/index_4096_av-p.m3u8?sd=10&rebase=on
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:0 tvg-name="WAPAHD" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/164.png" tvg-ID="WAPATV.us" tvg-shift="+4",WAPAHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5195
 #EXTINF:0 tvg-name="WIPR" tvg-logo="https://raw.githubusercontent.com/hernandez756/ETV/main/EPG/LOGOS/wipr-white-cobranded-logo-9ql3KZc.png" tvg-ID="",WIPR
-https://streamwipr.pr/hls/wipr/index.m3u8
+http://xdgo.live:8080/mami2212002/As4DHpLBvA/5194
 #EXTINF:0 tvg-name="WSTE" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/167.png" tvg-ID="",WSTE
 https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="WLII" tvg-logo="https://i.ibb.co/FqfWCgP/WLIIT11.png" tvg-ID="WLIIDT.us" tvg-shift="+4",WLII
 https://d3hbd18bg7e94z.cloudfront.net/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=4500000.m3u8
 #EXTINF:0 tvg-name="WORO" tvg-logo="https://www8.lunapic.com/editor/working/160012104641842487?5429197725.png" tvg-ID="WORODT.us",WORO
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://videodelivery.net/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwNjA3ZWM0ZTk5NDNhYTcxNzYwMDA3OTRjZjVhYTM0MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjUyNTk2NDY1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.owh3NvU_rN6tNJBl8YuLhS9J6G0TrDaWwvDVPDmSQKeiIraQm9RepxclkgD8NDIy7i-lPjrwX_keZIIIOaC_f4573qV14OFwGu2-227H5aEzv9MBpvFefyEcf6131kuHl8VvwyfvyImKw11PIyElQu7kiEtmFnCJ3dd1Mh1VHck_PFmHk-RGFnNM8r3L0CKcVnhZi_4cC1gL79RmnFnrlw1ektoxioGzJ6s2FX0VBGRUYewEWk3jrrc8eO_So5GhtjTGt2kLnN8O4jiHlJnzXVkycNsxxdzfuJAN5qlLt_M7cNSrUDhgJcD6Fr4rBqK26gxFbsEqXFV0sZ4lOVIgoQ/manifest/video.m3u8
 #EXTINF:0 tvg-name="PUNT2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PR/179.png" tvg-ID="WKAQDT2.us",PUNT2
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5193
 #EXTINF:0 tvg-name="WVEO" tvg-logo="https://static.locastnet.org/logo/PuertoRico/MEGAUS.png" tvg-ID="",WVEO
