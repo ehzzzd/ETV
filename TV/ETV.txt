@@ -198,7 +198,7 @@ https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 type="stream" channelId="-1" logo="http://widget.ottplayer.es/upictures/373ba21b-c528-4265-9263-e378d57a7834.png" size="Medium" background="#103a8c", ETV Premiere - Movie Name Here
 https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 tvg-name="ETVSMX" tvg-logo="Logo N/A" tvg-ID="",ETVSMX
-https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
+https://github.com/hernandez756/ETV/raw/main/TV/ETVCHS/ETVSMX.mp4
 #EXTINF:0 tvg-name="ESPNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179",ESPNHD
 https://cdn1-7p.teleuptv.net/2b6137ae-6b4e-48f7-ac91-903ea24658d2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="ESPNWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179" tvg-shift="-7",ESPNWHD
