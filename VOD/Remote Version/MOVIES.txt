@@ -131,7 +131,7 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FMarc+Anthony%2FMar
 
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="x" group-title="Concerts & Music Specials", MDO
 
-#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://i.ibb.co/DrZk6gv/1652478261-northstar-homepage-1200x800-2.png" group-title="Concerts & Music Specials", North Star Boys at The Roxy Theater - May 22, 2022
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://i.ibb.co/DrZk6gv/1652478261-northstar-homepage-1200x800-2.png" group-title="Concerts & Music Specials", North Star Boys at The Roxy Theater - May 22 2022
 https://archive.org/details/NSBCONS/North+Star+Boys+at+The+Roxy+Theater+-+May+22%2C+2022.mp4
 
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://concerts.weverse.io/event-management/concerts.weverse.io/assets/events/1645428134855_SVT-6FM-Poster-ON-1920_960.jpg" group-title="Concerts & Music Specials", 2022 SVT 6TH FAN MEETING <SEVENTEEN in CARAT LAND>
