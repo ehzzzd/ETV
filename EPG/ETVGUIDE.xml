@@ -362,7 +362,7 @@
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
 </programme>
   
-<programme start="20220529010000 +0000" stop="20220529043000 +0000" channel="ETVPPV1">
+<programme start="20220529010000 +0000" stop="20220530043000 +0000" channel="ETVPPV1">
     <title>AEW Double or Nothing 2022</title>
     <desc>"From Las Vegas" NEW - All Elite Wrestling world champ Adam Page faces CM Punk to headline this annual event in Las Vegas. Also: the men's and women's Owen Hart Cup Tournament finals.</desc>
     <category>HD</category>
@@ -372,7 +372,7 @@
     <live />
 </programme>
   
-<programme start="20220529043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
+<programme start="20220530043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
 <title lang="en">No PPV's airing or available at this time</title>
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
 </programme>
