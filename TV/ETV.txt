@@ -90,7 +90,7 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 #EXTINF:0 tvg-name="INFO" tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="INFOETV",INFO
 https://giant.gfycat.com/ReadyMeanJellyfish.mp4
 #EXTINF:0 tvg-name="ETVPPV1" tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="ETVPPV1",ETVPPV1
-https://vsd70.mycdn.me/hls/2650509609551.m3u8/sig/lAEiAUIrFSQ/expires/1653952132438/srcIp/24.50.225.48/clientType/0/srcAg/SAFARI_MAC/mid/3931661475407/2650509609551_high/index.m3u8
+https://oklive6-13.vkuser.net/hls/2660101065295.m3u8/sig/ZQGVZN5H0CA/expires/1653955176548/srcIp/24.50.225.48/urls/45.136.21.59/clientType/0/srcAg/SAFARI_MAC/mid/3941630156367/2660101065295_high/index.m3u8
 #EXTINF:0 tvg-name="ETVPPV2" tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="ETVPPV2",ETVPPV2
 https://vsd115.mycdn.me/hls/2216518748762.m3u8/sig/jLiWugCdVBM/expires/1646702886114/srcIp/24.50.225.96/clientType/1/srcAg/CHROME_MAC/mid/3365782101594/video.m3u8?p
 #EXTINF:0 tvg-name="ETVP1" tvg-logo="https://resizing.flixster.com/FUmc7GfTjvVPD4Uh4AFWeCgtzd4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzg0MTkxOGY0LWJmMzgtNGZkNS1iMTUwLWNkN2JiNGExNWQyNy5qcGc=" tvg-ID="ETVP1",ETVP1
@@ -820,7 +820,7 @@ http://xdgo.live:8080/mami2212002/As4DHpLBvA/5189
 #EXTINF:0 tvg-name=“CLSP” tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" tvg-ID=“”,CLSP
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 #EXTINF:0 tvg-name=“PPV” tvg-logo="https://i.ibb.co/6R55d5w/ETVGUIDELOGO.png" tvg-ID="ETVPPV1",PPV
-https://vsd70.mycdn.me/hls/2650509609551.m3u8/sig/lAEiAUIrFSQ/expires/1653952132438/srcIp/24.50.225.48/clientType/0/srcAg/SAFARI_MAC/mid/3931661475407/2650509609551_high/index.m3u8
+https://oklive6-13.vkuser.net/hls/2660101065295.m3u8/sig/ZQGVZN5H0CA/expires/1653955176548/srcIp/24.50.225.48/urls/45.136.21.59/clientType/0/srcAg/SAFARI_MAC/mid/3941630156367/2660101065295_high/index.m3u8
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV1",STREV
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/53828
 #EXTINF:0 tvg-name=“STREV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/320px-Star%2B_logo.svg.png" tvg-ID="STREV2",STREV
