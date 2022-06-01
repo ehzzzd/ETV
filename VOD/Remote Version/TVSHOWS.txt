@@ -272,6 +272,21 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://flxt.tmsimg.com/assets/p184854_b_v8_at.jpg" group-title="SpongeBob SquarePants",
 
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S0E01
+https://archive.org/download/sxfeps/S01E01%20-%20OPERATION%20STRIX.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E02
+https://archive.org/download/sxfeps/S01E02%20-%20SECURE%20A%20WIFE.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E03
+https://archive.org/download/sxfeps/S01E03%20-%20PREPARE%20FOR%20THE%20INTERVIEW.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E04
+https://archive.org/download/sxfeps/S01E04%20-%20THE%20PRESTIGIOUS%20SCHOOL%27S%20INTERVIEW.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E05
+https://archive.org/download/sxfeps/S01E05%20-%20WILL%20THEY%20PASS%20OR%20FAIL%3F.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E06
+https://archive.org/download/sxfeps/S01E06%20-%20THE%20FRIENDSHIP%20SCHEME.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title=“SPY X FAMILY”, S01E07
+https://archive.org/download/sxfeps/S01E07%20-%20THE%20TARGET%27S%20SECOND%20SON.mkv
+
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://m.media-amazon.com/images/I/71OB1IywjLL._AC_SY679_.jpg" group-title="Stranger Things", 
 
 
