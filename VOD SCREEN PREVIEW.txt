@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvgrrfLcIlcVr6kIpJrdgdzedjbuWsCRG6zoEYNVt55V0l5ts" group-title="Recently Added TV Shows",30 Rock
-
-#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWAxpM2GfD8JZboC5rXCOVLoH-d_iRBFlCVpM9BBqbnaGCkiyJ" group-title="Recently Added TV Shows",AEW Dynamite
-
-#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYFaWOJGy1Zu59EyD0NVmEBLTVJ8aRtElZIDELN8H_YtW6Ldy" group-title="Recently Added TV Shows",AEW Rampage
-
-#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqNvCU_kbn_ZJIH141bJx0aWYQKCDOCmkrw6OsMhrvckB6IZox" group-title="Recently Added TV Shows",Big Time Rush
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Recently Added TV Shows",Heartstopper
 
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://estrellatv.com/img/programs/MC-636X918.webp" group-title="Recently Added TV Shows",MasterChef Latinos
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV7Pk-kQf9X03gSrwEIYAp5AXLsZ4DSfcx4NmbSFpkwnrNEWhj" group-title="Recently Added TV Shows",NXT UK
+
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="Recently Added TV Shows",SPY X FAMILY
 
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSudidhR3TCIzRUMURMV-cOjOYzNH7oTrlVJAUs-goIdhgxKKD" group-title="Recently Added Movies",2 Fast 2 Furious
 
