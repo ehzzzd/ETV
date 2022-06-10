@@ -275,9 +275,9 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="SPY X FAMILY", S0E01
 https://media-files3.bunkr.is/S01E01---OPERATION-STRIX-SLIV8oZd.mkv
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="SPY X FAMILY", S01E02
-https://media-files3.bunkr.is/S01E02---SECURE-A-WIFE-ZAsSdZub.mkv
+https://media-files3.bunkr.is/S01E02---SECURE-A-WIFE-Y19ZBkq9.mp4
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="SPY X FAMILY", S01E03
-https://media-files3.bunkr.is/S01E03-Va1014xJ.mp4
+https://media-files3.bunkr.is/S01E03---PREPARE-FOR-THE-INTERVIEW-9sLzNbBY.mp4
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="SPY X FAMILY", S01E04
 https://media-files3.bunkr.is/S01E04---THE-PRESTIGIOUS-SCHOOL'S-INTERVIEW-71svbeXW.mkv
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/7c186f0cbe78d53cc327520b3b390a821649089667_full.jpg" group-title="SPY X FAMILY", S01E05
