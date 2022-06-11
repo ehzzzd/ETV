@@ -1177,6 +1177,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 http://main1.mov3.co/hls/main.m3u8
 #EXTINF:0 tvg-name=“TBSJP" tvg-logo="https://www.tbs.co.jp/um/v8/img/gh_logo.svg" tvg-ID="",TBSJP
 https://tbs.mov3.co/hls/tbs.m3u8
+#EXTINF:0 tvg-name=“WOWCI" tvg-logo="https://github.com/hernandez756/ETV/raw/main/EPG/LOGOS/WOWOW_cinema.png" tvg-ID="",WOWCI
+http://203.162.235.41:16916
 #EXTINF:0 tvg-name=“WEANW" tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg" tvg-ID="",WEANW
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:0 tvg-name=“CCTV4" tvg-logo="https://videotron.com/vtrn/images/channels/logos/cctv4/cctv4_moyenne.png" tvg-ID="         ",CCTV4    
