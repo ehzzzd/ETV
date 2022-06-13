@@ -18,23 +18,23 @@ http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/5193
 #EXTINF:0 tvg-name="WVEO" tvg-logo="https://static.locastnet.org/logo/PuertoRico/MEGAUS.png" tvg-ID="",WVEO
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:0 tvg-name="WCBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/873.png" tvg-ID="11331",WCBS
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/27063
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTINF:0 tvg-name="WNBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" tvg-ID="11705",WNBC
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/26999
+https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 #EXTINF:0 tvg-name="WNYW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/874.png" tvg-ID="11746",WNYW
-http://mylatinotv.com:8080/jorgemartinez02/z0TUOYmllE/25348
+https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/19165
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
 https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
-https://cdn1-6p.teleuptv.net/411c9d57-737d-4086-b249-68db95332cef/index.m3u8
+https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/391
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:0 tvg-name="WNJU" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",WNJU
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/347
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
 #EXTINF:0 tvg-name="NBCLX" tvg-logo="https://www.lx.com/wp-content/themes/nbc-station-lx/img/a-branding-logo@3x.png" tvg-ID="WNBC3.us",NBCLX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8?
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 #EXTINF:0 tvg-name="ABCLOC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Localish/showimages/92e021f68d1af2b6dc597c2be47b6b16/700x234-Q80_92e021f68d1af2b6dc597c2be47b6b16.png" tvg-ID="",ABCLOC
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8
 #EXTINF:0 tvg-name="WLNY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/WLNY-TV_logo.svg/320px-WLNY-TV_logo.svg.png" tvg-ID=" ",WLNY
@@ -554,7 +554,7 @@ http://trn03.tulix.tv/teleup-cw-whp/mono.m3u8
 #EXTINF:0 tvg-name="UNIEHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",UNIEHD
 http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/396
 #EXTINF:0 tvg-name="UNIWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049" tvg-shift="+3",UNIWHD
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/394
+https://v-la.mybtv.net/live/178.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="GALAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org",GALAHD
 http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/5819
 #EXTINF:0 tvg-name="GALAWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/460.png" tvg-ID="I404.68367.schedulesdirect.org" tvg-shift="+3",GALAWHD
@@ -562,15 +562,15 @@ http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/5816
 #EXTINF:0 tvg-name="MEGAHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/260.png" tvg-ID="I405.58698.schedulesdirect.org",MEGAHD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:0 tvg-name="TELE" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",TELE
-https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/index_4096_av-p.m3u8?sd=10&rebase=on
+http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/347
 #EXTINF:0 tvg-name="TELWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org" tvg-shift="+3",TELWHD
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/349
+https://v-la.mybtv.net/live/267.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="TELXT" tvg-logo="https://www.telexitos.com/wp-content/themes/cozi/static/images/telexitos-logo.png" tvg-ID="WNJU2.us",TELXT
 https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
 #EXTINF:0 tvg-name="UMASHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",UMASHD
 http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/5910
 #EXTINF:0 tvg-name="UNIMWST" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift=" ",UNIMWST
-http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/363
+https://v-la.mybtv.net/live/299.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="VPLUS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/219.png" tvg-ID="",VPLUS
 http://xdgo.live:8080/jacosta0468/CLuWZVmP9b/598
 #EXTINF:0 tvg-name=“UVSOHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/012.png" tvg-ID="NBCUniversoEste.us",UVSOHD
