@@ -178,6 +178,23 @@ https://archive.org/download/HTSTPR/S01E08%20-%20Boyfriend.mkv
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbV2NYacCutix5u2FE91_IvleaywYY6YV2HMJJ0sQ_tjzmVn1X" group-title="I-LAND",Episode 1
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FI-LAND%2FI-LAND+-+Episode+1.mp4
 
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E01
+https://media-files3.bunkr.is/S01E01---Ryomen-Sukuna-HjvCzbzE.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E02
+https://media-files3.bunkr.is/S01E02-For-Myself-pwDJHVv9.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E03
+https://media-files3.bunkr.is/S01E03---Girl-of-Steel-L1wRgMrL.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E04
+https://media-files3.bunkr.is/S01E04---Curse-Womb-Must-Die-T1xEU3cg.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E05
+https://media-files3.bunkr.is/S01E05---Curse-Womb-Must-Die--II--AtMRkQXL.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E06
+https://media-files3.bunkr.is/S01E06---After-Rain-hvV66J9n.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E07
+https://media-files3.bunkr.is/S01E07---Assault-0Imv5JeY.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_main.jpg" group-title="Jujutsu Kaisen", S01E08
+https://media-files3.bunkr.is/S01E08---Boredom-2eo5cjIv.mkv
+
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxv2WoODC05kbgEpRMlgxZqhpzVQCHHs1WbjzkPuFYm0sPehN" group-title="Impractical Jokers",Medium, Well Done
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FImpractical+Jokers%2FImpractical+Jokers+%28Volume+10%29%2FImpractical+Jokers+%28Volume+10%29+-+Medium%2C+Well+Done.mp4
 
