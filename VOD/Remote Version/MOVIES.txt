@@ -88,6 +88,10 @@ https://archive.org/download/nxto_20220304/NXTOSAD21-D2.mp4
 https://archive.org/download/nxto_20220304/NXTO36.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279313248%27&EntityType=%27Item%27&EntityId=%27173200%27&Width=674&Height=380&ImageUrl=%279313248.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT WarGames 2021
 https://archive.org/download/nx2.0/NX2.0/NX20WG21.mp4
+#EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279358314%27&EntityType=%27Item%27&EntityId=%27178523%27&Width=1920&Height=1080&ImageUrl=%279358314.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT Stand & Deliver 2022
+https://archive.org/download/nx2.0/NXT%20Stand%20%26%20Deliver%202022.mp4
+#EXTINF:-1 tvg-id="ETVODS4" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279391502%27&EntityType=%27Item%27&EntityId=%27181341%27&Width=1920&Height=1080&ImageUrl=%279391502.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events", NXT In Your House 2022
+https://media-files4.bunkr.is/NXT-In-Your-House-2022-bH0bjBok.mp4
 
 
 #EXTINF:-1 tvg-id="ETVODC0" tvg-logo="https://venewlive.com/_nuxt/img/Weverse_Mobile2.b6baab5.jpg" group-title="Concerts & Music Specials", 2022 Weverse-con
