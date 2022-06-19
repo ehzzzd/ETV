@@ -158,6 +158,23 @@ http://192.168.0.13:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2F
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkYzRjOTktMjMzMC00MWM2LWE5N2EtNTBkYjE5YzIxZmEyXkEyXkFqcGdeQXVyMzg2MDc2Nzk@._V1_UY1200_CR753,0,630,1200_AL_.jpg" group-title="Guerreros (Puerto Rico)",Cobras vs. Leones Recargado - 14/10/2021
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FGuerreros+%28Puerto+Rico%29%2F2021%2FGuerreros+%28Puerto+Rico%29+Cobras+vs.+Leones+Recargado+-+14+de+octubre+de+2021.mp4
 
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E01 - Meet
+https://archive.org/download/HTSTPR/HTSTPR/S01E01%20-%20Meet.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E02 - Crush
+https://archive.org/download/HTSTPR/S01E02%20-%20Crush.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E3 - Kiss
+https://archive.org/download/HTSTPR/S01E03%20-%20Kiss.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E4 - Secret
+https://archive.org/download/HTSTPR/S01E04%20-%20Secret.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E5 - Friend
+https://archive.org/download/HTSTPR/S01E05%20-%20Friend.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E6 - Girls
+https://archive.org/download/HTSTPR/S01E06%20-%20Girls.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E7 - Bully
+https://archive.org/download/HTSTPR/S01E07%20-%20Bully.mkv
+#EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF7SMKgaymhUXYzAJ_B-N7B0SQrOTfCbwCsQpdg_0kymR-2DaS" group-title="Heartstopper",S01E8 - Boyfriend
+https://archive.org/download/HTSTPR/S01E08%20-%20Boyfriend.mkv
+
 #EXTINF:-1 tvg-id="ETVODS1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbV2NYacCutix5u2FE91_IvleaywYY6YV2HMJJ0sQ_tjzmVn1X" group-title="I-LAND",Episode 1
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FI-LAND%2FI-LAND+-+Episode+1.mp4
 
