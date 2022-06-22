@@ -272,6 +272,21 @@ https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 https://archive.org/download/nxuk_20220423/NXUK/NXT%20UK%20-%20April%2021%2C%202022.mp4
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", April 28 2022
 https://archive.org/download/nxuk_20220423/NXUK/NXT%20UK%20-%20April%2021%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", May 5 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20May%205%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", May 12 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20May%2012%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", May 19 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20May%2019%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", May 26 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20May%2026%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", June 2 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20June%202%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", June 9 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20June%209%2C%202022.mp4
+#EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22-mBq2qbrgDLQySO_VJ7grRbWaqCImo-JxHjlJPE4X7SzMcL" group-title="NXT UK", June 16 2022
+https://archive.org/download/nxuk_20220423/NXT%20UK%20-%20June%2016%2C%202022.mp4
+
 
 #EXTINF:-1 tvg-id="ETVODC1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQruKctWwybssse4D3aH8JfAoKtudVyuZ8xG_j8aA0CPf67BRUy" group-title="Rebelde (2004)", S1E01
 http://192.168.0.13:12345/VOD%2FTV+Shows%2FRebelde+%282004%29%2FSeason+1%2FRebelde+2004+S01E01.mp4
