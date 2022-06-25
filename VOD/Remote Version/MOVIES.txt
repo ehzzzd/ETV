@@ -68,6 +68,8 @@ http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FWWE%2FPPV%2FWrestleMania+37%2FWW
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279373599%27&EntityType=%27Item%27&EntityId=%27180078%27&Width=674&Height=380&ImageUrl=%279373599.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events",WWE WrestleMania Backlash - May 8 2022
 https://archive.org/download/WMBL22/WWE%20WrestleMania%20Backlash%202022%20%28Broadcast%20Version%29%20-%20May%208%2C%202022.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wwe9.com/shain/v1/dataservice/ResizeImage/$value?ImageId=%279389734%27&EntityType=%27Item%27&EntityId=%27181347%27&Width=1920&Height=1080&ImageUrl=%279389734.jpg%27&device=%27web_browser%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="Sports Events",WWE Hell in a Cell 2022 - June 5 2022
+https://archive.org/download/HIAC22/Hell%20in%20a%20Cell%202022%20-%20June%205%2C%202022.mp4
 #EXTINF:-1 tvg-id="ETVODS3" tvg-logo="x" group-title="Sports Events", NJPW DOMINION (English) - June 6, 2021
 http://192.168.0.13:12345/VOD%2FPro-Wrestling%2FNJPW%2FNJPW_6TH_June_2021_ENGLISH_HD.mp4
 #EXTINF:-1 tvg-id="ETVODS4" tvg-logo="x" group-title="Sports Events", NJPW DOMINION (Japanese) - June 6, 2021
@@ -149,3 +151,18 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHE
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2FTOMORROW+X+TOGETHER+LIVE+%3CACT-BOY%3E+%28October+3%2C+2021%29.mp4
 #EXTINF:-1 tvg-id="ETVODC15" tvg-logo="https://www.venewlive.com/concerts/txt-act-boy/txt20211003/hero_mobile.JPG" group-title="Concerts & Music Specials", TOMORROW X TOGETHER LIVE <ACT-BOY> ''MULTI-VIEW'' (October 3 2021)
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2FTOMORROW+X+TOGETHER+LIVE+%3CACT-BOY%3E+%27%27MULTI-VIEW%27%27+%28October+3%2C+2021%29.mp4
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Blood Sweat & Tears: Japanese Edition
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Mic Drop (Japanese ver.)
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Airplane pt.2 (Japanese ver.)
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Lights
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Stay Gold: Music Video Making Film
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Film Out: Music Video Making Film
+
+#EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Jacket Making Film
+
