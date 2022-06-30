@@ -153,16 +153,16 @@ http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHE
 http://192.168.0.13:12345/VOD%2FConcerts+%26+Music+Specials%2FTOMORROW+X+TOGETHER%2FTOMORROW+X+TOGETHER+LIVE+%3CACT-BOY%3E+%27%27MULTI-VIEW%27%27+%28October+3%2C+2021%29.mp4
 
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Blood Sweat & Tears: Japanese Edition
-
+https://archive.org/download/BTSTBJP/title_t00.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Mic Drop (Japanese ver.)
-
+https://archive.org/download/BTSTBJP/title_t01.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Airplane pt.2 (Japanese ver.)
-
+https://archive.org/download/BTSTBJP/title_t02.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Making of Music Video: Lights
-
+https://archive.org/download/BTSTBJP/title_t03.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Stay Gold: Music Video Making Film
-
+https://archive.org/download/BTSTBJP/title_t04.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Film Out: Music Video Making Film
-
+https://archive.org/download/BTSTBJP/title_t05.mkv
 #EXTINF:-1 tvg-id="ETVODC12" tvg-logo="https://m.media-amazon.com/images/I/8148Nkl+HIS._SL1500_.jpg" group-title="Artist Collection",BTS: THE BEST - Jacket Making Film
-
+https://archive.org/download/BTSTBJP/title_t06.mkv
