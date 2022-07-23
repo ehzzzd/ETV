@@ -32,6 +32,9 @@ https://archive.org/download/clhrmx/CLHR.mkv
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5t5u-NFz05_jk9e-P0hScZAVWTLtR4AoUw1969nFtFfye1sQ5" group-title="Movies",Encanto (2021)
 http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/149508.mkv
 
+#EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLDQhWRgkBIg70euC1uSQEdm2P2FS70aLypKIJFAWbOGiqeDBJ" group-title="Movies",Ghostbusters: Afterlife
+https://media-files4.bunkr.is/Ghostbusters-Afterlife-(2021)-6QVkbBEl.mp4
+
 #EXTINF:-1 tvg-id="ETVODM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANrEj3vjRr4yMAA0qqgzOTSoFzUKxHr2KhuNxRSrZw6tL2k6D" group-title="Movies", Jumanji: The Next Level
 http://00322.xyz:8000/movie/Luissgt/IJJD0Y54D8/145719.mp4
 
