@@ -18,21 +18,21 @@ http://xdgo.live:8080/mami2212002/As4DHpLBvA/5193
 #EXTINF:0 tvg-name="WVEO" tvg-logo="https://static.locastnet.org/logo/PuertoRico/MEGAUS.png" tvg-ID="",WVEO
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:0 tvg-name="WCBS" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/873.png" tvg-ID="11331",WCBS
-https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+https://v-ny.mybtv.net/live/545.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WNBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/875.png" tvg-ID="11705",WNBC
-https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+https://v-ny.mybtv.net/live/548.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WNYW" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/874.png" tvg-ID="11746",WNYW
-https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
+https://v-ny.mybtv.net/live/550.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/018.png" tvg-ID="11259",WABC
-https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+https://v-ny.mybtv.net/live/554.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WPIX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/677.png" tvg-ID="WPIX.New.York.(SUPERSTATION).us",WPIX
-https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
+https://v-ny.mybtv.net/live/562.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="MYN" tvg-logo="https://lh3.googleusercontent.com/l93z4nsaqSmMscRWP-xk9DwH1xPcCj-XYvq_1uwvXZVZmuIRO3u86M2b3FqgqfnJmSHt6vBNJs1Lhw" tvg-ID="",MYN
-https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8
+https://v-ny.mybtv.net/live/559.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WXTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/421.png" tvg-ID="68049",WXTV
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="WNJU" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org",WNJU
-https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="NBCLX" tvg-logo="https://www.lx.com/wp-content/themes/nbc-station-lx/img/a-branding-logo@3x.png" tvg-ID="WNBC3.us",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 #EXTINF:0 tvg-name="ABCLOC" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Localish/showimages/92e021f68d1af2b6dc597c2be47b6b16/700x234-Q80_92e021f68d1af2b6dc597c2be47b6b16.png" tvg-ID="",ABCLOC
@@ -48,9 +48,9 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-name="PBSKeHD" tvg-logo="https://static.locastnet.org/logo/PuertoRico/HD06.png" tvg-ID="",PBSKeHD
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
 #EXTINF:0 tvg-name="CREAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/640px-Create_TV_network_logo.svg.png" tvg-ID="",CREAT
-https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
+https://v-ny.mybtv.net/live/576.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="IONHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/423.png" tvg-ID="76894",IONHD
-https://v-ny.theus6tv.tk/hls/31.1/playlist.m3u8
+https://v-ny.mybtv.net/live/608.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="IONP" tvg-logo="https://i.ibb.co/1d6TzDL/IONPlus-logo-white1.png" tvg-ID="USAJ2200014K9",IONP
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="CWSED" tvg-logo="https://static.wikia.nocookie.net/arrow/images/2/28/CW_Seed_logo.png/revision/latest/scale-to-width-down/290?cb=20210316223517&path-prefix=es" tvg-ID="",CWSED
@@ -566,7 +566,7 @@ http://xdgo.live:8080/mami2212002/As4DHpLBvA/347
 #EXTINF:0 tvg-name="TELWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/228.png" tvg-ID="I406.77606.schedulesdirect.org" tvg-shift="+3",TELWHD
 https://v-la.mybtv.net/live/267.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="TELXT" tvg-logo="https://www.telexitos.com/wp-content/themes/cozi/static/images/telexitos-logo.png" tvg-ID="WNJU2.us",TELXT
-https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
+https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
 #EXTINF:0 tvg-name="UMASHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift="-3",UMASHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5910
 #EXTINF:0 tvg-name="UNIMWST" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/393.png" tvg-ID="I408.68040.schedulesdirect.org" tvg-shift=" ",UNIMWST
