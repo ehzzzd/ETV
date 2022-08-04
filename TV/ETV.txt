@@ -200,13 +200,13 @@ https://giant.gfycat.com/EquatorialTameCougar.mp4
 #EXTINF:0 tvg-name="ETVSMX" tvg-logo="Logo N/A" tvg-ID="",ETVSMX
 https://github.com/hernandez756/ETV/raw/main/TV/ETVCHS/ETVSMX.mp4
 #EXTINF:0 tvg-name="ESPNHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179",ESPNHD
-https://cdn1-7p.teleuptv.net/2b6137ae-6b4e-48f7-ac91-903ea24658d2/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/mami2212002/As4DHpLBvA/22449
 #EXTINF:0 tvg-name="ESPNWHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/002.png" tvg-ID="10179" tvg-shift="-7",ESPNWHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/30194
 #EXTINF:0 tvg-name="ESPNUHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/602.png" tvg-ID="",ESPNUHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/2377
 #EXTINF:0 tvg-name="ESPN2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/616.png" tvg-ID="45507",ESPN2HD
-https://cdn1-7p.teleuptv.net/886b567e-1a50-48a5-8f02-e173fae01a25/tracks-v1a1/mono.m3u8
+http://xdgo.live:8080/mami2212002/As4DHpLBvA/2379
 #EXTINF:0 tvg-name="NFLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/342.png" tvg-ID="45399",NFLHD
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/340
 #EXTINF:0 tvg-name="MLBHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/855.png" tvg-ID="62081",MLBHD
@@ -220,9 +220,9 @@ http://xdgo.live:8080/mami2212002/As4DHpLBvA/339
 #EXTINF:0 tvg-name="WAPAD2" tvg-logo="https://static.locastnet.org/logo/PuertoRico/WTIN2.png" tvg-ID="WAPADT2.us",WAPAD2
 http://xdgo.live:8080/mami2212002/As4DHpLBvA/5581
 #EXTINF:0 tvg-name="WWEN" tvg-logo="https://officialpsds.com/imageview/7y/2n/7y2njk_large.png?1521316562" tvg-ID="91306",WWEN
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/25807
+http://00322.xyz:8000/joelgarcia19840120/E1PL8UG/145482
 #EXTINF:0 tvg-name="AEWS" tvg-logo="https://static.wixstatic.com/media/94b54e_f31adf9fcafc453fbc9deabd1c59917b~mv2.png/v1/fill/w_158,h_80,al_c,usm_0.66_1.00_0.01/aew-official-logo.png" tvg-ID="5f4d1697f10a0e000798ed8d",AEWS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=0e026368-9f16-4c04-b8e0-09eacc740141&clientModelNumber=na&deviceDNT=false&deviceId=0e026368-9f16-4c04-b8e0-09eacc740141&deviceLat=19.4360&deviceLon=-99.1446&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=VE&serverSideAds=true&sessionID=b2dbdca0-49e5-11eb-b132-0242ac110002&sid=b2dbdca0-49e5-11eb-b132-0242ac110002&userId=
+https://archive.org/download/etvnav-42020/ETVNAV42020.mp4
 #EXTINF:0 tvg-name="IMPHD" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-ID="IMPACT Wrestling",IMPHD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-name="AAAHD" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" tvg-ID=" ",AAAHD
