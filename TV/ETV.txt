@@ -748,7 +748,7 @@ https://a58265c9d06d4c91ac4b8071b890ddaa.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-name="SCNV" tvg-logo="https://i.ibb.co/Jjqm2Db/645665-FA-1861-470-F-AD11-08-C9-EF2-CE939.png" tvg-ID="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0f",SCNV
 https://30ce6d2bbb2d4db9aa1802fa364ce6d9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalNovelas-1/playlist.m3u8?
 #EXTINF:0 tvg-name=“TNVLA” tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-ID="I651.37232.schedulesdirect.org",TNVLA
-http://mylatinotv.com:8080/chrisdelherbe/8h2ayy494o/1165124
+http://00322.xyz:8000/joelgarcia19840120/E1PL8UG/3798
 #EXTINF:0 tvg-name=“UNTL” tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/429.png" tvg-ID="UnivisionTlnovelas.us",UNTL
 http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/67319
 #EXTINF:0 tvg-name=“TMTL” tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvg-ID="5cf96cc422df39f1a338d165",TMTL
