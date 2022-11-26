@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-name=" " tvg-logo="https://lh3.googleusercontent.com/-kuJubgN2C8c/WfYApzZZGhI/AAAAAAAAIO4/Yla2-sNS_fQ2UWSDBOpoRNLmp8oRszy5QCMYCGAYYCw/SportsFacts_AppIcon-01.png" tvg-ID="",Did the Yankees win?
 #EXTINF:0 tvg-name=" " tvg-logo="https://lh3.googleusercontent.com/76UDJ6XqRVuL6STzakWSdC9INyzpDGWWqGKxN9xfiavtP6XAMRJpVYnaR53NPWDagU8lJpjMWArrQQ" tvg-ID="",Open Netflix
-#EXTINF:0 tvg-name=" " tvg-logo="https://i.ibb.co/g9BPzqK/BTSPTDCOLBANNER.png" tvg-ID="",Will it rain today?
+#EXTINF:0 tvg-name=" " tvg-logo="https://lh3.googleusercontent.com/LhY-jd71nq7Y2fzzmbkvudnUtbBX9vF1VugI1_ygzderv_lTh3AQpUfY0RVL3_fz_ZtRq5cjLco" tvg-ID="",What's the temperature?
 #EXTINF:0 tvg-name=" " tvg-logo="https://lh3.googleusercontent.com/39X8CP9AOVbJJLOxxVNbSK0-O7EUA9mPVQeHT27tqlb06LB_Cz7FlKqUK1boADcjMk8Rx8zL0sk" tvg-ID="",Movie showtimes today
 #EXTINF:0 tvg-name=" " tvg-logo="https://lh3.googleusercontent.com/L9McjmtBWk-9qWHuqy-rLJENgmodFNdchgiFPPxJTuXuavAoE5awlZArr4LbqdSbNfhkFWYLBHvs" tvg-ID="",What's the latest news?
