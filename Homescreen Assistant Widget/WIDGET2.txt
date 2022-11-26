@@ -1,2 +1,2 @@
 #EXTM3U
-#EXTINF:0 tvg-name=" " tvg-logo="" tvg-ID="",Go right to return to [B]HOME[/B]
+#EXTINF:0 tvg-name=" " tvg-logo="" tvg-ID="",go right to return [B]HOME[/B]
