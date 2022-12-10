@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:0 tvg-name=" " tvg-logo="https://occ-0-3686-3934.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQZTuP4Sox5cHYuXI_erV5IeUWIpLBpEjCQlgzqsqt3bj_Dt9sLtGaKMn-3fYeYPtTtyOJQ3a__thpq19-kV0vMlBRZdNr7fB3cQ.jpg?r=18a" tvg-ID="",Wednesday
 plugin://plugin.video.etvod/
-
