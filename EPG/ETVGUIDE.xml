@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://example.org/xmltv.dtd">
-<tv generator-info-name="ETV" generator-info-url="https://raw.githubusercontent.com/hernandez756/ETV/main/EPG/ETVGUIDE.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20221226054915 +0800"  generator-info-name="none" generator-info-url="none">
 
 <channel id="WAEH">
 <display-name>WAEH</display-name>
