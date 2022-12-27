@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://example.org/xmltv.dtd">
-<tv generator-info-name="ETV" generator-info-url="http://192.168.0.11:12345">
+<tv generator-info-name="ETV" generator-info-url="https://raw.githubusercontent.com/hernandez756/ETV/main/EPG/ETVGUIDE.xml">
 
 <channel id="WAEH">
 <display-name>WAEH</display-name>
@@ -15,6 +15,9 @@
 </channel>
 <channel id="ETVOD">
 <display-name>ETVOD</display-name>
+</channel>
+<channel id="ETVONE">
+<display-name>ETV1</display-name>
 </channel>
 <channel id="ETVSMX">
 <display-name>ETVSMX</display-name>
@@ -223,16 +226,25 @@
 
 
 
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="WAEH">
+<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="WAEH">
 <title lang="en">EH Radio</title>
 <desc lang="en">WAEH-FM Programming.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
   
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVOD">
+<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVOD">
 <title lang="en">ETV On Demand</title>
 <title lang="es">ETV On Demand</title>
 <desc lang="en">Check out and see what's new on demand!</desc>
 <desc lang="es">Disfruta del mejor contenido On Demand en ETV!</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme>
+  
+<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVONE">
+<title lang="en”>ETV Uno</title>
+<desc lang="en”>Mosaico.</desc>
+<category lang="en”>Interactive</category>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
@@ -254,8 +266,9 @@
 <desc lang="en">Record-shattering Korean girl band BLACKPINK tell their story — and detail the hard-fought journey of the dreams and trials behind their meteoric rise.</desc>
 </programme>
 
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ETVSMX">
+<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVSMX">
 <title lang="en">ETV SportsMix</title>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
   
 <programme start="20210530213052 +0000" stop="20220130000000 +0000" channel="ETVPPV1">
