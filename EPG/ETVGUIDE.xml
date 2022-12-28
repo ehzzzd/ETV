@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "http://www.example.org/xmltv.dtd">
+<tv generator-info-name="ETV" generator-info-url="http://www.example.org">
 <channel id="WAEH">
 <display-name>WAEH</display-name>
 </channel>
@@ -31,6 +30,8 @@
 <channel id="ETVPPV2">
 <display-name>ETVPPV2</display-name>
 </channel>
+
+
 
 <programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="WAEH">
 <title lang="en">EH Radio</title>
