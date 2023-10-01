@@ -58,8 +58,8 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 <programme start="20220530043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
-<title lang="en">No PPV's airing or available at this time</title>
-<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+<title lang="en">AEW WrestleDream</title>
+<desc lang="en">All Elite Wrestling presents WrestleDream, October 1 LIVE on PPV from the Climate Pledge Arena in Seattle.</desc>
 </programme>
 <programme start="20220130043000 +0000" stop="20240130223052 +0000" channel="ETVPPV2">
 <title lang="en">No PPV's airing or available at this time</title>
