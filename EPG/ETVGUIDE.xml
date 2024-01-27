@@ -57,7 +57,7 @@
 <title lang="en">ETV SportsMix</title>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
-<programme start="20231226043000 +0000" stop="20240128223052 +0000" channel="ETVPPV1">
+<programme start="20221226213052 +0000" stop="20240128223052 +0000" channel="ETVPPV1">
 <title lang="en">WWE Royal Rumble 2024</title>
 <icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p26280779_b_h8_ac.jpg"/>
 <desc lang="en">Top stars from RAW and SmackDown divisions of the WWE battle in the 37th annual Royal Rumble. From St. Petersburg, Fla.</desc>
@@ -67,7 +67,7 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
 </programme>  
-<programme start="20231226043000 +0000" stop="20240128223052 +0000" channel="ETVPPV2">
+<programme start="20221226213052 +0000" stop="20240128223052 +0000" channel="ETVPPV2">
 <title lang="en">WWE Royal Rumble 2024 (ESPAÑOL)</title>
 <icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p26280779_b_h8_ac.jpg"/>
 <desc lang="en">Top stars from RAW and SmackDown divisions of the WWE battle in the 37th annual Royal Rumble. From St. Petersburg, Fla.</desc>
