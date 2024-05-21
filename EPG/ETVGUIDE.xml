@@ -57,26 +57,18 @@
 <title lang="en">ETV SportsMix</title>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
-<programme start="20221226213052 +0000" stop="20240128223052 +0000" channel="ETVPPV1">
-<title lang="en">WWE Royal Rumble 2024</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p26280779_b_h8_ac.jpg"/>
-<desc lang="en">Top stars from RAW and SmackDown divisions of the WWE battle in the 37th annual Royal Rumble. From St. Petersburg, Fla.</desc>
+<programme start="20220530043000 +0000" stop="20240130223052 +0000" channel="ETVPPV1">
+<title lang="en">WWE King and Queen of the Ring</title>
+<desc lang="en">From Jeddah Superdome in Jeddah, Saudi Arabia. Tune in here this Saturday at 1PM AST/EST (EAST US/PR time). Replay will be available On Demand hours after the event.</desc>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27257208_b_h10_ab.jpg"/>
 </programme>
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
-<title lang="en">No PPV's airing or available at this time</title>
-<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
-<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
-</programme>  
-<programme start="20221226213052 +0000" stop="20240128223052 +0000" channel="ETVPPV2">
-<title lang="en">WWE Royal Rumble 2024 (ESPAÑOL)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p26280779_b_h8_ac.jpg"/>
-<desc lang="en">Top stars from RAW and SmackDown divisions of the WWE battle in the 37th annual Royal Rumble. From St. Petersburg, Fla.</desc>
-</programme>  
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV2">
-<title lang="en">No PPV's airing or available at this time</title>
-<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
-<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
-</programme>  
+
+<programme start="20220530043000 +0000" stop="20250130223052 +0000" channel="ETVPPV2">
+<title lang="en">WWE King and Queen of the Ring (ESPAÑOL)</title>
+<desc lang="en">From Jeddah Superdome in Jeddah, Saudi Arabia. Tune in here this Saturday at 1PM AST/EST (EAST US/PR time). Replay will be available On Demand hours after the event.</desc>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27257208_b_h10_ab.jpg"/>
+</programme>
+
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
 <title lang="en">ETV Information Channel</title>
 <title lang="es">Canal Informativo ETV</title>
