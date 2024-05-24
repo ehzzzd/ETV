@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
-https://vod-adaptive-ak.vimeocdn.com/exp=1716394054~acl=%2F692a0ef3-ca53-42d0-bd57-69f9107298b1%2F%2A~hmac=904576f82c8f4e5d4e467a40f4977b143bff090050796f16cdf6c0dfc77d41ef/692a0ef3-ca53-42d0-bd57-69f9107298b1/sep/video/2b465ae1,5ef3971c,66399e68,8a7692f9,eeab8214/audio/2f53f1cb,5793d3f9/subtitles/155497053-Espa%C3%B1ol%20%28autogenerados%29-es-x-autogen-cc/master.m3u8?external-subs=1&f=dash&query_string_ranges=1&subcache=1&subtoken=a9515f83760b27ecc4607f2c8ae873f5bbb8c139a85a57da2b578c8b2c20b7cc
+https://live-api.vimeocdn.com/sessions/d6d47dd8-2e82-4404-9b78-109ce9bcc0bf/playlist/hls.m3u8?cdn=akamai&json=1&~exp=1716591600&~id=player&~sig=IlHNKz2t_WF1ftDk-imTsq5otz35tOn5SGs9X84sXi0
