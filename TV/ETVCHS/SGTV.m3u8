@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
-https://live-api.vimeocdn.com/sessions/d6d47dd8-2e82-4404-9b78-109ce9bcc0bf/playlist/hls.m3u8?cdn=akamai&json=1&~exp=1716591600&~id=player&~sig=IlHNKz2t_WF1ftDk-imTsq5otz35tOn5SGs9X84sXi0
+https://live-ak.vimeocdn.com/exp=1716595085~acl=%2Fd6d47dd8-2e82-4404-9b78-109ce9bcc0bf%2F%2A~hmac=e19a75116515110c464406d9c21ead0d34c886a05f0f74d2a0ea215370a64141/d6d47dd8-2e82-4404-9b78-109ce9bcc0bf/hls.m3u
