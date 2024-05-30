@@ -30,6 +30,9 @@
 <channel id="ETVPPV2">
 <display-name>ETVPPV2</display-name>
 </channel>
+<channel id="WXSC">
+<display-name>WXSC</display-name>
+</channel>
 
 
 
@@ -81,6 +84,11 @@
 <title lang="es">ETV SERIES</title>
 <desc lang="en">Series Potal on ETV</desc>
 <desc lang="es">Portal de series en ETV.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="WXSC">
+<title lang="en">Local Weather</title>
+<desc lang="en">Up-to-the-minute local forecasts and current conditions from around your area (Aguadilla, Moca, Rincón, Mayagüez).</desc>
 </programme>
              
 </tv>
