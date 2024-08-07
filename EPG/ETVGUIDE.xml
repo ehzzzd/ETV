@@ -12,6 +12,9 @@
 <channel id="INFOETV">
 <display-name>INFO</display-name>
 </channel>
+<channel id="ETVTEST">
+<display-name>TEST</display-name>
+</channel>
 <channel id="ETVOD">
 <display-name>ETVOD</display-name>
 </channel>
@@ -125,6 +128,12 @@
 <title lang="en">2024 Paris Olympics (24/7 - Channel 6)</title>
 <icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
 <desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVTEST”>
+<title lang="en">Guía Olímpica de Canales</title>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+<desc lang="en">Mosaico.</desc>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
