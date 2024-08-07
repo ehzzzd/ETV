@@ -30,6 +30,24 @@
 <channel id="ETVPPV2">
 <display-name>ETVPPV2</display-name>
 </channel>
+<channel id="ETVXTR1">
+<display-name>ETVXTR1</display-name>
+</channel>
+<channel id="ETVXTR2”>
+<display-name>ETVXTR2</display-name>
+</channel>
+<channel id="ETVXTR3”>
+<display-name>ETVXTR3</display-name>
+</channel>
+<channel id="ETVXTR4”>
+<display-name>ETVXTR4</display-name>
+</channel>
+<channel id="ETVXTR5”>
+<display-name>ETVXTR5</display-name>
+</channel>
+<channel id="ETVXTR6”>
+<display-name>ETVXTR6</display-name>
+</channel>
 <channel id="WXSC">
 <display-name>WXSC</display-name>
 </channel>
@@ -71,6 +89,42 @@
 <title lang="en">WWE Money in the Bank (ESPAÑOL)</title>
 <icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27407018_b_h10_aa.jpg"/>
 <desc lang="en">Desde Scotiabank Arena en Toronto. Sintoniza los canales 47 (inglés), 48 y 413 este sábado a las 8PM AST/EST (hora de EE. UU./PR). La repetición estará disponible On Demand horas después del evento.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR1">
+<title lang="en">2024 Paris Olympics (24/7 - Channel 1)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR2">
+<title lang="en">2024 Paris Olympics (24/7 - Channel 2)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR3”>
+<title lang="en">2024 Paris Olympics (24/7 - Channel 3)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR4”>
+<title lang="en">2024 Paris Olympics (24/7 - Channel 4)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR5”>
+<title lang="en">2024 Paris Olympics (24/7 - Channel 5)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR6”>
+<title lang="en">2024 Paris Olympics (24/7 - Channel 6)</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
+<desc lang="en">From Paris, France.</desc>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
