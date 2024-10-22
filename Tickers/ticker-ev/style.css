@@ -27,13 +27,8 @@ body { margin: 0; }
   padding: 0 1rem;
   font-size: 1.5rem;
   color: white;   
-  font-family: normal;
-}
-
-.barlow-semi-condensed-medium {
-  font-family: "Barlow Semi Condensed", sans-serif;
-  font-weight: 500;
-  font-style: normal;
+  font-weight: normal;
+	font-family: Bahnschrift,sans-serif;
 }
 
 /* Transition */
