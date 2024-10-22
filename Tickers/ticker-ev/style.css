@@ -25,7 +25,7 @@ body { margin: 0; }
 .item {
   display: inline-block;
   padding: 0 1rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: white;   
   font-weight: 800;
   font-family: sans-serif;
