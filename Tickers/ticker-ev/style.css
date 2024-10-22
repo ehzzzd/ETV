@@ -28,7 +28,10 @@ body { margin: 0; }
   font-size: 1.5rem;
   color: white;   
   font-weight: 800;
-  font-family: sans-serif;
+  @font-face {
+  font-family: DIN Alternate Medium;
+  src: url(https://raw.githubusercontent.com/ehzzzd/ETV/refs/heads/main/Tickers/ticker-ev/Fonts/DIN%20Alternate%20Medium.ttf);
+  font-weight: regular;
 }
 
 /* Transition */
