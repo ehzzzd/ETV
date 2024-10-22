@@ -30,9 +30,9 @@ body { margin: 0; }
   font-family: normal;
 }
 
-.din-alternate-medium {
-  font-family: "Din Alternate Medium", sans-serif;
-  font-weight: ;
+.barlow-semi-condensed-medium {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
   font-style: normal;
 }
 
