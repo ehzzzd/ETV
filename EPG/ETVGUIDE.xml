@@ -83,57 +83,15 @@
 </programme> 
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
-<title lang="en">No PPV's airing or available at this time</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27407018_b_h10_aa.jpg"/>
-<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+<title lang="en">WWE Crown Jewel 2024</title>
+<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p28485073_b_h8_aa.jpg"/>
+<desc lang="en">Cody Rhodes vs. Gunther; Nia Jax vs. Liv Morgan; Seth Rollins vs. Bronson Reed; Randy Orton vs. Kevin Owens; LA Knight vs. Andrade vs. Carmelo Hayes. From Mohammed Abdo Arena in Riyadh, Saudi Arabia.</desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV2">
 <title lang="en">No PPV's airing or available at this time</title>
 <icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27407018_b_h10_aa.jpg"/>
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR1">
-<title lang="en">2024 Paris Olympics (24/7 - Channel 1)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR2">
-<title lang="en">2024 Paris Olympics (24/7 - Channel 2)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR3”>
-<title lang="en">2024 Paris Olympics (24/7 - Channel 3)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR4”>
-<title lang="en">2024 Paris Olympics (24/7 - Channel 4)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR5”>
-<title lang="en">2024 Paris Olympics (24/7 - Channel 5)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVXTR6”>
-<title lang="en">2024 Paris Olympics (24/7 - Channel 6)</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p25697013_b_h8_aj.jpg"/>
-<desc lang="en">From Paris, France.</desc>
-</programme>
-
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVTEST”>
-<title lang="en">Guía Olímpica de Canales</title>
-<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
-<desc lang="en">Mosaico.</desc>
 </programme>
 
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
