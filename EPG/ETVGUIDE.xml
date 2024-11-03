@@ -54,6 +54,12 @@
 <channel id="WXSC">
 <display-name>WXSC</display-name>
 </channel>
+<channel id="ETVP51">
+<display-name>ELECHQ</display-name>
+</channel>
+<channel id="ETVNMX">
+<display-name>ELECHQ</display-name>
+</channel>
 
 
 
@@ -110,6 +116,18 @@
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="WXSC">
 <title lang="en">Local Weather</title>
 <desc lang="en">Up-to-the-minute local forecasts and current conditions from around your area (Aguadilla, Moca, Rincón, Mayagüez).</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP51">
+<title lang="en">ELECTION HQ - Puerto Rico</title>
+<icon src="https://images-cdn2.welcomesoftware.com/assets/Election+HQ.jpg/Zz1hMTcxNDEzZTk2NDAxMWVmYWFmYTVhMDhiMjNlNTAzOQ==?"/>
+<desc lang="en">Tu destino de referencia para las elecciones de 2024 en Puerto Rico. Sigue las contiendas para Gobernador, Cámara de Representantes, Senado y la Presidencia de los Estados Unidos.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVNMX">
+<title lang="en">ELECTION HQ</title>
+<icon src="https://images-cdn2.welcomesoftware.com/assets/Election+HQ.jpg/Zz1hMTcxNDEzZTk2NDAxMWVmYWFmYTVhMDhiMjNlNTAzOQ==?"/>
+<desc lang="en">Your go-to destination for the 2024 elections. Track Presidential, House, and Senate races.</desc>
 </programme>
              
 </tv>
