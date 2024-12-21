@@ -75,7 +75,7 @@
 <desc lang="es">Disfruta del mejor contenido On Demand en ETV!</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
-<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVONE">
+<programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVONE">
 <title lang="en">ETV Uno</title>
 <desc lang="en">Mosaico.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
@@ -119,15 +119,15 @@
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP51">
-<title lang="en">ELECTION HQ - Puerto Rico</title>
-<icon src="https://images-cdn2.welcomesoftware.com/assets/Election+HQ.jpg/Zz1hMTcxNDEzZTk2NDAxMWVmYWFmYTVhMDhiMjNlNTAzOQ==?"/>
-<desc lang="en">Tu destino de referencia para las elecciones de 2024 en Puerto Rico. Sigue las contiendas para Gobernador, Cámara de Representantes, Senado y la Presidencia de los Estados Unidos.</desc>
+<title lang="en">OFF AIR</title>
+<icon src=""/>
+<desc lang="en">Please, check back later!</desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVNMX">
-<title lang="en">ELECTION HQ</title>
-<icon src="https://images-cdn2.welcomesoftware.com/assets/Election+HQ.jpg/Zz1hMTcxNDEzZTk2NDAxMWVmYWFmYTVhMDhiMjNlNTAzOQ==?"/>
-<desc lang="en">Your go-to destination for the 2024 elections. Track Presidential, House, and Senate races.</desc>
+<title lang="en">NEWS MIX</title>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+<desc lang="en">News.</desc>
 </programme>
              
 </tv>
