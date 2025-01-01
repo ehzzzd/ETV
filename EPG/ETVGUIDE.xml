@@ -63,6 +63,9 @@
 <channel id="WWEN">
 <display-name>WWEN</display-name>
 </channel>
+<channel id="ETVSP1">
+<display-name>ETV UNO</display-name>
+</channel>
 
 
 
@@ -81,6 +84,11 @@
 <programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVONE">
 <title lang="en">ETV Uno</title>
 <desc lang="en">Mosaico.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme>
+<programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVSP1">
+<title lang="en">ETV Uno | ETV Sports 1</title>
+<desc lang="en">Miércoles 1 - Elf (1:00pm), Shrek 2 (3:00pm) | Lunes - WWE Raw (9:00pm AST/PR) | Jueves - ECW on TNN (6:00pm AST/PR), TNA Wrestling (10:00pm AST/PR)</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
