@@ -75,12 +75,12 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR1">
-<title lang="en">La Casa de Los Famosos: All Star | Cámara 1</title>
+<title lang="en">La Casa de Los Famosos: All Stars | Cámara 1</title>
 <desc lang="en">Espía en vivo todo lo que hacen los famosos en la casa.</desc>
 <icon src="https://posters.clarotvpr.com/epg_images/assets/p28512991_b_h8_ag.jpg"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR2">
-<title lang="en">La Casa de Los Famosos: All Star | Cámara 2</title>
+<title lang="en">La Casa de Los Famosos: All Stars | Cámara 2</title>
 <desc lang="en">Espía en vivo todo lo que hacen los famosos en la casa.</desc>
 <icon src="https://posters.clarotvpr.com/epg_images/assets/p28512991_b_h8_ag.jpg"/>
 </programme> 
@@ -112,7 +112,7 @@
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
 <title lang="en">WWE WrestleMania 41: Night 1</title>
 <icon src="https://posters.clarotvpr.com/epg_images/assets/p29802649_b_h8_aa.jpg"/>
-<desc lang="en">Roman Reigns vs. CM Punk vs. Seth Rollins; Gunther vs. Jey Uso, world heavyweight championship.</desc>
+<desc lang="en">LIVE at 7pm AST/PR! Roman Reigns vs. CM Punk vs. Seth Rollins; Gunther vs. Jey Uso, world heavyweight championship.</desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV2">
