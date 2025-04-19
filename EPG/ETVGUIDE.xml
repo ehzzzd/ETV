@@ -69,10 +69,20 @@
 
 
 
-<programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="WAEH">
+<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="WAEH">
 <title lang="en">EH Radio</title>
 <desc lang="en">WAEH-FM Programming.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR1">
+<title lang="en">La Casa de Los Famosos: All Star | Cámara 1</title>
+<desc lang="en">Espía en vivo todo lo que hacen los famosos en la casa.</desc>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p28512991_b_h8_ag.jpg"/>
+</programme> 
+<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR2">
+<title lang="en">La Casa de Los Famosos: All Star | Cámara 2</title>
+<desc lang="en">Espía en vivo todo lo que hacen los famosos en la casa.</desc>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p28512991_b_h8_ag.jpg"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVOD">
 <title lang="en">ETV On Demand</title>
@@ -87,7 +97,7 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
 <programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVONE">
-<title lang="en">ETV Uno | ETV Sports 1</title>
+<title lang="en">ETV Uno</title>
 <desc lang="en">Lunes - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Película (7:00pm AST/PR), WWE Raw on ETV Recap (8:45pm AST/PR), WWE Raw (9:00pm AST/PR) | Miércoles - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Conan (7:00pm AST/PR), Película (8:00pm AST/PR) | Jueves - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Conan (7:00pm AST/PR), ECW on TNN (6:00pm AST/PR), TNA iMPACT! Wrestling (9:00pm AST/PR) | Sábado (18/01) -  Spy x Family (9:00am AST/PR), My Hero Academia (10:00am AST/PR), Love, Chunibyo and Other Delusions! (11:00am AST/PR), Dan Da Dan (12:00pm AST/PR), Daddy's Home (1:00pm AST/PR), El Chapulín Colorado (2:36pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), La Guerra de los Sexos (4:00pm AST/PR), Brave (6:10pm AST/PR), Jumanji: Welcome To The Jungle (7:40pm AST/PR)</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
@@ -100,9 +110,9 @@
 </programme> 
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
-<title lang="en">WWE Royal Rumble 2025</title>
-<icon src="https://ntvb.tmsimg.com/assets/p29199125_b_h8_ab.jpg"/>
-<desc lang="en">LIVE! February 1, 7pm AST/PR | Top stars from RAW and SmackDown divisions of the WWE battle in the 38th annual Royal Rumble. Live from Lucas Oil Stadium in Indianapolis.</desc>
+<title lang="en">WWE WrestleMania 41: Night 1</title>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p29802649_b_h8_aa.jpg"/>
+<desc lang="en">Roman Reigns vs. CM Punk vs. Seth Rollins; Gunther vs. Jey Uso, world heavyweight championship.</desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV2">
