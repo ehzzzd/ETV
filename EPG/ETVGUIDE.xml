@@ -16,7 +16,7 @@
 <display-name>TEST</display-name>
 </channel>
 <channel id="ETVOD">
-<display-name>ETVOD</display-name>
+<display-name>ETV+</display-name>
 </channel>
 <channel id="ETVSP1">
 <display-name>ETV Preview</display-name>
@@ -69,6 +69,7 @@
 
 
 
+
 <programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="WAEH">
 <title lang="en">EH Radio</title>
 <desc lang="en">WAEH-FM Programming.</desc>
@@ -85,8 +86,8 @@
 <icon src="https://posters.clarotvpr.com/epg_images/assets/p28512991_b_h8_ag.jpg"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVOD">
-<title lang="en">ETV On Demand</title>
-<title lang="es">ETV On Demand</title>
+<title lang="en">ETV On Demand es ahora ETV+ | ¡Accede al menú home ya y disfruta de más de 5,000 horas de contenido totalmente gratis!</title>
+<title lang="es">ETV On Demand is now ETV+ | Access the home menu now and enjoy over 5,000 hours of content completely free!</title>
 <desc lang="en">Check out and see what's new on demand!</desc>
 <desc lang="es">Disfruta del mejor contenido On Demand en ETV!</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
