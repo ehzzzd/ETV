@@ -60,8 +60,8 @@
 <channel id="ETVNMX">
 <display-name>ETVNMX</display-name>
 </channel>
-<channel id="WWEN">
-<display-name>WWEN</display-name>
+<channel id="ETVNEWS">
+<display-name>ETVNEWS</display-name>
 </channel>
 <channel id="ETVONE">
 <display-name>ETV UNO</display-name>
@@ -152,10 +152,10 @@
 <desc lang="en">News.</desc>
 </programme>
 
-<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="WWEN">
-<title lang="en">ATTENTION: WWE Network will shut down on December 31, 2024</title>
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVNEWS">
+<title lang="en">ATTENCIÓN: Cambios en ETV (Lea Info)</title>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
-<desc lang="en">PLEASE READ: WWE Network content is moving to Netflix internationally in 2025, alongside their classic programming, current shows and Premium Live Events, including WWE Raw. However, PLE’s are still going to be available to watch on our PPV channels and available On Demand, the day after they air. Everyone at ETV thanks everyone for the support you’ve given to the WWE Network’s feed through our service for the past four years as we still are the only service to offer the channel in Puerto Rico without the need to pay for a separate subscription. We also apologize for the inconvenience this may cause.</desc>
+<desc lang="en">Estimados usuarios de ETV, como parte del nuevo rebranding de marca, los siguientes servicios cambiarán de nombre: ETV On Demand pasa a ser ETV+, ETV Premiere pasará a ser ETV+ Selects. Es importante notificar y aclarar que los servicios anteriormente mencionados continuarán operando como siempre, sin cambios significativos. Cambios tomarán efecto el día 27 de mayo de 2025.</desc>
 </programme>
              
 </tv>
