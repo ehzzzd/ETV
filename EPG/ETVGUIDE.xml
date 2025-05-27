@@ -51,6 +51,43 @@
 <channel id="ETVXTR6">
 <display-name>ETVXTR6</display-name>
 </channel>
+<channel id="ETVP1">
+<display-name>ETVP1</display-name>
+</channel>
+<channel id="ETVP2">
+<display-name>ETVP2</display-name>
+</channel>
+<channel id="ETVP3">
+<display-name>ETVP3</display-name>
+</channel>
+<channel id="ETVP4">
+<display-name>ETVP4</display-name>
+</channel>
+<channel id="ETVP5">
+<display-name>ETVP5</display-name>
+</channel>
+<channel id="ETVP6">
+<display-name>ETVP6</display-name>
+</channel>
+<channel id="ETVP7">
+<display-name>ETVP7</display-name>
+</channel>
+<channel id="ETVP8">
+<display-name>ETVP8</display-name>
+</channel>
+<channel id="ETVP9">
+<display-name>ETVP9</display-name>
+</channel>
+<channel id="ETVP10">
+<display-name>ETVP10</display-name>
+</channel>
+<channel id="ETVP11">
+<display-name>ETVP11</display-name>
+</channel>
+<channel id="ETVP12">
+<display-name>ETVP12</display-name>
+</channel>
+
 <channel id="WXSC">
 <display-name>WXSC</display-name>
 </channel>
@@ -157,5 +194,79 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 <desc lang="en">Estimados usuarios de ETV, como parte del nuevo rebranding de marca, los siguientes servicios cambiarán de nombre: ETV On Demand pasa a ser ETV+, ETV Premiere pasará a ser ETV+ Selects. Es importante notificar y aclarar que los servicios anteriormente mencionados continuarán operando como siempre, sin cambios significativos. Cambios tomarán efecto el día 27 de mayo de 2025.</desc>
 </programme>
-             
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP1">
+<title lang="en">Captain America: Brave New World (2025)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/34/18/7d/34187da6-9501-7166-7120-2748f10943d2/DIS_CABNW_ITUNES-169_WW_ARTWORK_EN_3840x2160_4ROROP000005VP.lsr/3840x2160.jpg"/>
+<desc lang="en">[Rated PG-13 | 1h 58m | ENG, SPA | Action, Adventure, Fantasy] Sam finds himself in the middle of an international incident after meeting with President Thaddeus Ross. He must soon discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP2">
+<title lang="en">Warfare (2025)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e5/87/df/e587df91-3a5e-4280-7e7c-52f7c3aa72bb/A24-Warfare-H-3840x2160.jpg/3840x2160.jpg"/>
+<desc lang="en">[Rated R | 1h 35m | ENG, SPA | Action, War, Thriller] The harrowing true story of a U.S. Navy SEAL platoon surveillance mission gone dangerously wrong.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP3">
+<title lang="en">Wicked (2024)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/95/3c/d6/953cd6bc-c0e2-2ec5-446b-305f2941b166/UNI_WICKED_2024_TH_ITUNES_PREORDER_WW_ARTWORK_EN_3840x2160_4KFR2M000002T1.lsr/3840x2160.jpg"/>
+<desc lang="en">[Rated PG | 2h 40m | ENG, SPA | Family, Musical, Adventure, Fantasy] Misunderstood because of her green skin, a young woman named Elphaba forges an unlikely but profound friendship with Glinda, a student with an unflinching desire for popularity. Following an encounter with the Wizard of Oz, their relationship soon reaches a crossroad as their lives begin to take very different paths.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP4">
+<title lang="en">Mickey 17 (2025)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/34/0b/42/340b424e-3398-957b-7bad-e9efa8005edb/Mickey_17_Empire_H_DD_KA_TT_3840x2160_CVRART_300dpi_EN.png/3840x2160.jpg"/>
+<desc lang="en">[Rated R | 2h 16m | ENG, SPA | Comedy, Science Fiction] A disposable employee is sent on a human expedition to colonize the ice world Niflheim. After one iteration dies, a new body is regenerated with most of his memories intact.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP5">
+<title lang="en">Conclave (2024)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/54/0a/2f/540a2fd1-70ae-f9ed-e44c-e2b8f0ba785c/CONCLAVE_PVOD_LSR_WITH_CAST_3840x2160_CoverArt.lsr/3840x2160.jpg"/>
+<desc lang="en">[Rated PG | 2h 0m | ENG, SPA | Drama, Thriller] Cardinal Lawrence has one of the world's most secretive and ancient events, participating in the selection of a new pope. Surrounded by powerful religious leaders in the halls of the Vatican, he soon uncovers a trail of deep secrets that could shake the very foundation of the Roman Catholic Church.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP6">
+<title lang="en">Moana 2 (2025)</title>
+<icon src=""/>
+<desc lang="en"></desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP7">
+<title lang="en">Death of a Unicorn</title>
+<icon src=""/>
+<desc lang="en"></desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP8">
+<title lang="en">A Minecraft Movie (2025)</title>
+<icon src="https://hydrast.cdn.fios.tv/ResourcesFiles/ImageLibrary/FiosTV/Branded/H/169_Lrg/MV022724030000.jpg"/>
+<desc lang="en">[Rated PG | Xh Xm | ENG, SPA | Family] A mysterious portal pulls four misfits into the Overworld, a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master the terrain while embarking on a magical quest with an unexpected crafter named Steve.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP9">
+<title lang="en">Snow White (2025)</title>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b3/b6/07/b3b60752-a05c-f64a-71eb-9d78036fe0ef/DIS_SNOW_WHITE_2025_ITUNES_ARTWORK_169_WW_ARTWORK_EN_3840x2160_4T4KUJ00000NH8.lsr/3840x2160.jpg"/>
+<desc lang="en">[Rated PG | Xh Xm | ENG, SPA | Family] Fleeing from the Evil Queen, Snow White finds refuge with Dopey, Bashful, Grumpy, Sneezy, Happy, Doc and Sleepy. When the palace guards embark on a mission to bring her back, a commoner and his group of woodland bandits band together to protect her.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP10">
+<title lang="en">The Woman in the Yard</title>
+<icon src=""/>
+<desc lang="en"></desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP11">
+<title lang="en">One of Them Days</title>
+<icon src=""/>
+<desc lang="en"></desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP12">
+<title lang="en">Novocaine (2025)</title>
+<icon src=""/>
+<desc lang="en">[Rated R | Xh Xm | ENG, SPA | Action] When the girl of his dreams gets kidnapped, a man turns his inability to feel pain into an unexpected advantage as he fights a bunch of thugs to get her back.</desc>
+</programme>
+
+
+  
 </tv>
