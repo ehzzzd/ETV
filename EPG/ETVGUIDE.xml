@@ -159,7 +159,7 @@
 <desc lang="en">Come back next time for more Pay-Per-View events.</desc>
 </programme>
 
-<programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="INFOETV">
+<programme start="20240804213052 +0100" stop="20260804223052 +0100" channel="INFOETV">
 <title lang="en">ETV Information Channel</title>
 <title lang="es">Canal Informativo ETV</title>
 <desc lang="en">Information of interest and explanatory videos about everything that ETV offers.</desc>
@@ -227,13 +227,13 @@
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP6">
 <title lang="en">Moana 2 (2025)</title>
-<icon src=""/>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/27/e3/1e/27e31ec4-deb1-f64f-82fc-06878fc4cd37/DIS_MOANA_2_TH_ITUNES_ARTWORK_169_WW_ARTWORK_EN_3840x2160_4NOAGO00000347.lsr/3840x2160.jpg"/>
 <desc lang="en"></desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP7">
 <title lang="en">Death of a Unicorn</title>
-<icon src=""/>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/bc/c1/c1/bcc1c17d-6462-c5d6-0dd4-23167344106a/DeathofaUnicorn_VOD_3840x2160.jpg/3840x2160.jpg"/>
 <desc lang="en"></desc>
 </programme>
 
@@ -251,7 +251,7 @@
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVP10">
 <title lang="en">The Woman in the Yard</title>
-<icon src=""/>
+<icon src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/4c/eb/86/4ceb866e-b82a-d53a-991c-74f2dbea757e/TWITY_3840x2160_CoverArt.lsr/3840x2160.jpg"/>
 <desc lang="en"></desc>
 </programme>
 
