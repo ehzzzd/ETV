@@ -33,6 +33,9 @@
 <channel id="ETVPPV2">
 <display-name>ETVPPV2</display-name>
 </channel>
+<channel id="ETVPPV3">
+<display-name>ETVPPV3</display-name>
+</channel>
 <channel id="ETVXTR1">
 <display-name>ETVXTR1</display-name>
 </channel>
@@ -136,7 +139,7 @@
 </programme>
 <programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVONE">
 <title lang="en">ETV Uno</title>
-<desc lang="en">Lunes - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Película (7:00pm AST/PR), WWE Raw on ETV Recap (8:45pm AST/PR), WWE Raw (9:00pm AST/PR) | Miércoles - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Conan (7:00pm AST/PR), Película (8:00pm AST/PR) | Jueves - Big Time Rush (9:00am AST/PR), Victorious (10:00am AST/PR), El Chavo del 8 (11:00am AST/PR), Película (12:00pm AST/PR), El Chapulín Colorado (2:00pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), Nick Music (5:00pm AST/PR), El Chavo del 8 (6:00pm AST/PR), Conan (7:00pm AST/PR), ECW on TNN (6:00pm AST/PR), TNA iMPACT! Wrestling (9:00pm AST/PR) | Sábado (18/01) -  Spy x Family (9:00am AST/PR), My Hero Academia (10:00am AST/PR), Love, Chunibyo and Other Delusions! (11:00am AST/PR), Dan Da Dan (12:00pm AST/PR), Daddy's Home (1:00pm AST/PR), El Chapulín Colorado (2:36pm AST/PR), Gladiators U.K. 2024 (3:00pm AST/PR), La Guerra de los Sexos (4:00pm AST/PR), Brave (6:10pm AST/PR), Jumanji: Welcome To The Jungle (7:40pm AST/PR)</desc>
+<desc lang="en">Fuera del aire.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
@@ -148,15 +151,21 @@
 </programme> 
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
-<title lang="en">WWE WrestleMania 41: Night 2</title>
-<icon src="https://posters.clarotvpr.com/epg_images/assets/p29802660_b_h8_ab.jpg"/>
-<desc lang="en">LIVE at 7pm AST/PR! Rhea Ripley vs. Bianca Belair vs. Iyo Sky; Women's World championship triple threat match; AJ Styles vs. Logan Paul; Penta vs. Finn Balor vs. Dominik Mysterio vs. Bron Breakker, IIntercontinental championship fatal 4-way match; Bayley & Lyra Valkyria vs. Liv Morgan & Raquel Rodriguez, WWE Women's Tag Team championship; Damian Priest vs. Drew McIntyre; Cody Rhodes vs. John Cena, Undisputed WWE championship. Frm Allegiant Stadiun in Las Vegas.</desc>
+<title lang="en">AEW: All In Texas</title>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p30276765_b_h10_ab.jpg"/>
+<desc lang="en">LIVE, July 12 at 5pm AST/PR! Jon Moxley vs. Adam Page, world championship; Toni Storm vs. Mercedes Mone, women's world championship; Kazuchika Okada vs. Kenny Omega, unified championship; Men's and Women's Casino Gauntlet match. From Globe Life Field in Arlington, Texas.</desc>
 </programme>
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV2">
-<title lang="en">No PPV's airing or available at this time</title>
-<icon src="https://cdn.tvpassport.com/image/show/1920x1080/v2/p27407018_b_h10_aa.jpg"/>
-<desc lang="en">Come back next time for more Pay-Per-View events.</desc>
+<title lang="en">AEW: All In Texas | Español</title>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p30276765_b_h10_ab.jpg"/>
+<desc lang="en">¡EN VIVO, 12 de julio a las 5 pm AST/PR! Jon Moxley vs. Adam Page, world championship; Toni Storm vs. Mercedes Mone, women's world championship; Kazuchika Okada vs. Kenny Omega, unified championship; Men's and Women's Casino Gauntlet match. From Globe Life Field in Arlington, Texas.</desc>
+</programme>
+
+<programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV3">
+<title lang="en">WWE Evolution 2025</title>
+<icon src="https://posters.clarotvpr.com/epg_images/assets/p30401886_b_h8_aa.jpg"/>
+<desc lang="en">LIVE, July 12 at 5 pm AST/PR! Jacy Jayne vs. Jordynne Grace, NXT Women's championship. From State Farm Arena in Atlanta.</desc>
 </programme>
 
 <programme start="20240804213052 +0100" stop="20260804223052 +0100" channel="INFOETV">
