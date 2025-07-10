@@ -3,6 +3,33 @@
 <channel id="WAEH">
 <display-name>WAEH</display-name>
 </channel>
+<channel id="WAEH">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WKAQ-FM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WKAQ-AM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WXLX-FM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WAEL">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="KISS-FM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WFID-FM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WTOK-FM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WABA-AM">
+<display-name>WAEH</display-name>
+</channel>
 <channel id="ODTV">
 <display-name>OnDIRECTV</display-name>
 </channel>
@@ -110,9 +137,49 @@
 
 
 
-<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="WAEH">
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WAEH">
 <title lang="en">EH Radio</title>
 <desc lang="en">WAEH-FM Programming.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WXLX-FM">
+<title lang="en">La X 100.7</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WKAQ-FM">
+<title lang="en">KQ 105 | La Primera</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WAEL-FM">
+<title lang="en">FM 96.1 | Puerto Rico</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WFID-FM">
+<title lang="en">Fidelity 95.7 – Tus Favoritas de Siempre</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WTOK-FM">
+<title lang="en">HOT 102.5 - #1 en Música & Throwbacks</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="KISS-FM">
+<title lang="en">102.7 KIIS-FM | Los Angeles' #1 Hit Music Station</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WKAQ-AM">
+<title lang="en">WKAQ 580 | Expertos en Análisis y Noticias</title>
+<desc lang="en">News.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme>
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WABA-AM">
+<title lang="en">WABA 850 - ¡WABA La Grande!</title>
+<desc lang="en">News.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR1">
