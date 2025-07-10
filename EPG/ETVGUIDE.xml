@@ -15,7 +15,7 @@
 <channel id="WXLX-FM">
 <display-name>WAEH</display-name>
 </channel>
-<channel id="WAEL">
+<channel id="WAEL-FM">
 <display-name>WAEH</display-name>
 </channel>
 <channel id="KISS-FM">
@@ -27,7 +27,13 @@
 <channel id="WTOK-FM">
 <display-name>WAEH</display-name>
 </channel>
+<channel id="WPRM-FM">
+<display-name>WAEH</display-name>
+</channel>
 <channel id="WABA-AM">
+<display-name>WAEH</display-name>
+</channel>
+<channel id="WUNO-AM">
 <display-name>WAEH</display-name>
 </channel>
 <channel id="ODTV">
@@ -165,6 +171,16 @@
 <programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WTOK-FM">
 <title lang="en">HOT 102.5 - #1 en Música & Throwbacks</title>
 <desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WPRM-FM">
+<title lang="en">99.1 Salsoul… - Salsa y Vacilón!</title>
+<desc lang="en">Music.</desc>
+<icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
+</programme> 
+<programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="WUNO-AM">
+<title lang="en">NotiUno 630 AM</title>
+<desc lang="en">News.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 <programme start="20241226213052 +0100" stop="20270804223052 +0100" channel="KISS-FM">
