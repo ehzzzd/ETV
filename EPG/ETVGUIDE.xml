@@ -222,7 +222,7 @@
 </programme>
 <programme start="20231226213052 +0100" stop="20270804223052 +0100" channel="ETVONE">
 <title lang="en">ETV Uno</title>
-<desc lang="en">Lunes - Jueves: [7AM] Inside Edition | [7:30AM] Entertainment Tonight| [8AM] Late Night with Conan O’Brien | [9AM] Gravity Falls | [10AM] Star vs The Forces of Evil | [11AM] Teen Titans | [12PM] Película | [2PM] The Big Bang Theory | [3PM] Friends | [4PM] The Office | [5PM] Parks and Recreation | [6PM] Charmed | Lunes: [7PM] WWE RAW - Horario Especial hasta med. octubre | [9:30PM] The Last of Us (Jueves: 7PM) | Sábado: [7AM] Inside Edition | [7:30AM] Entertainment Tonight | [8AM] TO DO X TXT | [8:30AM] EN O’CLOCK | [9AM] Spy x Family | [10AM] My Hero Academia | [11AM] Bocchi The Rock! | [12PM] Attack on Titan | [1PM] Película | [3PM] La Guerra de los Sexos | [5PM] MasterChef: Latinos | [6:30PM] ETV Throwbacks: Comedia Boricua | [7PM] Sex and the City | [NOTA] Jujutsu Kaisen y Cyberpunk regresan en octubre en el mismo horario.</desc>
+<desc lang="en">Lunes - Jueves: [7AM] Inside Edition | [7:30AM] Entertainment Tonight| [8AM] Late Night with Conan O’Brien | [9AM] Gravity Falls | [10AM] Star vs The Forces of Evil | [11AM] Teen Titans | [12PM] Película | [2PM] The Big Bang Theory | [3PM] Friends | [4PM] The Office | [5PM] Parks and Recreation | [6PM] Charmed | Lunes: [7PM] WWE RAW - Horario Especial hasta med. octubre | [9:30PM] The Last of Us (Jueves: 7PM) | Jueves 11 [7:51PM] STARDOM NIGHTER 2025 in KORAKUEN Sep. 10, 2025 (r) | Sábado: [7AM] Inside Edition | [7:30AM] Entertainment Tonight | [8AM] TO DO X TXT | [8:30AM] EN O’CLOCK | [9AM] Spy x Family | [10AM] My Hero Academia | [11AM] Bocchi The Rock! | [12PM] Attack on Titan | [1PM] Película | [3PM] La Guerra de los Sexos | [5PM] MasterChef: Latinos | [6:30PM] ETV Throwbacks: Comedia Boricua | [7PM] Sex and the City | [NOTA] Jujutsu Kaisen y Cyberpunk regresan en octubre en el mismo horario.</desc>
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme>
 <programme start="20200804213052 +0100" stop="20230804223052 +0100" channel="ODTV">
@@ -362,4 +362,5 @@
 
   
 </tv>
+
 
