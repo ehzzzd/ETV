@@ -1,0 +1,17 @@
+ES: ATENCIÓN - Este evento será habilitado una/dos hora o 30 minutos antes que comience.
+NOTA IMPORTANTE: El concierto "No me quiero ir de aquí: Una Más" será habilitado entre las 8 y 8:35pm
+
+---------------------------------------
+
+EN: ATTENTION - This event will be enabled an hour/two or 30 minutes before it begins.
+IMPORTANT: The "No me quiero ir de aquí: Una Más" concert will be enabled between 8 and 8:35pm
+
+---------------------------------------
+
+COMO HABILITAR ESTOS EVENTOS | HOW TO ENABLE THESE EVENTS: *sólo para usuarios con sistemas ETV ArcticUI | only for users with ETV ArcticUI systems.
+
+- ES: Presione el botón "hamburger" (tres líneas) en el menú home, luego baje y presione el boton "reload". Vuelva al área de PPV Center para disfrutar del evento que desee.
+- EN: 
+
+ES: En caso de no tener ArcticUI, salga de Kodi utilizando el icono "Power" del menú principal y presione "Exit" o "Salir". Luego abra Kodi como de costumbre y regresa al area de PPV.
+EN: If you don't have ArcticUI, exit Kodi using the "Power" icon in the main menu and press "Exit." Then open Kodi as usual and return to the PPV area.
