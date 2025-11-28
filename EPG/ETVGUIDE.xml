@@ -308,17 +308,17 @@ Luther and Nora Krank plan to skip Christmas—until unexpected news forces them
     </desc>
   </programme>
 
-  <!-- 8:45 PM – 11:42 PM: ENHYPEN WORLD TOUR -->
-  <programme start="20251128204500 -0400" stop="20251128234200 -0400" channel="ETVONE">
-    <title>ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- Osaka Yanmar Stadium Nagai (August 3, 2025)</title>
-    <category>Concert</category>
+  <!-- 8:45 PM – 11:26 PM: Stardom Tag League 2025 -->
+  <programme start="20251128204500 -0400" stop="20251128232600 -0400" channel="ETVONE">
+    <title>Stardom Goddesses Of Stardom Tag League 2025 (November 26, 2025)</title>
+    <category>Sports</category>
     <desc>
-ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive interviews.
+The annual STARDOM Goddesses of Stardom Tag League returns with top teams battling for supremacy in high-impact tournament action. STARS (Momo Kohgo & Saya Iida) vs. Empress Nexus Venus (Rian & Waka Tsukiyama), Bea Priestley & Kikyo Furusawa vs. Ema Maishima & Ranna Yagami, Goddesses Of Stardom Tag League 2025 Block B Match - Mei Seira & Yuna Mizumori vs. HATE (Natsuko Tora & Ruaka), Goddesses Of Stardom Tag League 2025 Block A Match - God's Eye (Ami Sourei & Lady C) vs. Neo Genesis (AZM & Miyu Amasaki), Goddesses Of Stardom Tag League 2025 Block A Match - Cosmic Angels (Aya Sakura & Sayaka Kurara) vs. God's Eye (Saki Kashima & Syuri), Goddesses Of Stardom Tag League 2025 Block B Match - Miku Kanae & Sareee vs. DLM (Osita & Teotleco), Goddesses Of Stardom Tag League 2025 Block A Match - HANAKO & Megan Bayne vs. Mi Vida Loca (Rina Yamashita & Suzu Suzuki), Goddesses Of Stardom Tag League 2025 Block B Match - Cosmic Angels (Natsupoi & Saori Anou) vs. Mi Vida Loca (Akira Kurogane & Bozilla).
     </desc>
   </programme>
 
-  <!-- OFF-AIR AFTER LAST PROGRAM -->
-  <programme start="20251128234200 -0400" stop="20251201070000 -0400" channel="ETVONE">
+    <!-- OFF-AIR AFTER LAST PROGRAM -->
+  <programme start="20251128232600 -0400" stop="20251201070000 -0400" channel="ETVONE">
     <title>Off-Air</title>
     <desc>Regresamos el lunes 01/12/2025 a las 7am (Hora de PR)</desc>
   </programme>
@@ -454,6 +454,7 @@ ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive inter
 
   
 </tv>
+
 
 
 
