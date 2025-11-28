@@ -228,15 +228,16 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 
+  
 
   <!-- OFF-AIR BEFORE FIRST PROGRAM -->
-  <programme start="20251124000000 +0000" stop="20251128063000 +0000" channel="ETVONE">
+  <programme start="20251124000000 -0400" stop="20251128063000 -0400" channel="ETVONE">
     <title>Off-Air</title>
-    <desc>Regresamos el viernes 11/27/2025 a las 6:30am</desc>
+    <desc>Regresamos el 11/28/2025 a las 6:30am (Hora de PR)</desc>
   </programme>
 
   <!-- 6:30 AM – 9:00 AM: 2025 MAMA Awards -->
-  <programme start="20251128063000 +0000" stop="20251128090000 +0000" channel="ETVONE">
+  <programme start="20251128063000 -0400" stop="20251128090000 -0400" channel="ETVONE">
     <title>2025 MAMA Awards - Chapter 1 (LIVE)</title>
     <category>Awards</category>
     <desc>
@@ -245,7 +246,7 @@
   </programme>
 
   <!-- 9:00 AM – 10:29 AM: Jingle All The Way -->
-  <programme start="20251128090000 +0000" stop="20251128102900 +0000" channel="ETVONE">
+  <programme start="20251128090000 -0400" stop="20251128102900 -0400" channel="ETVONE">
     <title>Jingle All The Way</title>
     <category>Movie</category>
     <desc>
@@ -254,7 +255,7 @@ Arnold Schwarzenegger battles the Christmas rush in this high-decibel comedy of 
   </programme>
 
   <!-- 10:29 AM – 11:59 AM: #RUNSEOKJIN_EP.TOUR in JAPAN -->
-  <programme start="20251128102900 +0000" stop="20251128115900 +0000" channel="ETVONE">
+  <programme start="20251128102900 -0400" stop="20251128115900 -0400" channel="ETVONE">
     <title>#RUNSEOKJIN_EP.TOUR in JAPAN (July 13, 2025)</title>
     <category>Concert</category>
     <desc>
@@ -263,7 +264,7 @@ BTS's JIN's first solo concert tour, exclusive broadcast of the Kyocera Dome Osa
   </programme>
 
   <!-- 11:59 AM – 12:49 PM: A Nonsense Christmas with Sabrina Carpenter -->
-  <programme start="20251128115900 +0000" stop="20251128124900 +0000" channel="ETVONE">
+  <programme start="20251128115900 -0400" stop="20251128124900 -0400" channel="ETVONE">
     <title>A Nonsense Christmas with Sabrina Carpenter (2024)</title>
     <category>Special</category>
     <desc>
@@ -272,7 +273,7 @@ Sabrina Carpenter jingles all the bells in her first variety music special fille
   </programme>
 
   <!-- 12:49 PM – 2:32 PM: Wilkins Monumental: Sinfonico -->
-  <programme start="20251128124900 +0000" stop="20251128143200 +0000" channel="ETVONE">
+  <programme start="20251128124900 -0400" stop="20251128143200 -0400" channel="ETVONE">
     <title>Wilkins Monumental: Sinfonico (2015)</title>
     <category>Concert</category>
     <desc>
@@ -281,7 +282,7 @@ Un recorrido de grandes éxitos del cantante con el sonido de la Orquesta Sinfó
   </programme>
 
   <!-- 2:32 PM – 4:17 PM: Dr. Seuss's How The Grinch Stole Christmas -->
-  <programme start="20251128143200 +0000" stop="20251128161700 +0000" channel="ETVONE">
+  <programme start="20251128143200 -0400" stop="20251128161700 -0400" channel="ETVONE">
     <title>Dr. Seuss's How The Grinch Stole Christmas (2000)</title>
     <category>Movie</category>
     <desc>
@@ -290,7 +291,7 @@ Jim Carrey stars as the Grinch, a creature who hates Christmas and plots to stea
   </programme>
 
   <!-- 4:17 PM – 6:07 PM: BTS Japan Fanmeeting Vol.5: Magic Shop -->
-  <programme start="20251128161700 +0000" stop="20251128180700 +0000" channel="ETVONE">
+  <programme start="20251128161700 -0400" stop="20251128180700 -0400" channel="ETVONE">
     <title>BTS Japan Fanmeeting Vol.5: Magic Shop (2019)</title>
     <category>Concert</category>
     <desc>
@@ -299,7 +300,7 @@ Exclusive broadcast of backstage and performance moments from BTS's Magic Shop f
   </programme>
 
   <!-- 6:07 PM – 7:45 PM: Christmas with the Kranks -->
-  <programme start="20251128180700 +0000" stop="20251128194500 +0000" channel="ETVONE">
+  <programme start="20251128180700 -0400" stop="20251128194500 -0400" channel="ETVONE">
     <title>Christmas with the Kranks (2004)</title>
     <category>Movie</category>
     <desc>
@@ -308,7 +309,7 @@ Luther and Nora Krank plan to skip Christmas—until unexpected news forces them
   </programme>
 
   <!-- 7:45 PM – 10:42 PM: ENHYPEN WORLD TOUR -->
-  <programme start="20251128194500 +0000" stop="20251128234200 +0000" channel="ETVONE">
+  <programme start="20251128194500 -0400" stop="20251128234200 -0400" channel="ETVONE">
     <title>ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- Osaka Yanmar Stadium Nagai (August 3, 2025)</title>
     <category>Concert</category>
     <desc>
@@ -317,8 +318,9 @@ ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive inter
   </programme>
 
   <!-- OFF-AIR AFTER LAST PROGRAM -->
-  <programme start="20251128234200 +0000" stop="20251201070000 +0000" channel="ETVONE">
+  <programme start="20251128234200 -0400" stop="20251201070000 -0400" channel="ETVONE">
     <title>Off-Air</title>
+    <desc>Regresamos el lunes 01/12/2025 a las 7am (Hora de PR)</desc>
   </programme>
   
   
@@ -452,6 +454,7 @@ ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive inter
 
   
 </tv>
+
 
 
 
