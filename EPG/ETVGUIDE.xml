@@ -257,7 +257,7 @@ Arnold Schwarzenegger battles the Christmas rush in this high-decibel comedy...
   <!-- 11:29 AM – 12:59 PM: #RUNSEOKJIN_EP.TOUR in JAPAN -->
   <programme start="20251128112900 -0400" stop="20251128125900 -0400" channel="ETVONE">
     <title>#RUNSEOKJIN_EP.TOUR in JAPAN (July 13, 2025)</title>
-    <categoryConcert</category>
+    <category>Concert</category>
     <desc>
 BTS's JIN's first solo concert tour, exclusive broadcast of the Kyocera Dome Osaka final performance!
     </desc>
@@ -323,7 +323,6 @@ ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive inter
     <desc>Regresamos el lunes 01/12/2025 a las 7am (Hora de PR)</desc>
   </programme>
 
-  
   
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
@@ -455,6 +454,7 @@ ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive inter
 
   
 </tv>
+
 
 
 
