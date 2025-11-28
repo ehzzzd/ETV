@@ -229,81 +229,98 @@
 </programme> 
 
 
-  <!-- Monday Nov 24 12:00am → Friday Nov 28 6:30am -->
-  <programme start="20251124000000 -0400" stop="20251128063000 -0400" channel="ETVONE">
-    <title lang="en">Off-air</title>
-    <desc lang="en">No scheduled programming during this period.</desc>
-    <category lang="en">Off-air</category>
+  <!-- OFF-AIR BEFORE FIRST PROGRAM -->
+  <programme start="20251124000000 +0000" stop="20251128063000 +0000" channel="ETVONE">
+    <title>Off-Air</title>
+    <desc>Regresamos el viernes 11/27/2025 a las 6:30am</desc>
   </programme>
 
-  <!-- ========================= -->
-  <!-- Friday November 28, 2025  -->
-  <!-- ========================= -->
-
-  <programme start="20251128063000 -0400" stop="20251128093000 -0400" channel="ETVONE">
-    <title lang="en">2025 MAMA Awards - Chapter 1 (LIVE)</title>
-    <category lang="en">Awards</category>
-    <desc lang="en">2025 MAMA Awards Performers Chapter 1 - ALPHA DRIVE ONE, BABYMONSTER, BOYNEXTDOOR, BUMSUP, ENHYPEN, Hearts2Hearts, i-dle, IVE, MEOVV, MIRROR, NCT WISH, Super Junior, TREASURE, TWS, Yeonjun of TOMORROW X TOGETHER.</desc>
+  <!-- 6:30 AM – 9:00 AM: 2025 MAMA Awards -->
+  <programme start="20251128063000 +0000" stop="20251128090000 +0000" channel="ETVONE">
+    <title>2025 MAMA Awards - Chapter 1 (LIVE)</title>
+    <category>Awards</category>
+    <desc>
+2025 MAMA Awards Performers Chapter 1 - ALPHA DRIVE ONE, BABYMONSTER, BOYNEXTDOOR, BUMSUP, ENHYPEN, Hearts2Hearts, i-dle, IVE, MEOVV, MIRROR, NCT WISH, Super Junior, TREASURE, TWS, Yeonjun of TOMORROW X TOGETHER
+    </desc>
   </programme>
 
-  <programme start="20251128093000 -0400" stop="20251128105000 -0400" channel="ETVONE">
-    <title lang="en">Jingle All The Way</title>
-    <category lang="en">Movie</category>
-    <desc lang="en">Arnold Schwarzenegger battles the Christmas rush in this high-decibel comedy involving TurboMan, holiday chaos, and big laughs.</desc>
+  <!-- 9:00 AM – 10:29 AM: Jingle All The Way -->
+  <programme start="20251128090000 +0000" stop="20251128102900 +0000" channel="ETVONE">
+    <title>Jingle All The Way</title>
+    <category>Movie</category>
+    <desc>
+Arnold Schwarzenegger battles the Christmas rush in this high-decibel comedy of violence for those who like seeing reindeer punched out and department stores wrecked by rampaging mobs...
+    </desc>
   </programme>
 
-  <programme start="20251128105000 -0400" stop="20251128114000 -0400" channel="ETVONE">
-    <title lang="en">#RUNSEOKJIN_EP.TOUR in JAPAN (July 13, 2025)</title>
-    <category lang="en">Concert</category>
-    <desc lang="en">BTS’s JIN performs his first solo concert tour, final Osaka performance broadcast!</desc>
+  <!-- 10:29 AM – 11:59 AM: #RUNSEOKJIN_EP.TOUR in JAPAN -->
+  <programme start="20251128102900 +0000" stop="20251128115900 +0000" channel="ETVONE">
+    <title>#RUNSEOKJIN_EP.TOUR in JAPAN (July 13, 2025)</title>
+    <category>Concert</category>
+    <desc>
+BTS's JIN's first solo concert tour, exclusive broadcast of the Kyocera Dome Osaka final performance!
+    </desc>
   </programme>
 
-  <programme start="20251128114000 -0400" stop="20251128123000 -0400" channel="ETVONE">
-    <title lang="en">A Nonsense Christmas with Sabrina Carpenter (2024)</title>
-    <category lang="en">Special</category>
-    <desc lang="en">Holiday variety special with Sabrina Carpenter — performances, duets, and seasonal comedy.</desc>
+  <!-- 11:59 AM – 12:49 PM: A Nonsense Christmas with Sabrina Carpenter -->
+  <programme start="20251128115900 +0000" stop="20251128124900 +0000" channel="ETVONE">
+    <title>A Nonsense Christmas with Sabrina Carpenter (2024)</title>
+    <category>Special</category>
+    <desc>
+Sabrina Carpenter jingles all the bells in her first variety music special filled with holiday hits, duets, and comedic cameos.
+    </desc>
   </programme>
 
-  <programme start="20251128123000 -0400" stop="20251128141300 -0400" channel="ETVONE">
-    <title lang="en">Wilkins Monumental: Sinfonico (2015)</title>
-    <category lang="en">Concert</category>
-    <desc lang="en">Un especial sinfónico de Wilkins con grandes éxitos acompañado de la Orquesta Sinfónica de Puerto Rico bajo la dirección de Maximiano Valdés.</desc>
+  <!-- 12:49 PM – 2:32 PM: Wilkins Monumental: Sinfonico -->
+  <programme start="20251128124900 +0000" stop="20251128143200 +0000" channel="ETVONE">
+    <title>Wilkins Monumental: Sinfonico (2015)</title>
+    <category>Concert</category>
+    <desc>
+Un recorrido de grandes éxitos del cantante con el sonido de la Orquesta Sinfónica de Puerto Rico.
+    </desc>
   </programme>
 
-  <programme start="20251128141300 -0400" stop="20251128155800 -0400" channel="ETVONE">
-    <title lang="en">Dr. Seuss's How The Grinch Stole Christmas</title>
-    <category lang="en">Movie</category>
-    <desc lang="en">Jim Carrey stars as The Grinch who vows to steal Christmas from the Whos of Whoville.</desc>
+  <!-- 2:32 PM – 4:17 PM: Dr. Seuss's How The Grinch Stole Christmas -->
+  <programme start="20251128143200 +0000" stop="20251128161700 +0000" channel="ETVONE">
+    <title>Dr. Seuss's How The Grinch Stole Christmas (2000)</title>
+    <category>Movie</category>
+    <desc>
+Jim Carrey stars as the Grinch, a creature who hates Christmas and plots to steal it from the Whos of Whoville.
+    </desc>
   </programme>
 
-  <programme start="20251128155800 -0400" stop="20251128173800 -0400" channel="ETVONE">
-    <title lang="en">BTS Japan Fanmeeting Vol.5: Magic Shop (2019)</title>
-    <category lang="en">Concert</category>
-    <desc lang="en">Backstage documentary and performance highlights from BTS Fanmeeting Magic Shop at Osaka Dome.</desc>
+  <!-- 4:17 PM – 6:07 PM: BTS Japan Fanmeeting Vol.5: Magic Shop -->
+  <programme start="20251128161700 +0000" stop="20251128180700 +0000" channel="ETVONE">
+    <title>BTS Japan Fanmeeting Vol.5: Magic Shop (2019)</title>
+    <category>Concert</category>
+    <desc>
+Exclusive broadcast of backstage and performance moments from BTS's Magic Shop fanmeeting at Kyocera Dome Osaka.
+    </desc>
   </programme>
 
-  <programme start="20251128173800 -0400" stop="20251128190800 -0400" channel="ETVONE">
-    <title lang="en">Christmas with the Kranks (2004)</title>
-    <category lang="en">Movie</category>
-    <desc lang="en">A suburban couple attempts to skip Christmas only to have their plans upended by holiday chaos.</desc>
+  <!-- 6:07 PM – 7:45 PM: Christmas with the Kranks -->
+  <programme start="20251128180700 +0000" stop="20251128194500 +0000" channel="ETVONE">
+    <title>Christmas with the Kranks (2004)</title>
+    <category>Movie</category>
+    <desc>
+Luther and Nora Krank plan to skip Christmas—until unexpected news forces them to save the holiday in a rush.
+    </desc>
   </programme>
 
-  <programme start="20251128190800 -0400" stop="20251128210000 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- Osaka (August 3, 2025)</title>
-    <category lang="en">Concert</category>
-    <desc lang="en">ENHYPEN’s first Japan stadium performance with behind-the-scenes and interview material.</desc>
+  <!-- 7:45 PM – 10:42 PM: ENHYPEN WORLD TOUR -->
+  <programme start="20251128194500 +0000" stop="20251128234200 +0000" channel="ETVONE">
+    <title>ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- Osaka Yanmar Stadium Nagai (August 3, 2025)</title>
+    <category>Concert</category>
+    <desc>
+ENHYPEN's first Japan stadium concert with behind-the-scenes and exclusive interviews.
+    </desc>
   </programme>
 
-  <!-- ========================= -->
-  <!-- OFF-AIR BLOCK (post-show) -->
-  <!-- ========================= -->
-
-  <!-- Friday Nov 28 9:00pm → Monday Dec 1 7:00am -->
-  <programme start="20251128210000 -0400" stop="20251201070000 -0400" channel="ETVONE">
-    <title lang="en">Off-air</title>
-    <desc lang="en">No scheduled programming during this period.</desc>
-    <category lang="en">Off-air</category>
+  <!-- OFF-AIR AFTER LAST PROGRAM -->
+  <programme start="20251128234200 +0000" stop="20251201070000 +0000" channel="ETVONE">
+    <title>Off-Air</title>
   </programme>
+  
   
 
 <programme start="20240129043000 +0000" stop="20260130223052 +0000" channel="ETVPPV1">
@@ -435,6 +452,7 @@
 
   
 </tv>
+
 
 
 
