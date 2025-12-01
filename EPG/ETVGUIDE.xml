@@ -230,97 +230,167 @@
 
   
 
-  <!-- OFF-AIR BEFORE FIRST PROGRAM -->
-  <programme start="20251124000000 -0400" stop="20251128063000 -0400" channel="ETVONE">
-    <title>Off-Air</title>
-    <desc>Regresamos el 11/28/2025 a las 6:30am (Hora de PR)</desc>
-  </programme>
-
-  <!-- 6:30 AM – 10:00 AM: 2025 MAMA Awards -->
-  <programme start="20251128063000 -0400" stop="20251128100000 -0400" channel="ETVONE">
-    <title>2025 MAMA Awards - Chapter 1 (LIVE)</title>
-    <category>Awards</category>
-    <desc>
-2025 MAMA Awards Performers Chapter 1 - ALPHA DRIVE ONE, BABYMONSTER, BOYNEXTDOOR, BUMSUP, ENHYPEN, Hearts2Hearts, i-dle, IVE, MEOVV, MIRROR, NCT WISH, Super Junior, TREASURE, TWS, Yeonjun of TOMORROW X TOGETHER
-    </desc>
-  </programme>
-
-  <!-- 10:00 AM – 11:29 AM: Jingle All The Way -->
-  <programme start="20251128100000 -0400" stop="20251128112900 -0400" channel="ETVONE">
-    <title>Jingle All The Way</title>
-    <category>Movie</category>
-    <desc>
-Arnold Schwarzenegger battles the Christmas rush in this high-decibel comedy...
-    </desc>
-  </programme>
-
-  <!-- 11:29 AM – 12:59 PM: #RUNSEOKJIN_EP.TOUR in JAPAN -->
-  <programme start="20251128112900 -0400" stop="20251128125900 -0400" channel="ETVONE">
-    <title>#RUNSEOKJIN_EP.TOUR in JAPAN (July 13, 2025)</title>
-    <category>Concert</category>
-    <desc>
-BTS's JIN's first solo concert tour, exclusive broadcast of the Kyocera Dome Osaka final performance!
-    </desc>
-  </programme>
-
-  <!-- 12:59 PM – 1:49 PM: A Nonsense Christmas with Sabrina Carpenter -->
-  <programme start="20251128125900 -0400" stop="20251128134900 -0400" channel="ETVONE">
-    <title>A Nonsense Christmas with Sabrina Carpenter (2024)</title>
-    <category>Special</category>
-    <desc>
-Sabrina Carpenter jingles all the bells in her first variety music special filled with holiday hits, duets, and comedic cameos.
-    </desc>
-  </programme>
-
-  <!-- 1:49 PM – 3:32 PM: Wilkins Monumental: Sinfonico -->
-  <programme start="20251128134900 -0400" stop="20251128153200 -0400" channel="ETVONE">
-    <title>Wilkins Monumental: Sinfonico (2015)</title>
-    <category>Concert</category>
-    <desc>
-Un recorrido de grandes éxitos del cantante con el sonido de la Orquesta Sinfónica de Puerto Rico.
-    </desc>
-  </programme>
-
-  <!-- 3:32 PM – 5:17 PM: Dr. Seuss's How The Grinch Stole Christmas -->
-  <programme start="20251128153200 -0400" stop="20251128171700 -0400" channel="ETVONE">
-    <title>Dr. Seuss's How The Grinch Stole Christmas (2000)</title>
-    <category>Movie</category>
-    <desc>
-Jim Carrey stars as the Grinch, a creature who hates Christmas and plots to steal it from the Whos of Whoville.
-    </desc>
-  </programme>
-
-  <!-- 5:17 PM – 7:07 PM: BTS Japan Fanmeeting Vol.5: Magic Shop -->
-  <programme start="20251128171700 -0400" stop="20251128190700 -0400" channel="ETVONE">
-    <title>BTS Japan Fanmeeting Vol.5: Magic Shop (2019)</title>
-    <category>Concert</category>
-    <desc>
-Exclusive broadcast of backstage and performance moments from BTS's Magic Shop fanmeeting at Kyocera Dome Osaka.
-    </desc>
-  </programme>
-
-  <!-- 7:07 PM – 8:45 PM: Christmas with the Kranks -->
-  <programme start="20251128190700 -0400" stop="20251128204500 -0400" channel="ETVONE">
-    <title>Christmas with the Kranks (2004)</title>
-    <category>Movie</category>
-    <desc>
-Luther and Nora Krank plan to skip Christmas—until unexpected news forces them to save the holiday in a rush.
-    </desc>
-  </programme>
-
-  <!-- 8:45 PM – 11:26 PM: Stardom Tag League 2025 -->
-  <programme start="20251128204500 -0400" stop="20251128232600 -0400" channel="ETVONE">
-    <title>Stardom Goddesses Of Stardom Tag League 2025 (November 26, 2025)</title>
-    <category>Sports</category>
-    <desc>
-The annual STARDOM Goddesses of Stardom Tag League returns with top teams battling for supremacy in high-impact tournament action. STARS (Momo Kohgo & Saya Iida) vs. Empress Nexus Venus (Rian & Waka Tsukiyama), Bea Priestley & Kikyo Furusawa vs. Ema Maishima & Ranna Yagami, Goddesses Of Stardom Tag League 2025 Block B Match - Mei Seira & Yuna Mizumori vs. HATE (Natsuko Tora & Ruaka), Goddesses Of Stardom Tag League 2025 Block A Match - God's Eye (Ami Sourei & Lady C) vs. Neo Genesis (AZM & Miyu Amasaki), Goddesses Of Stardom Tag League 2025 Block A Match - Cosmic Angels (Aya Sakura & Sayaka Kurara) vs. God's Eye (Saki Kashima & Syuri), Goddesses Of Stardom Tag League 2025 Block B Match - Miku Kanae & Sareee vs. DLM (Osita & Teotleco), Goddesses Of Stardom Tag League 2025 Block A Match - HANAKO & Megan Bayne vs. Mi Vida Loca (Rina Yamashita & Suzu Suzuki), Goddesses Of Stardom Tag League 2025 Block B Match - Cosmic Angels (Natsupoi & Saori Anou) vs. Mi Vida Loca (Akira Kurogane & Bozilla).
-    </desc>
-  </programme>
-
     <!-- OFF-AIR AFTER LAST PROGRAM -->
   <programme start="20251128232600 -0400" stop="20251201070000 -0400" channel="ETVONE">
     <title>Off-Air</title>
     <desc>Regresamos el lunes 01/12/2025 a las 7am (Hora de PR)</desc>
+  </programme>
+
+  <!-- PROGRAMS -->
+  <programme start="20251201070000 -0400" stop="20251201073000 -0400" channel="ETVONE">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Hassle in the Castle</sub-title>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <desc>The Mystery Inc. gang goes on a boating excursion... encounters a transparent phantom who warns them to leave the island.</desc>
+  </programme>
+
+  <programme start="20251201073000 -0400" stop="20251201080000 -0400" channel="ETVONE">
+    <title>Scooby-Doo, Where Are You!</title>
+    <sub-title>Mine Your Own Business</sub-title>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <desc>The sleuths end up in Gold City, an old mining town haunted by a miner from 1849.</desc>
+  </programme>
+
+  <programme start="20251201080000 -0400" stop="20251201083000 -0400" channel="ETVONE">
+    <title>The Powerpuff Girls</title>
+    <sub-title>Octi Evil / Geshundfight</sub-title>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <desc>Octi Evil: A villain manipulates Bubbles. Geshund Fight: The Amoeba Boys make Townsville ill.</desc>
+  </programme>
+
+  <programme start="20251201083000 -0400" stop="20251201090000 -0400" channel="ETVONE">
+    <title>The Powerpuff Girls</title>
+    <sub-title>Buttercrush / Fuzzy Logic</sub-title>
+    <episode-num system="onscreen">S1E4</episode-num>
+    <desc>Buttercrush: Buttercup falls in love with a villain. Fuzzy Logic: Fuzzy Lumkins threatens Townsville.</desc>
+  </programme>
+
+  <programme start="20251201090000 -0400" stop="20251201093000 -0400" channel="ETVONE">
+    <title>Gravity Falls</title>
+    <sub-title>Carpet Diem</sub-title>
+    <episode-num system="onscreen">S1E16</episode-num>
+    <desc>Dipper and Mabel find a room with a carpet that swaps bodies.</desc>
+  </programme>
+
+  <programme start="20251201093000 -0400" stop="20251201100000 -0400" channel="ETVONE">
+    <title>Gravity Falls</title>
+    <sub-title>Boyz Crazy</sub-title>
+    <episode-num system="onscreen">S1E17</episode-num>
+    <desc>Mabel frees her favorite boy band after discovering they are cloned prisoners.</desc>
+  </programme>
+
+  <programme start="20251201100000 -0400" stop="20251201103000 -0400" channel="ETVONE">
+    <title>Star vs. the Forces of Evil</title>
+    <sub-title>Star vs. Echo Creek / Wand to Wand</sub-title>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <desc>Star runs after accidentally destroying a police car; both Star and Ludo struggle with their new wands.</desc>
+  </programme>
+
+  <programme start="20251201103000 -0400" stop="20251201110000 -0400" channel="ETVONE">
+    <title>Star vs. the Forces of Evil</title>
+    <sub-title>Starstruck / Camping Trip</sub-title>
+    <episode-num system="onscreen">S2E5</episode-num>
+    <desc>Star helps Mina Loveberry regain her battle spirit; King Butterfly unexpectedly joins a Diaz family trip.</desc>
+  </programme>
+
+  <programme start="20251201110000 -0400" stop="20251201113000 -0400" channel="ETVONE">
+    <title>Teen Titans</title>
+    <sub-title>Only Human</sub-title>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <desc>Cyborg struggles with limitations of his robotic body.</desc>
+  </programme>
+
+  <programme start="20251201113000 -0400" stop="20251201115500 -0400" channel="ETVONE">
+    <title>Teen Titans</title>
+    <sub-title>Fear Itself</sub-title>
+    <episode-num system="onscreen">S2E5</episode-num>
+    <desc>A ghostly force terrifies the Titans, putting Raven's emotions to the test.</desc>
+  </programme>
+
+  <programme start="20251201115500 -0400" stop="20251201140000 -0400" channel="ETVONE">
+    <title>The Fifth Element</title>
+    <desc>A 23rd-century cabbie becomes involved with an alien who may save humanity.</desc>
+  </programme>
+
+  <programme start="20251201140000 -0400" stop="20251201143000 -0400" channel="ETVONE">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Bad Fish Paradigm</sub-title>
+    <episode-num system="onscreen">S2E1</episode-num>
+    <desc>Penny confides in Sheldon after a disastrous first date with Leonard.</desc>
+  </programme>
+
+  <programme start="20251201143000 -0400" stop="20251201150000 -0400" channel="ETVONE">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Codpiece Topology</sub-title>
+    <episode-num system="onscreen">S2E2</episode-num>
+    <desc>Penny and Leonard try to move on; Leonard begins a rebound relationship.</desc>
+  </programme>
+
+  <programme start="20251201150000 -0400" stop="20251201153000 -0400" channel="ETVONE">
+    <title>Friends</title>
+    <sub-title>The One Where Ross and Rachel... You Know</sub-title>
+    <episode-num system="onscreen">S2E15</episode-num>
+    <desc>Monica meets a charming doctor; Joey buys a home theater setup.</desc>
+  </programme>
+
+  <programme start="20251201153000 -0400" stop="20251201160000 -0400" channel="ETVONE">
+    <title>Friends</title>
+    <sub-title>The One Where Joey Moves Out</sub-title>
+    <episode-num system="onscreen">S2E16</episode-num>
+    <desc>Chandler and Joey feud over space while Monica’s parents learn who she’s dating.</desc>
+  </programme>
+
+  <programme start="20251201160000 -0400" stop="20251201163000 -0400" channel="ETVONE">
+    <title>The Office</title>
+    <sub-title>A Benihana Christmas</sub-title>
+    <episode-num system="onscreen">S3E11</episode-num>
+    <desc>Michael sends an inappropriate card; rival Christmas parties erupt.</desc>
+  </programme>
+
+  <programme start="20251201163000 -0400" stop="20251201170000 -0400" channel="ETVONE">
+    <title>The Office</title>
+    <sub-title>Back from Vacation</sub-title>
+    <episode-num system="onscreen">S3E12</episode-num>
+    <desc>A racy vacation photo spreads through the office.</desc>
+  </programme>
+
+  <programme start="20251201170000 -0400" stop="20251201173000 -0400" channel="ETVONE">
+    <title>Parks and Recreation</title>
+    <sub-title>Andy and April's Fancy Party</sub-title>
+    <episode-num system="onscreen">S3E9</episode-num>
+    <desc>Andy and April hold a surprise wedding despite Leslie’s concerns.</desc>
+  </programme>
+
+  <programme start="20251201173000 -0400" stop="20251201180000 -0400" channel="ETVONE">
+    <title>Parks and Recreation</title>
+    <sub-title>Soulmates</sub-title>
+    <episode-num system="onscreen">S3E10</episode-num>
+    <desc>Leslie tries online dating; Ron challenges Chris to a burger cook-off.</desc>
+  </programme>
+
+  <programme start="20251201180000 -0400" stop="20251201190000 -0400" channel="ETVONE">
+    <title>Charmed</title>
+    <sub-title>Wicca Envy</sub-title>
+    <episode-num system="onscreen">S1E10</episode-num>
+    <desc>The sisters fall under the control of Prue’s warlock boss.</desc>
+  </programme>
+
+  <programme start="20251201190000 -0400" stop="20251201195000 -0400" channel="ETVONE">
+    <title>The Last of Us</title>
+    <sub-title>When We Are in Need</sub-title>
+    <episode-num system="onscreen">S1E8</episode-num>
+    <desc>Ellie confronts a violent group while Joel fights for survival.</desc>
+  </programme>
+
+  <programme start="20251201195000 -0400" stop="20251201213600 -0400" channel="ETVONE">
+    <title>Lucha Libre AAA</title>
+    <desc>Lucha Libre AAA Worldwide from Auditorio GNP Seguros. Alianzas Tour – Road to Guerra de Titanes.</desc>
+  </programme>
+
+  <!-- OFF-AIR BLOCK -->
+  <programme start="20251201213600 -0400" stop="20251204070000 -0400" channel="ETVONE">
+    <title>Off-air</title>
+    <desc>No programming scheduled.</desc>
   </programme>
 
   
@@ -454,6 +524,7 @@ The annual STARDOM Goddesses of Stardom Tag League returns with top teams battli
 
   
 </tv>
+
 
 
 
