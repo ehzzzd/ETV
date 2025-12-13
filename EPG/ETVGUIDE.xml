@@ -199,15 +199,15 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 <programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR1">
-<title lang="en">Objetivo Fama | Casa Estudio (10am - 6pm AST)</title>
-<desc lang="en">Objetivo Fama 2025 ya está aquí y puedes vivir la preparación y los ensayos en vivo en este streaming.</desc>
-<icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigkAl9f6YMaH6J-5lUcgjrAoMReU1S5C_BBXeOLb_WDGIY8yvGjIFJCkuEtwEDdmgee8XCg6zytJv2w3sUuAfbmlj6q0pQDkZUOtTcnUn1K_BEgaaDaonvI5emLXWh85mdpqfOyRMHjF_YmQ5mQ9cFbP0bEDsbztGUVYAD2ofvHuUCHWwvCP_KALIq45s/s1280/Objetivo%20Fama%20-%20Reality.webp"/>
-</programme> 
-<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR2">
 <title lang="en">La Granja VIP | Cámara 1 24/7</title>
 <desc lang="en">Espía en vivo todo lo que hacen en la casa.</desc>
 <icon src="https://lasociedaddelcontenido.com/wp-content/uploads/2025/10/descarga-18.webp"/>
-</programme> 
+</programme>
+<programme start="20221226213052 +0100" stop="20270804223052 +0100" channel="ETVXTR2">
+<title lang="en">Junior Eurovision Song Contest 2025: LIVE! Vote at JESC.TV</title>
+<desc lang="en">Live from Tbilisi, Georgia</desc>
+<icon src=""/>
+</programme>
 <programme start="20221226213052 +0100" stop="20240804223052 +0100" channel="ETVOD">
 <title lang="en">ETV On Demand es ahora ETV+ | ¡Accede al menú home ya y disfruta de más de 5,000 horas de contenido totalmente gratis!</title>
 <title lang="es">ETV On Demand is now ETV+ | Access the home menu now and enjoy over 5,000 hours of content completely free!</title>
@@ -524,6 +524,7 @@
 
   
 </tv>
+
 
 
 
