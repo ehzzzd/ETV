@@ -230,167 +230,70 @@
 
   
 
-    <!-- OFF-AIR AFTER LAST PROGRAM -->
-  <programme start="20251128232600 -0400" stop="20251201070000 -0400" channel="ETVONE">
-    <title>Off-Air</title>
-    <desc>Regresamos el lunes 01/12/2025 a las 7am (Hora de PR)</desc>
+  <!-- OFF-AIR / RETURN MESSAGE -->
+  <!-- Dec 23, 2025 18:00 UTC -> Dec 24, 2025 08:00 UTC -->
+  <programme start="20251223T180000 +0000" stop="20251224T080000 +0000" channel="ETVONE">
+    <title lang="es">Regresamos el 24 de diciembre a las 8am</title>
+    <desc lang="es">Nuestra programación especial de Navidad comienza el 24 de diciembre a las 8:00am.</desc>
+    <category lang="en">System</category>
   </programme>
 
-  <!-- PROGRAMS -->
-  <programme start="20251201070000 -0400" stop="20251201073000 -0400" channel="ETVONE">
-    <title>Scooby-Doo, Where Are You!</title>
-    <sub-title>Hassle in the Castle</sub-title>
-    <episode-num system="onscreen">S1E3</episode-num>
-    <desc>The Mystery Inc. gang goes on a boating excursion... encounters a transparent phantom who warns them to leave the island.</desc>
+  <!-- CHRISTMAS DAY SCHEDULE -->
+
+  <programme start="20251224T080000 +0000" stop="20251224T094200 +0000" channel="ETVONE">
+    <title lang="en">Home Alone</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">An eight-year-old troublemaker must protect his home from burglars when his family accidentally leaves him behind for Christmas.</desc>
   </programme>
 
-  <programme start="20251201073000 -0400" stop="20251201080000 -0400" channel="ETVONE">
-    <title>Scooby-Doo, Where Are You!</title>
-    <sub-title>Mine Your Own Business</sub-title>
-    <episode-num system="onscreen">S1E4</episode-num>
-    <desc>The sleuths end up in Gold City, an old mining town haunted by a miner from 1849.</desc>
+  <programme start="20251224T094200 +0000" stop="20251224T112100 +0000" channel="ETVONE">
+    <title lang="en">Christmas with the Kranks</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">A couple decides to skip Christmas, only to face unexpected chaos when plans change.</desc>
   </programme>
 
-  <programme start="20251201080000 -0400" stop="20251201083000 -0400" channel="ETVONE">
-    <title>The Powerpuff Girls</title>
-    <sub-title>Octi Evil / Geshundfight</sub-title>
-    <episode-num system="onscreen">S1E3</episode-num>
-    <desc>Octi Evil: A villain manipulates Bubbles. Geshund Fight: The Amoeba Boys make Townsville ill.</desc>
+  <programme start="20251224T112100 +0000" stop="20251224T130200 +0000" channel="ETVONE">
+    <title lang="en">Jack Frost</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">A father who dies in a car accident comes back to life as a snowman to spend time with his son.</desc>
   </programme>
 
-  <programme start="20251201083000 -0400" stop="20251201090000 -0400" channel="ETVONE">
-    <title>The Powerpuff Girls</title>
-    <sub-title>Buttercrush / Fuzzy Logic</sub-title>
-    <episode-num system="onscreen">S1E4</episode-num>
-    <desc>Buttercrush: Buttercup falls in love with a villain. Fuzzy Logic: Fuzzy Lumkins threatens Townsville.</desc>
+  <programme start="20251224T130200 +0000" stop="20251224T144000 +0000" channel="ETVONE">
+    <title lang="en">The Santa Clause</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">A man accidentally causes Santa’s death and is magically recruited to take his place.</desc>
   </programme>
 
-  <programme start="20251201090000 -0400" stop="20251201093000 -0400" channel="ETVONE">
-    <title>Gravity Falls</title>
-    <sub-title>Carpet Diem</sub-title>
-    <episode-num system="onscreen">S1E16</episode-num>
-    <desc>Dipper and Mabel find a room with a carpet that swaps bodies.</desc>
+  <programme start="20251224T144000 +0000" stop="20251224T162400 +0000" channel="ETVONE">
+    <title lang="en">How the Grinch Stole Christmas</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">The Grinch plots to steal Christmas from the joyful citizens of Whoville.</desc>
   </programme>
 
-  <programme start="20251201093000 -0400" stop="20251201100000 -0400" channel="ETVONE">
-    <title>Gravity Falls</title>
-    <sub-title>Boyz Crazy</sub-title>
-    <episode-num system="onscreen">S1E17</episode-num>
-    <desc>Mabel frees her favorite boy band after discovering they are cloned prisoners.</desc>
+  <programme start="20251224T162400 +0000" stop="20251224T180100 +0000" channel="ETVONE">
+    <title lang="en">Elf</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">A human raised as an elf journeys to New York City to find his real father.</desc>
   </programme>
 
-  <programme start="20251201100000 -0400" stop="20251201103000 -0400" channel="ETVONE">
-    <title>Star vs. the Forces of Evil</title>
-    <sub-title>Star vs. Echo Creek / Wand to Wand</sub-title>
-    <episode-num system="onscreen">S2E4</episode-num>
-    <desc>Star runs after accidentally destroying a police car; both Star and Ludo struggle with their new wands.</desc>
+  <programme start="20251224T180100 +0000" stop="20251224T185900 +0000" channel="ETVONE">
+    <title lang="es">Banco Popular Presenta: Estampas de mi tierra</title>
+    <category lang="en">Special</category>
+    <desc lang="es">Un especial cultural que celebra las tradiciones y la identidad puertorriqueña.</desc>
   </programme>
 
-  <programme start="20251201103000 -0400" stop="20251201110000 -0400" channel="ETVONE">
-    <title>Star vs. the Forces of Evil</title>
-    <sub-title>Starstruck / Camping Trip</sub-title>
-    <episode-num system="onscreen">S2E5</episode-num>
-    <desc>Star helps Mina Loveberry regain her battle spirit; King Butterfly unexpectedly joins a Diaz family trip.</desc>
+  <programme start="20251224T185900 +0000" stop="20251224T203900 +0000" channel="ETVONE">
+    <title lang="en">The Polar Express</title>
+    <category lang="en">Movie</category>
+    <desc lang="en">A young boy embarks on a magical train ride to the North Pole on Christmas Eve.</desc>
   </programme>
 
-  <programme start="20251201110000 -0400" stop="20251201113000 -0400" channel="ETVONE">
-    <title>Teen Titans</title>
-    <sub-title>Only Human</sub-title>
-    <episode-num system="onscreen">S2E4</episode-num>
-    <desc>Cyborg struggles with limitations of his robotic body.</desc>
-  </programme>
-
-  <programme start="20251201113000 -0400" stop="20251201115500 -0400" channel="ETVONE">
-    <title>Teen Titans</title>
-    <sub-title>Fear Itself</sub-title>
-    <episode-num system="onscreen">S2E5</episode-num>
-    <desc>A ghostly force terrifies the Titans, putting Raven's emotions to the test.</desc>
-  </programme>
-
-  <programme start="20251201115500 -0400" stop="20251201140000 -0400" channel="ETVONE">
-    <title>The Fifth Element</title>
-    <desc>A 23rd-century cabbie becomes involved with an alien who may save humanity.</desc>
-  </programme>
-
-  <programme start="20251201140000 -0400" stop="20251201143000 -0400" channel="ETVONE">
-    <title>The Big Bang Theory</title>
-    <sub-title>The Bad Fish Paradigm</sub-title>
-    <episode-num system="onscreen">S2E1</episode-num>
-    <desc>Penny confides in Sheldon after a disastrous first date with Leonard.</desc>
-  </programme>
-
-  <programme start="20251201143000 -0400" stop="20251201150000 -0400" channel="ETVONE">
-    <title>The Big Bang Theory</title>
-    <sub-title>The Codpiece Topology</sub-title>
-    <episode-num system="onscreen">S2E2</episode-num>
-    <desc>Penny and Leonard try to move on; Leonard begins a rebound relationship.</desc>
-  </programme>
-
-  <programme start="20251201150000 -0400" stop="20251201153000 -0400" channel="ETVONE">
-    <title>Friends</title>
-    <sub-title>The One Where Ross and Rachel... You Know</sub-title>
-    <episode-num system="onscreen">S2E15</episode-num>
-    <desc>Monica meets a charming doctor; Joey buys a home theater setup.</desc>
-  </programme>
-
-  <programme start="20251201153000 -0400" stop="20251201160000 -0400" channel="ETVONE">
-    <title>Friends</title>
-    <sub-title>The One Where Joey Moves Out</sub-title>
-    <episode-num system="onscreen">S2E16</episode-num>
-    <desc>Chandler and Joey feud over space while Monica’s parents learn who she’s dating.</desc>
-  </programme>
-
-  <programme start="20251201160000 -0400" stop="20251201163000 -0400" channel="ETVONE">
-    <title>The Office</title>
-    <sub-title>A Benihana Christmas</sub-title>
-    <episode-num system="onscreen">S3E11</episode-num>
-    <desc>Michael sends an inappropriate card; rival Christmas parties erupt.</desc>
-  </programme>
-
-  <programme start="20251201163000 -0400" stop="20251201170000 -0400" channel="ETVONE">
-    <title>The Office</title>
-    <sub-title>Back from Vacation</sub-title>
-    <episode-num system="onscreen">S3E12</episode-num>
-    <desc>A racy vacation photo spreads through the office.</desc>
-  </programme>
-
-  <programme start="20251201170000 -0400" stop="20251201173000 -0400" channel="ETVONE">
-    <title>Parks and Recreation</title>
-    <sub-title>Andy and April's Fancy Party</sub-title>
-    <episode-num system="onscreen">S3E9</episode-num>
-    <desc>Andy and April hold a surprise wedding despite Leslie’s concerns.</desc>
-  </programme>
-
-  <programme start="20251201173000 -0400" stop="20251201180000 -0400" channel="ETVONE">
-    <title>Parks and Recreation</title>
-    <sub-title>Soulmates</sub-title>
-    <episode-num system="onscreen">S3E10</episode-num>
-    <desc>Leslie tries online dating; Ron challenges Chris to a burger cook-off.</desc>
-  </programme>
-
-  <programme start="20251201180000 -0400" stop="20251201190000 -0400" channel="ETVONE">
-    <title>Charmed</title>
-    <sub-title>Wicca Envy</sub-title>
-    <episode-num system="onscreen">S1E10</episode-num>
-    <desc>The sisters fall under the control of Prue’s warlock boss.</desc>
-  </programme>
-
-  <programme start="20251201190000 -0400" stop="20251201195000 -0400" channel="ETVONE">
-    <title>The Last of Us</title>
-    <sub-title>When We Are in Need</sub-title>
-    <episode-num system="onscreen">S1E8</episode-num>
-    <desc>Ellie confronts a violent group while Joel fights for survival.</desc>
-  </programme>
-
-  <programme start="20251201195000 -0400" stop="20251201213600 -0400" channel="ETVONE">
-    <title>Lucha Libre AAA</title>
-    <desc>Lucha Libre AAA Worldwide from Auditorio GNP Seguros. Alianzas Tour – Road to Guerra de Titanes.</desc>
-  </programme>
-
-  <!-- OFF-AIR BLOCK -->
-  <programme start="20251201213600 -0400" stop="20251204070000 -0400" channel="ETVONE">
-    <title>Off-air</title>
-    <desc>No programming scheduled.</desc>
+  <!-- OFF-AIR AFTER LAST PROGRAM -->
+  <!-- Dec 24, 2025 20:39 UTC -> Dec 31, 2025 08:00 UTC -->
+  <programme start="20251224T203900 +0000" stop="20251231T080000 +0000" channel="ETVONE">
+    <title lang="en">Off-air</title>
+    <desc lang="en">This channel is currently off-air.</desc>
+    <category lang="en">System</category>
   </programme>
 
   
@@ -524,6 +427,7 @@
 
   
 </tv>
+
 
 
 
