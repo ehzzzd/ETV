@@ -229,70 +229,57 @@
 </programme> 
 
   
-
-  <!-- OFF-AIR / RETURN MESSAGE -->
-  <!-- Dec 23, 2025 18:00 UTC -> Dec 24, 2025 08:00 UTC -->
-  <programme start="20251223T180000 +0000" stop="20251224T080000 +0000" channel="ETVONE">
+  <!-- RETURN MESSAGE -->
+  <programme start="20251223180000+0000" stop="20251224080000+0000" channel="ETVONE">
     <title lang="es">Regresamos el 24 de diciembre a las 8am</title>
-    <desc lang="es">Nuestra programación especial de Navidad comienza el 24 de diciembre a las 8:00am.</desc>
     <category lang="en">System</category>
   </programme>
 
-  <!-- CHRISTMAS DAY SCHEDULE -->
+  <!-- PROGRAMMING BEGINS -->
 
-  <programme start="20251224T080000 +0000" stop="20251224T094200 +0000" channel="ETVONE">
+  <programme start="20251224080000+0000" stop="20251224094200+0000" channel="ETVONE">
     <title lang="en">Home Alone</title>
     <category lang="en">Movie</category>
-    <desc lang="en">An eight-year-old troublemaker must protect his home from burglars when his family accidentally leaves him behind for Christmas.</desc>
   </programme>
 
-  <programme start="20251224T094200 +0000" stop="20251224T112100 +0000" channel="ETVONE">
+  <programme start="20251224094200+0000" stop="20251224112100+0000" channel="ETVONE">
     <title lang="en">Christmas with the Kranks</title>
     <category lang="en">Movie</category>
-    <desc lang="en">A couple decides to skip Christmas, only to face unexpected chaos when plans change.</desc>
   </programme>
 
-  <programme start="20251224T112100 +0000" stop="20251224T130200 +0000" channel="ETVONE">
+  <programme start="20251224112100+0000" stop="20251224130200+0000" channel="ETVONE">
     <title lang="en">Jack Frost</title>
     <category lang="en">Movie</category>
-    <desc lang="en">A father who dies in a car accident comes back to life as a snowman to spend time with his son.</desc>
   </programme>
 
-  <programme start="20251224T130200 +0000" stop="20251224T144000 +0000" channel="ETVONE">
+  <programme start="20251224130200+0000" stop="20251224144000+0000" channel="ETVONE">
     <title lang="en">The Santa Clause</title>
     <category lang="en">Movie</category>
-    <desc lang="en">A man accidentally causes Santa’s death and is magically recruited to take his place.</desc>
   </programme>
 
-  <programme start="20251224T144000 +0000" stop="20251224T162400 +0000" channel="ETVONE">
+  <programme start="20251224144000+0000" stop="20251224162400+0000" channel="ETVONE">
     <title lang="en">How the Grinch Stole Christmas</title>
     <category lang="en">Movie</category>
-    <desc lang="en">The Grinch plots to steal Christmas from the joyful citizens of Whoville.</desc>
   </programme>
 
-  <programme start="20251224T162400 +0000" stop="20251224T180100 +0000" channel="ETVONE">
+  <programme start="20251224162400+0000" stop="20251224180100+0000" channel="ETVONE">
     <title lang="en">Elf</title>
     <category lang="en">Movie</category>
-    <desc lang="en">A human raised as an elf journeys to New York City to find his real father.</desc>
   </programme>
 
-  <programme start="20251224T180100 +0000" stop="20251224T185900 +0000" channel="ETVONE">
+  <programme start="20251224180100+0000" stop="20251224185900+0000" channel="ETVONE">
     <title lang="es">Banco Popular Presenta: Estampas de mi tierra</title>
     <category lang="en">Special</category>
-    <desc lang="es">Un especial cultural que celebra las tradiciones y la identidad puertorriqueña.</desc>
   </programme>
 
-  <programme start="20251224T185900 +0000" stop="20251224T203900 +0000" channel="ETVONE">
+  <programme start="20251224185900+0000" stop="20251224203900+0000" channel="ETVONE">
     <title lang="en">The Polar Express</title>
     <category lang="en">Movie</category>
-    <desc lang="en">A young boy embarks on a magical train ride to the North Pole on Christmas Eve.</desc>
   </programme>
 
-  <!-- OFF-AIR AFTER LAST PROGRAM -->
-  <!-- Dec 24, 2025 20:39 UTC -> Dec 31, 2025 08:00 UTC -->
-  <programme start="20251224T203900 +0000" stop="20251231T080000 +0000" channel="ETVONE">
+  <!-- OFF-AIR AFTER PROGRAMMING -->
+  <programme start="20251224203900+0000" stop="20251231080000+0000" channel="ETVONE">
     <title lang="en">Off-air</title>
-    <desc lang="en">This channel is currently off-air.</desc>
     <category lang="en">System</category>
   </programme>
 
@@ -427,6 +414,7 @@
 
   
 </tv>
+
 
 
 
