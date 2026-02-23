@@ -427,673 +427,687 @@
 
   
     <!-- WSTE -->
- <!-- 16 de enero de 2026 -->
-  <programme start="20260116000000 -0400" stop="20260116003000 -0400" channel="WSTE7.pr">
+ <!-- 23 de febrero de 2026 (Lunes) -->
+  <programme start="20260223000000 -0400" stop="20260223003000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116003000 -0400" stop="20260116010000 -0400" channel="WSTE7.pr">
+  <programme start="20260223003000 -0400" stop="20260223010000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116010000 -0400" stop="20260116013000 -0400" channel="WSTE7.pr">
+  <programme start="20260223010000 -0400" stop="20260223013000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116013000 -0400" stop="20260116020000 -0400" channel="WSTE7.pr">
+  <programme start="20260223013000 -0400" stop="20260223020000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116020000 -0400" stop="20260116023000 -0400" channel="WSTE7.pr">
+  <programme start="20260223020000 -0400" stop="20260223023000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116023000 -0400" stop="20260116030000 -0400" channel="WSTE7.pr">
+  <programme start="20260223023000 -0400" stop="20260223030000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116030000 -0400" stop="20260116033000 -0400" channel="WSTE7.pr">
+  <programme start="20260223030000 -0400" stop="20260223033000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116033000 -0400" stop="20260116040000 -0400" channel="WSTE7.pr">
+  <programme start="20260223033000 -0400" stop="20260223040000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116040000 -0400" stop="20260116043000 -0400" channel="WSTE7.pr">
+  <programme start="20260223040000 -0400" stop="20260223043000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116043000 -0400" stop="20260116050000 -0400" channel="WSTE7.pr">
+  <programme start="20260223043000 -0400" stop="20260223050000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116050000 -0400" stop="20260116053000 -0400" channel="WSTE7.pr">
+  <programme start="20260223050000 -0400" stop="20260223053000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116053000 -0400" stop="20260116060000 -0400" channel="WSTE7.pr">
+  <programme start="20260223053000 -0400" stop="20260223060000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116060000 -0400" stop="20260116063000 -0400" channel="WSTE7.pr">
+  <programme start="20260223060000 -0400" stop="20260223063000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116063000 -0400" stop="20260116070000 -0400" channel="WSTE7.pr">
+  <programme start="20260223063000 -0400" stop="20260223070000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260116070000 -0400" stop="20260116080000 -0400" channel="WSTE7.pr">
+  <programme start="20260223070000 -0400" stop="20260223073000 -0400" channel="WSTE7.pr">
     <title lang="es">El Chapulín Colorado</title>
   </programme>
-  <programme start="20260116080000 -0400" stop="20260116120000 -0400" channel="WSTE7.pr">
-    <title lang="es">Despierta America</title>
+  <programme start="20260223073000 -0400" stop="20260223080000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
   </programme>
-  <programme start="20260116120000 -0400" stop="20260116130000 -0400" channel="WSTE7.pr">
+  <programme start="20260223080000 -0400" stop="20260223120000 -0400" channel="WSTE7.pr">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20260223120000 -0400" stop="20260223130000 -0400" channel="WSTE7.pr">
     <title lang="es">Duelo de Pasiones</title>
   </programme>
-  <programme start="20260116130000 -0400" stop="20260116140000 -0400" channel="WSTE7.pr">
-    <title lang="es">Lo que la vida me robo</title>
+  <programme start="20260223130000 -0400" stop="20260223140000 -0400" channel="WSTE7.pr">
+    <title lang="es">Lo que la vida me robó</title>
   </programme>
-  <programme start="20260116140000 -0400" stop="20260116150000 -0400" channel="WSTE7.pr">
+  <programme start="20260223140000 -0400" stop="20260223150000 -0400" channel="WSTE7.pr">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20260116150000 -0400" stop="20260116160000 -0400" channel="WSTE7.pr">
-    <title lang="es">Siéntese quien Pueda</title>
+  <programme start="20260223150000 -0400" stop="20260223160000 -0400" channel="WSTE7.pr">
+    <title lang="es">Siéntese quien pueda</title>
   </programme>
-  <programme start="20260116160000 -0400" stop="20260116170000 -0400" channel="WSTE7.pr">
+  <programme start="20260223160000 -0400" stop="20260223170000 -0400" channel="WSTE7.pr">
     <title lang="es">Desiguales</title>
   </programme>
-  <programme start="20260116170000 -0400" stop="20260116180000 -0400" channel="WSTE7.pr">
+  <programme start="20260223170000 -0400" stop="20260223180000 -0400" channel="WSTE7.pr">
     <title lang="es">El Gordo y la Flaca</title>
   </programme>
-  <programme start="20260116180000 -0400" stop="20260116190000 -0400" channel="WSTE7.pr">
-    <title lang="es">Notiseis</title>
+  <programme start="20260223180000 -0400" stop="20260223190000 -0400" channel="WSTE7.pr">
+    <title lang="es">Notiséis</title>
   </programme>
-  <programme start="20260116190000 -0400" stop="20260116200000 -0400" channel="WSTE7.pr">
-    <title lang="es">Papas por Siempre</title>
+  <programme start="20260223190000 -0400" stop="20260223200000 -0400" channel="WSTE7.pr">
+    <title lang="es">Papás por Siempre</title>
   </programme>
-  <programme start="20260116200000 -0400" stop="20260116210000 -0400" channel="WSTE7.pr">
-    <title lang="es">Quien Caera?</title>
+  <programme start="20260223200000 -0400" stop="20260223210000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Quién Caerá?</title>
   </programme>
-  <programme start="20260116210000 -0400" stop="20260116230000 -0400" channel="WSTE7.pr">
-    <title lang="es">Cual es el Bueno?</title>
+  <programme start="20260223210000 -0400" stop="20260223230000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Apostarías por mí?</title>
   </programme>
-  <programme start="20260116230000 -0400" stop="20260117000000 -0400" channel="WSTE7.pr">
+  <programme start="20260223230000 -0400" stop="20260224000000 -0400" channel="WSTE7.pr">
     <title lang="es">La Caja de los Secretos</title>
   </programme>
 
-  <!-- 17 de enero de 2026 -->
-  <programme start="20260117000000 -0400" stop="20260117003000 -0400" channel="WSTE7.pr">
+  <!-- 24 de febrero de 2026 (Martes) -->
+  <programme start="20260224000000 -0400" stop="20260224003000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117003000 -0400" stop="20260117010000 -0400" channel="WSTE7.pr">
+  <programme start="20260224003000 -0400" stop="20260224010000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117010000 -0400" stop="20260117013000 -0400" channel="WSTE7.pr">
+  <programme start="20260224010000 -0400" stop="20260224013000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117013000 -0400" stop="20260117020000 -0400" channel="WSTE7.pr">
+  <programme start="20260224013000 -0400" stop="20260224020000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117020000 -0400" stop="20260117023000 -0400" channel="WSTE7.pr">
+  <programme start="20260224020000 -0400" stop="20260224023000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117023000 -0400" stop="20260117030000 -0400" channel="WSTE7.pr">
+  <programme start="20260224023000 -0400" stop="20260224030000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117030000 -0400" stop="20260117033000 -0400" channel="WSTE7.pr">
+  <programme start="20260224030000 -0400" stop="20260224033000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117033000 -0400" stop="20260117040000 -0400" channel="WSTE7.pr">
+  <programme start="20260224033000 -0400" stop="20260224040000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117040000 -0400" stop="20260117043000 -0400" channel="WSTE7.pr">
+  <programme start="20260224040000 -0400" stop="20260224043000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117043000 -0400" stop="20260117050000 -0400" channel="WSTE7.pr">
+  <programme start="20260224043000 -0400" stop="20260224050000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117050000 -0400" stop="20260117053000 -0400" channel="WSTE7.pr">
+  <programme start="20260224050000 -0400" stop="20260224053000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117053000 -0400" stop="20260117060000 -0400" channel="WSTE7.pr">
+  <programme start="20260224053000 -0400" stop="20260224060000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117060000 -0400" stop="20260117070000 -0400" channel="WSTE7.pr">
+  <programme start="20260224060000 -0400" stop="20260224063000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260224063000 -0400" stop="20260224070000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260224070000 -0400" stop="20260224073000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260224073000 -0400" stop="20260224080000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260224080000 -0400" stop="20260224120000 -0400" channel="WSTE7.pr">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20260224120000 -0400" stop="20260224130000 -0400" channel="WSTE7.pr">
+    <title lang="es">Duelo de Pasiones</title>
+  </programme>
+  <programme start="20260224130000 -0400" stop="20260224140000 -0400" channel="WSTE7.pr">
+    <title lang="es">Lo que la vida me robó</title>
+  </programme>
+  <programme start="20260224140000 -0400" stop="20260224150000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260224150000 -0400" stop="20260224160000 -0400" channel="WSTE7.pr">
+    <title lang="es">Siéntese quien pueda</title>
+  </programme>
+  <programme start="20260224160000 -0400" stop="20260224170000 -0400" channel="WSTE7.pr">
+    <title lang="es">Desiguales</title>
+  </programme>
+  <programme start="20260224170000 -0400" stop="20260224180000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20260224180000 -0400" stop="20260224190000 -0400" channel="WSTE7.pr">
+    <title lang="es">Notiséis</title>
+  </programme>
+  <programme start="20260224190000 -0400" stop="20260224200000 -0400" channel="WSTE7.pr">
+    <title lang="es">Papás por Siempre</title>
+  </programme>
+  <programme start="20260224200000 -0400" stop="20260224210000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Quién Caerá?</title>
+  </programme>
+  <programme start="20260224210000 -0400" stop="20260224230000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Apostarías por mí?</title>
+  </programme>
+  <programme start="20260224230000 -0400" stop="20260225000000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Caja de los Secretos</title>
+  </programme>
+
+  <!-- 25 de febrero de 2026 (Miércoles) -->
+  <programme start="20260225000000 -0400" stop="20260225003000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225003000 -0400" stop="20260225010000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225010000 -0400" stop="20260225013000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225013000 -0400" stop="20260225020000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225020000 -0400" stop="20260225023000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225023000 -0400" stop="20260225030000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225030000 -0400" stop="20260225033000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225033000 -0400" stop="20260225040000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225040000 -0400" stop="20260225043000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225043000 -0400" stop="20260225050000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225050000 -0400" stop="20260225053000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225053000 -0400" stop="20260225060000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225060000 -0400" stop="20260225063000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225063000 -0400" stop="20260225070000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260225070000 -0400" stop="20260225073000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260225073000 -0400" stop="20260225080000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260225080000 -0400" stop="20260225120000 -0400" channel="WSTE7.pr">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20260225120000 -0400" stop="20260225130000 -0400" channel="WSTE7.pr">
+    <title lang="es">Duelo de Pasiones</title>
+  </programme>
+  <programme start="20260225130000 -0400" stop="20260225140000 -0400" channel="WSTE7.pr">
+    <title lang="es">Lo que la vida me robó</title>
+  </programme>
+  <programme start="20260225140000 -0400" stop="20260225150000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260225150000 -0400" stop="20260225160000 -0400" channel="WSTE7.pr">
+    <title lang="es">Siéntese quien pueda</title>
+  </programme>
+  <programme start="20260225160000 -0400" stop="20260225170000 -0400" channel="WSTE7.pr">
+    <title lang="es">Desiguales</title>
+  </programme>
+  <programme start="20260225170000 -0400" stop="20260225180000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20260225180000 -0400" stop="20260225190000 -0400" channel="WSTE7.pr">
+    <title lang="es">Notiséis</title>
+  </programme>
+  <programme start="20260225190000 -0400" stop="20260225200000 -0400" channel="WSTE7.pr">
+    <title lang="es">Papás por Siempre</title>
+  </programme>
+  <programme start="20260225200000 -0400" stop="20260225210000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Quién Caerá?</title>
+  </programme>
+  <programme start="20260225210000 -0400" stop="20260225230000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Apostarías por mí?</title>
+  </programme>
+  <programme start="20260225230000 -0400" stop="20260226000000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Caja de los Secretos</title>
+  </programme>
+
+  <!-- 26 de febrero de 2026 (Jueves) -->
+  <programme start="20260226000000 -0400" stop="20260226003000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226003000 -0400" stop="20260226010000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226010000 -0400" stop="20260226013000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226013000 -0400" stop="20260226020000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226020000 -0400" stop="20260226023000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226023000 -0400" stop="20260226030000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226030000 -0400" stop="20260226033000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226033000 -0400" stop="20260226040000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226040000 -0400" stop="20260226043000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226043000 -0400" stop="20260226050000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226050000 -0400" stop="20260226053000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226053000 -0400" stop="20260226060000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226060000 -0400" stop="20260226063000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226063000 -0400" stop="20260226070000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260226070000 -0400" stop="20260226073000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260226073000 -0400" stop="20260226080000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260226080000 -0400" stop="20260226120000 -0400" channel="WSTE7.pr">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20260226120000 -0400" stop="20260226130000 -0400" channel="WSTE7.pr">
+    <title lang="es">Duelo de Pasiones</title>
+  </programme>
+  <programme start="20260226130000 -0400" stop="20260226140000 -0400" channel="WSTE7.pr">
+    <title lang="es">Lo que la vida me robó</title>
+  </programme>
+  <programme start="20260226140000 -0400" stop="20260226150000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260226150000 -0400" stop="20260226160000 -0400" channel="WSTE7.pr">
+    <title lang="es">Siéntese quien pueda</title>
+  </programme>
+  <programme start="20260226160000 -0400" stop="20260226170000 -0400" channel="WSTE7.pr">
+    <title lang="es">Desiguales</title>
+  </programme>
+  <programme start="20260226170000 -0400" stop="20260226180000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20260226180000 -0400" stop="20260226190000 -0400" channel="WSTE7.pr">
+    <title lang="es">Notiséis</title>
+  </programme>
+  <programme start="20260226190000 -0400" stop="20260226200000 -0400" channel="WSTE7.pr">
+    <title lang="es">Papás por Siempre</title>
+  </programme>
+  <programme start="20260226200000 -0400" stop="20260226210000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Quién Caerá?</title>
+  </programme>
+  <programme start="20260226210000 -0400" stop="20260226230000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Apostarías por mí?</title>
+  </programme>
+  <programme start="20260226230000 -0400" stop="20260227000000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Caja de los Secretos</title>
+  </programme>
+
+  <!-- 27 de febrero de 2026 (Viernes) -->
+  <programme start="20260227000000 -0400" stop="20260227003000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227003000 -0400" stop="20260227010000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227010000 -0400" stop="20260227013000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227013000 -0400" stop="20260227020000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227020000 -0400" stop="20260227023000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227023000 -0400" stop="20260227030000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227030000 -0400" stop="20260227033000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227033000 -0400" stop="20260227040000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227040000 -0400" stop="20260227043000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227043000 -0400" stop="20260227050000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227050000 -0400" stop="20260227053000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227053000 -0400" stop="20260227060000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227060000 -0400" stop="20260227063000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227063000 -0400" stop="20260227070000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260227070000 -0400" stop="20260227073000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260227073000 -0400" stop="20260227080000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20260227080000 -0400" stop="20260227120000 -0400" channel="WSTE7.pr">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20260227120000 -0400" stop="20260227130000 -0400" channel="WSTE7.pr">
+    <title lang="es">Duelo de Pasiones</title>
+  </programme>
+  <programme start="20260227130000 -0400" stop="20260227140000 -0400" channel="WSTE7.pr">
+    <title lang="es">Lo que la vida me robó</title>
+  </programme>
+  <programme start="20260227140000 -0400" stop="20260227150000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20260227150000 -0400" stop="20260227160000 -0400" channel="WSTE7.pr">
+    <title lang="es">Siéntese quien pueda</title>
+  </programme>
+  <programme start="20260227160000 -0400" stop="20260227170000 -0400" channel="WSTE7.pr">
+    <title lang="es">Desiguales</title>
+  </programme>
+  <programme start="20260227170000 -0400" stop="20260227180000 -0400" channel="WSTE7.pr">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20260227180000 -0400" stop="20260227190000 -0400" channel="WSTE7.pr">
+    <title lang="es">Notiséis</title>
+  </programme>
+  <programme start="20260227190000 -0400" stop="20260227200000 -0400" channel="WSTE7.pr">
+    <title lang="es">Papás por Siempre</title>
+  </programme>
+  <programme start="20260227200000 -0400" stop="20260227210000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Quién Caerá?</title>
+  </programme>
+  <programme start="20260227210000 -0400" stop="20260227230000 -0400" channel="WSTE7.pr">
+    <title lang="es">¿Apostarías por mí?</title>
+  </programme>
+  <programme start="20260227230000 -0400" stop="20260228000000 -0400" channel="WSTE7.pr">
+    <title lang="es">La Caja de los Secretos</title>
+  </programme>
+
+  <!-- 28 de febrero de 2026 (Sábado) -->
+  <programme start="20260228000000 -0400" stop="20260228003000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228003000 -0400" stop="20260228010000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228010000 -0400" stop="20260228013000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228013000 -0400" stop="20260228020000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228020000 -0400" stop="20260228023000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228023000 -0400" stop="20260228030000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228030000 -0400" stop="20260228033000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228033000 -0400" stop="20260228040000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228040000 -0400" stop="20260228043000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228043000 -0400" stop="20260228050000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228050000 -0400" stop="20260228053000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228053000 -0400" stop="20260228060000 -0400" channel="WSTE7.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260228060000 -0400" stop="20260228070000 -0400" channel="WSTE7.pr">
     <title lang="es">Babar y las aventuras de Babo</title>
   </programme>
-  <programme start="20260117070000 -0400" stop="20260117080000 -0400" channel="WSTE7.pr">
+  <programme start="20260228070000 -0400" stop="20260228080000 -0400" channel="WSTE7.pr">
     <title lang="es">Franklin &amp; Friends</title>
   </programme>
-  <programme start="20260117080000 -0400" stop="20260117083000 -0400" channel="WSTE7.pr">
+  <programme start="20260228080000 -0400" stop="20260228083000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117083000 -0400" stop="20260117090000 -0400" channel="WSTE7.pr">
+  <programme start="20260228083000 -0400" stop="20260228090000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117090000 -0400" stop="20260117093000 -0400" channel="WSTE7.pr">
+  <programme start="20260228090000 -0400" stop="20260228093000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117093000 -0400" stop="20260117100000 -0400" channel="WSTE7.pr">
+  <programme start="20260228093000 -0400" stop="20260228100000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117100000 -0400" stop="20260117103000 -0400" channel="WSTE7.pr">
+  <programme start="20260228100000 -0400" stop="20260228103000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117103000 -0400" stop="20260117110000 -0400" channel="WSTE7.pr">
+  <programme start="20260228103000 -0400" stop="20260228110000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117110000 -0400" stop="20260117113000 -0400" channel="WSTE7.pr">
+  <programme start="20260228110000 -0400" stop="20260228113000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117113000 -0400" stop="20260117120000 -0400" channel="WSTE7.pr">
+  <programme start="20260228113000 -0400" stop="20260228120000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117120000 -0400" stop="20260117123000 -0400" channel="WSTE7.pr">
+  <programme start="20260228120000 -0400" stop="20260228123000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117123000 -0400" stop="20260117130000 -0400" channel="WSTE7.pr">
+  <programme start="20260228123000 -0400" stop="20260228130000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117130000 -0400" stop="20260117133000 -0400" channel="WSTE7.pr">
+  <programme start="20260228130000 -0400" stop="20260228133000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117133000 -0400" stop="20260117140000 -0400" channel="WSTE7.pr">
+  <programme start="20260228133000 -0400" stop="20260228140000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117140000 -0400" stop="20260117143000 -0400" channel="WSTE7.pr">
+  <programme start="20260228140000 -0400" stop="20260228143000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117143000 -0400" stop="20260117150000 -0400" channel="WSTE7.pr">
+  <programme start="20260228143000 -0400" stop="20260228150000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117150000 -0400" stop="20260117153000 -0400" channel="WSTE7.pr">
+  <programme start="20260228150000 -0400" stop="20260228153000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117153000 -0400" stop="20260117160000 -0400" channel="WSTE7.pr">
+  <programme start="20260228153000 -0400" stop="20260228160000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117160000 -0400" stop="20260117163000 -0400" channel="WSTE7.pr">
+  <programme start="20260228160000 -0400" stop="20260228163000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117163000 -0400" stop="20260117170000 -0400" channel="WSTE7.pr">
+  <programme start="20260228163000 -0400" stop="20260228170000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117170000 -0400" stop="20260117173000 -0400" channel="WSTE7.pr">
+  <programme start="20260228170000 -0400" stop="20260228173000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117173000 -0400" stop="20260117180000 -0400" channel="WSTE7.pr">
+  <programme start="20260228173000 -0400" stop="20260228180000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117180000 -0400" stop="20260117183000 -0400" channel="WSTE7.pr">
+  <programme start="20260228180000 -0400" stop="20260228183000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117183000 -0400" stop="20260117190000 -0400" channel="WSTE7.pr">
+  <programme start="20260228183000 -0400" stop="20260228190000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117190000 -0400" stop="20260117193000 -0400" channel="WSTE7.pr">
+  <programme start="20260228190000 -0400" stop="20260228193000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117193000 -0400" stop="20260117200000 -0400" channel="WSTE7.pr">
+  <programme start="20260228193000 -0400" stop="20260228200000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117200000 -0400" stop="20260117203000 -0400" channel="WSTE7.pr">
+  <programme start="20260228200000 -0400" stop="20260228203000 -0400" channel="WSTE7.pr">
+    <title lang="es">MotorShow TV</title>
+  </programme>
+  <programme start="20260228203000 -0400" stop="20260228210000 -0400" channel="WSTE7.pr">
+    <title lang="es">MotorShow TV - Archivo</title>
+  </programme>
+  <programme start="20260228210000 -0400" stop="20260228213000 -0400" channel="WSTE7.pr">
+    <title lang="es">Muévete (VegaCoop)</title>
+  </programme>
+  <programme start="20260228213000 -0400" stop="20260228220000 -0400" channel="WSTE7.pr">
+    <title lang="es">SOLO 4x4 OFF ROAD TV</title>
+  </programme>
+  <programme start="20260228220000 -0400" stop="20260228223000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117203000 -0400" stop="20260117210000 -0400" channel="WSTE7.pr">
+  <programme start="20260228223000 -0400" stop="20260228230000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117210000 -0400" stop="20260117213000 -0400" channel="WSTE7.pr">
+  <programme start="20260228230000 -0400" stop="20260228233000 -0400" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260117213000 -0400" stop="20260117220000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260117220000 -0400" stop="20260117223000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260117223000 -0400" stop="20260117230000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260117230000 -0400" stop="20260117233000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260117233000 -0400" stop="20260118000000 -0400" channel="WSTE7.pr">
+  <programme start="20260228233000 -0400" stop="20260301000000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
 
-  <!-- 18 de enero de 2026 -->
-  <programme start="20260118000000 -0400" stop="20260118003000 -0400" channel="WSTE7.pr">
+  <!-- 1 de marzo de 2026 (Domingo) -->
+  <programme start="20260301000000 -0500" stop="20260301003000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118003000 -0400" stop="20260118010000 -0400" channel="WSTE7.pr">
+  <programme start="20260301003000 -0500" stop="20260301010000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118010000 -0400" stop="20260118013000 -0400" channel="WSTE7.pr">
+  <programme start="20260301010000 -0500" stop="20260301013000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118013000 -0400" stop="20260118020000 -0400" channel="WSTE7.pr">
+  <programme start="20260301013000 -0500" stop="20260301020000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118020000 -0400" stop="20260118023000 -0400" channel="WSTE7.pr">
+  <programme start="20260301020000 -0500" stop="20260301023000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118023000 -0400" stop="20260118030000 -0400" channel="WSTE7.pr">
+  <programme start="20260301023000 -0500" stop="20260301030000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118030000 -0400" stop="20260118033000 -0400" channel="WSTE7.pr">
+  <programme start="20260301030000 -0500" stop="20260301033000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118033000 -0400" stop="20260118040000 -0400" channel="WSTE7.pr">
+  <programme start="20260301033000 -0500" stop="20260301040000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118040000 -0400" stop="20260118043000 -0400" channel="WSTE7.pr">
+  <programme start="20260301040000 -0500" stop="20260301043000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118043000 -0400" stop="20260118050000 -0400" channel="WSTE7.pr">
+  <programme start="20260301043000 -0500" stop="20260301050000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118050000 -0400" stop="20260118053000 -0400" channel="WSTE7.pr">
+  <programme start="20260301050000 -0500" stop="20260301053000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118053000 -0400" stop="20260118060000 -0400" channel="WSTE7.pr">
+  <programme start="20260301053000 -0500" stop="20260301060000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118060000 -0400" stop="20260118070000 -0400" channel="WSTE7.pr">
+  <programme start="20260301060000 -0500" stop="20260301070000 -0500" channel="WSTE7.pr">
     <title lang="es">Babar y las aventuras de Babo</title>
   </programme>
-  <programme start="20260118070000 -0400" stop="20260118080000 -0400" channel="WSTE7.pr">
+  <programme start="20260301070000 -0500" stop="20260301080000 -0500" channel="WSTE7.pr">
     <title lang="es">Franklin &amp; Friends</title>
   </programme>
-  <programme start="20260118080000 -0400" stop="20260118083000 -0400" channel="WSTE7.pr">
+  <programme start="20260301080000 -0500" stop="20260301083000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118083000 -0400" stop="20260118090000 -0400" channel="WSTE7.pr">
+  <programme start="20260301083000 -0500" stop="20260301090000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118090000 -0400" stop="20260118093000 -0400" channel="WSTE7.pr">
+  <programme start="20260301090000 -0500" stop="20260301093000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118093000 -0400" stop="20260118100000 -0400" channel="WSTE7.pr">
+  <programme start="20260301093000 -0500" stop="20260301100000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118100000 -0400" stop="20260118103000 -0400" channel="WSTE7.pr">
+  <programme start="20260301100000 -0500" stop="20260301103000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118103000 -0400" stop="20260118110000 -0400" channel="WSTE7.pr">
+  <programme start="20260301103000 -0500" stop="20260301110000 -0500" channel="WSTE7.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20260118110000 -0400" stop="20260118113000 -0400" channel="WSTE7.pr">
+  <programme start="20260301110000 -0500" stop="20260301113000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chapulin Colorado</title>
   </programme>
-  <programme start="20260118113000 -0400" stop="20260118120000 -0400" channel="WSTE7.pr">
+  <programme start="20260301113000 -0500" stop="20260301120000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chapulin Colorado</title>
   </programme>
-  <programme start="20260118120000 -0400" stop="20260118123000 -0400" channel="WSTE7.pr">
+  <programme start="20260301120000 -0500" stop="20260301123000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chavo del 8</title>
   </programme>
-  <programme start="20260118123000 -0400" stop="20260118130000 -0400" channel="WSTE7.pr">
+  <programme start="20260301123000 -0500" stop="20260301130000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chavo del 8</title>
   </programme>
-  <programme start="20260118130000 -0400" stop="20260118133000 -0400" channel="WSTE7.pr">
+  <programme start="20260301130000 -0500" stop="20260301133000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chavo del 8</title>
   </programme>
-  <programme start="20260118133000 -0400" stop="20260118140000 -0400" channel="WSTE7.pr">
+  <programme start="20260301133000 -0500" stop="20260301140000 -0500" channel="WSTE7.pr">
     <title lang="es">El Chavo del 8</title>
   </programme>
-  <programme start="20260118140000 -0400" stop="20260118150000 -0400" channel="WSTE7.pr">
+  <programme start="20260301140000 -0500" stop="20260301150000 -0500" channel="WSTE7.pr">
     <title lang="es">Esta historia me suena</title>
   </programme>
-  <programme start="20260118150000 -0400" stop="20260118160000 -0400" channel="WSTE7.pr">
+  <programme start="20260301150000 -0500" stop="20260301160000 -0500" channel="WSTE7.pr">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20260118160000 -0400" stop="20260118170000 -0400" channel="WSTE7.pr">
+  <programme start="20260301160000 -0500" stop="20260301170000 -0500" channel="WSTE7.pr">
     <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20260118170000 -0400" stop="20260118180000 -0400" channel="WSTE7.pr">
+  <programme start="20260301170000 -0500" stop="20260301180000 -0500" channel="WSTE7.pr">
     <title lang="es">Piensa Rápido</title>
   </programme>
-  <programme start="20260118180000 -0400" stop="20260118190000 -0400" channel="WSTE7.pr">
+  <programme start="20260301180000 -0500" stop="20260301190000 -0500" channel="WSTE7.pr">
     <title lang="es">Lo tomas o lo dejas</title>
   </programme>
-  <programme start="20260118190000 -0400" stop="20260118200000 -0400" channel="WSTE7.pr">
+  <programme start="20260301190000 -0500" stop="20260301200000 -0500" channel="WSTE7.pr">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20260118200000 -0400" stop="20260118210000 -0400" channel="WSTE7.pr">
+  <programme start="20260301200000 -0500" stop="20260301210000 -0500" channel="WSTE7.pr">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20260118210000 -0400" stop="20260118230000 -0400" channel="WSTE7.pr">
+  <programme start="20260301210000 -0500" stop="20260301230000 -0500" channel="WSTE7.pr">
     <title lang="es">¿Apostarías por mí?</title>
   </programme>
-  <programme start="20260118230000 -0400" stop="20260118233000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulin Colorado</title>
-  </programme>
-  <programme start="20260118233000 -0400" stop="20260119000000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulin Colorado</title>
+  <programme start="20260301230000 -0500" stop="20260302010000 -0500" channel="WSTE7.pr">
+    <title lang="es">Pacto de Sangre</title>
   </programme>
 
-  <!-- 19 de enero de 2026 -->
-  <programme start="20260119000000 -0400" stop="20260119003000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119003000 -0400" stop="20260119010000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119010000 -0400" stop="20260119013000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119013000 -0400" stop="20260119020000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119020000 -0400" stop="20260119023000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119023000 -0400" stop="20260119030000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119030000 -0400" stop="20260119033000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119033000 -0400" stop="20260119040000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119040000 -0400" stop="20260119043000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119043000 -0400" stop="20260119050000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119050000 -0400" stop="20260119053000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119053000 -0400" stop="20260119060000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119060000 -0400" stop="20260119063000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119063000 -0400" stop="20260119070000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260119070000 -0400" stop="20260119080000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulín Colorado</title>
-  </programme>
-  <programme start="20260119080000 -0400" stop="20260119120000 -0400" channel="WSTE7.pr">
-    <title lang="es">Despierta America</title>
-  </programme>
-  <programme start="20260119120000 -0400" stop="20260119130000 -0400" channel="WSTE7.pr">
-    <title lang="es">Duelo de Pasiones</title>
-  </programme>
-  <programme start="20260119130000 -0400" stop="20260119140000 -0400" channel="WSTE7.pr">
-    <title lang="es">Lo que la vida me robo</title>
-  </programme>
-  <programme start="20260119140000 -0400" stop="20260119150000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260119150000 -0400" stop="20260119160000 -0400" channel="WSTE7.pr">
-    <title lang="es">Siéntese quien Pueda</title>
-  </programme>
-  <programme start="20260119160000 -0400" stop="20260119170000 -0400" channel="WSTE7.pr">
-    <title lang="es">Desiguales</title>
-  </programme>
-  <programme start="20260119170000 -0400" stop="20260119180000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Gordo y la Flaca</title>
-  </programme>
-  <programme start="20260119180000 -0400" stop="20260119190000 -0400" channel="WSTE7.pr">
-    <title lang="es">Notiseis</title>
-  </programme>
-  <programme start="20260119190000 -0400" stop="20260119200000 -0400" channel="WSTE7.pr">
-    <title lang="es">Papas por Siempre</title>
-  </programme>
-  <programme start="20260119200000 -0400" stop="20260119210000 -0400" channel="WSTE7.pr">
-    <title lang="es">Quien Caera?</title>
-  </programme>
-  <programme start="20260119210000 -0400" stop="20260119230000 -0400" channel="WSTE7.pr">
-    <title lang="es">¿Apostarías por mí?</title>
-  </programme>
-  <programme start="20260119230000 -0400" stop="20260120000000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Caja de los Secretos</title>
-  </programme>
-
-  <!-- 20 de enero de 2026 -->
-  <programme start="20260120000000 -0400" stop="20260120003000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120003000 -0400" stop="20260120010000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120010000 -0400" stop="20260120013000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120013000 -0400" stop="20260120020000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120020000 -0400" stop="20260120023000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120023000 -0400" stop="20260120030000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120030000 -0400" stop="20260120033000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120033000 -0400" stop="20260120040000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120040000 -0400" stop="20260120043000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120043000 -0400" stop="20260120050000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120050000 -0400" stop="20260120053000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120053000 -0400" stop="20260120060000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120060000 -0400" stop="20260120063000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120063000 -0400" stop="20260120070000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260120070000 -0400" stop="20260120080000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulín Colorado</title>
-  </programme>
-  <programme start="20260120080000 -0400" stop="20260120120000 -0400" channel="WSTE7.pr">
-    <title lang="es">Despierta America</title>
-  </programme>
-  <programme start="20260120120000 -0400" stop="20260120130000 -0400" channel="WSTE7.pr">
-    <title lang="es">Duelo de Pasiones</title>
-  </programme>
-  <programme start="20260120130000 -0400" stop="20260120140000 -0400" channel="WSTE7.pr">
-    <title lang="es">Lo que la vida me robo</title>
-  </programme>
-  <programme start="20260120140000 -0400" stop="20260120150000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260120150000 -0400" stop="20260120160000 -0400" channel="WSTE7.pr">
-    <title lang="es">Siéntese quien Pueda</title>
-  </programme>
-  <programme start="20260120160000 -0400" stop="20260120170000 -0400" channel="WSTE7.pr">
-    <title lang="es">Desiguales</title>
-  </programme>
-  <programme start="20260120170000 -0400" stop="20260120180000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Gordo y la Flaca</title>
-  </programme>
-  <programme start="20260120180000 -0400" stop="20260120190000 -0400" channel="WSTE7.pr">
-    <title lang="es">Notiseis</title>
-  </programme>
-  <programme start="20260120190000 -0400" stop="20260120200000 -0400" channel="WSTE7.pr">
-    <title lang="es">Papas por Siempre</title>
-  </programme>
-  <programme start="20260120200000 -0400" stop="20260120210000 -0400" channel="WSTE7.pr">
-    <title lang="es">Quien Caera?</title>
-  </programme>
-  <programme start="20260120210000 -0400" stop="20260120230000 -0400" channel="WSTE7.pr">
-    <title lang="es">¿Apostarías por mí?</title>
-  </programme>
-  <programme start="20260120230000 -0400" stop="20260121000000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Caja de los Secretos</title>
-  </programme>
-
-  <!-- 21 de enero de 2026 -->
-  <programme start="20260121000000 -0400" stop="20260121003000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121003000 -0400" stop="20260121010000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121010000 -0400" stop="20260121013000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121013000 -0400" stop="20260121020000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121020000 -0400" stop="20260121023000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121023000 -0400" stop="20260121030000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121030000 -0400" stop="20260121033000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121033000 -0400" stop="20260121040000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121040000 -0400" stop="20260121043000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121043000 -0400" stop="20260121050000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121050000 -0400" stop="20260121053000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121053000 -0400" stop="20260121060000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121060000 -0400" stop="20260121063000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121063000 -0400" stop="20260121070000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260121070000 -0400" stop="20260121080000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulín Colorado</title>
-  </programme>
-  <programme start="20260121080000 -0400" stop="20260121120000 -0400" channel="WSTE7.pr">
-    <title lang="es">Despierta America</title>
-  </programme>
-  <programme start="20260121120000 -0400" stop="20260121130000 -0400" channel="WSTE7.pr">
-    <title lang="es">Duelo de Pasiones</title>
-  </programme>
-  <programme start="20260121130000 -0400" stop="20260121140000 -0400" channel="WSTE7.pr">
-    <title lang="es">Lo que la vida me robo</title>
-  </programme>
-  <programme start="20260121140000 -0400" stop="20260121150000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260121150000 -0400" stop="20260121160000 -0400" channel="WSTE7.pr">
-    <title lang="es">Siéntese quien Pueda</title>
-  </programme>
-  <programme start="20260121160000 -0400" stop="20260121170000 -0400" channel="WSTE7.pr">
-    <title lang="es">Desiguales</title>
-  </programme>
-  <programme start="20260121170000 -0400" stop="20260121180000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Gordo y la Flaca</title>
-  </programme>
-  <programme start="20260121180000 -0400" stop="20260121190000 -0400" channel="WSTE7.pr">
-    <title lang="es">Notiseis</title>
-  </programme>
-  <programme start="20260121190000 -0400" stop="20260121200000 -0400" channel="WSTE7.pr">
-    <title lang="es">Papas por Siempre</title>
-  </programme>
-  <programme start="20260121200000 -0400" stop="20260121210000 -0400" channel="WSTE7.pr">
-    <title lang="es">Quien Caera?</title>
-  </programme>
-  <programme start="20260121210000 -0400" stop="20260121230000 -0400" channel="WSTE7.pr">
-    <title lang="es">¿Apostarías por mí?</title>
-  </programme>
-  <programme start="20260121230000 -0400" stop="20260122000000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Caja de los Secretos</title>
-  </programme>
-
-  <!-- 22 de enero de 2026 -->
-  <programme start="20260122000000 -0400" stop="20260122003000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122003000 -0400" stop="20260122010000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122010000 -0400" stop="20260122013000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122013000 -0400" stop="20260122020000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122020000 -0400" stop="20260122023000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122023000 -0400" stop="20260122030000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122030000 -0400" stop="20260122033000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122033000 -0400" stop="20260122040000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122040000 -0400" stop="20260122043000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122043000 -0400" stop="20260122050000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122050000 -0400" stop="20260122053000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122053000 -0400" stop="20260122060000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122060000 -0400" stop="20260122063000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122063000 -0400" stop="20260122070000 -0400" channel="WSTE7.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20260122070000 -0400" stop="20260122080000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Chapulín Colorado</title>
-  </programme>
-  <programme start="20260122080000 -0400" stop="20260122120000 -0400" channel="WSTE7.pr">
-    <title lang="es">Despierta America</title>
-  </programme>
-  <programme start="20260122120000 -0400" stop="20260122130000 -0400" channel="WSTE7.pr">
-    <title lang="es">Duelo de Pasiones</title>
-  </programme>
-  <programme start="20260122130000 -0400" stop="20260122140000 -0400" channel="WSTE7.pr">
-    <title lang="es">Lo que la vida me robo</title>
-  </programme>
-  <programme start="20260122140000 -0400" stop="20260122150000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20260122150000 -0400" stop="20260122160000 -0400" channel="WSTE7.pr">
-    <title lang="es">Siéntese quien Pueda</title>
-  </programme>
-  <programme start="20260122160000 -0400" stop="20260122170000 -0400" channel="WSTE7.pr">
-    <title lang="es">Desiguales</title>
-  </programme>
-  <programme start="20260122170000 -0400" stop="20260122180000 -0400" channel="WSTE7.pr">
-    <title lang="es">El Gordo y la Flaca</title>
-  </programme>
-  <programme start="20260122180000 -0400" stop="20260122190000 -0400" channel="WSTE7.pr">
-    <title lang="es">Notiseis</title>
-  </programme>
-  <programme start="20260122190000 -0400" stop="20260122200000 -0400" channel="WSTE7.pr">
-    <title lang="es">Papas por Siempre</title>
-  </programme>
-  <programme start="20260122200000 -0400" stop="20260122210000 -0400" channel="WSTE7.pr">
-    <title lang="es">Quien Caera?</title>
-  </programme>
-  <programme start="20260122210000 -0400" stop="20260122230000 -0400" channel="WSTE7.pr">
-    <title lang="es">¿Apostarías por mí?</title>
-  </programme>
-  <programme start="20260122230000 -0400" stop="20260123000000 -0400" channel="WSTE7.pr">
-    <title lang="es">La Caja de los Secretos</title>
-  </programme>
 
   
 </tv>
+
 
 
 
