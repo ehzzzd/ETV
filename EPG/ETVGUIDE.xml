@@ -230,71 +230,84 @@
 <icon src="https://i.ibb.co/TTFX0hb/etv-epg-poster.png"/>
 </programme> 
 
+
   
-  <!-- RETURN MESSAGE -->
-  <!-- Dec 23, 2025 6:00pm AST -> Dec 24, 2025 8:00am AST -->
-  <programme start="20251223180000-0400" stop="20251224080000-0400" channel="ETVONE">
-    <title lang="es">Regresamos el 24 de diciembre a las 8am</title>
-    <desc lang="es">Nuestra programación especial de Navidad comienza el 24 de diciembre a las 8:00am.</desc>
-    <category lang="en">System</category>
+    <!-- Saturday, March 14, 2026 — Puerto Rico (AST = UTC-4) -->
+  <programme start="20260314070000 -0400" stop="20260314074500 -0400" channel="ETVONE">
+    <title lang="en">ENHYPEN&amp;Hi</title>
+    <sub-title lang="en">S01E01</sub-title>
+    <desc lang="en">Nov 18, 2020</desc>
   </programme>
 
-  <!-- CHRISTMAS EVE SCHEDULE -->
-
-  <programme start="20251224080000-0400" stop="20251224094200-0400" channel="ETVONE">
-    <title lang="en">Home Alone</title>
-    <desc lang="en">An eight-year-old troublemaker must protect his home from burglars when his family accidentally leaves him behind for Christmas.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314074500 -0400" stop="20260314080000 -0400" channel="ETVONE">
+    <title lang="en">Heeseung is ENHYPEN Intermission</title>
+    <desc lang="en">[EN-TER key] Birthday Party for HEESEUNG! But...? (Jan 13, 2021) | [EN-TER key] ENHYPEN Visits a Haunted House (Oct 17, 2021) | [EN-TER key] Playing the Piano (Jun 12, 2021)</desc>
   </programme>
 
-  <programme start="20251224094200-0400" stop="20251224112100-0400" channel="ETVONE">
-    <title lang="en">Christmas with the Kranks</title>
-    <desc lang="en">A couple decides to skip Christmas, only to face unexpected chaos when plans change.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314080000 -0400" stop="20260314083000 -0400" channel="ETVONE">
+    <title lang="en">EN O'CLOCK</title>
+    <sub-title lang="en">EP.44</sub-title>
+    <desc lang="en">Oct 20, 2022</desc>
   </programme>
 
-  <programme start="20251224112100-0400" stop="20251224130200-0400" channel="ETVONE">
-    <title lang="en">Jack Frost</title>
-    <desc lang="en">A father who dies in a car accident comes back to life as a snowman to spend time with his son.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314083000 -0400" stop="20260314085500 -0400" channel="ETVONE">
+    <title lang="en">EN O'CLOCK</title>
+    <sub-title lang="en">EP.120</sub-title>
+    <desc lang="en">Aug 21, 2025</desc>
   </programme>
 
-  <programme start="20251224130200-0400" stop="20251224144000-0400" channel="ETVONE">
-    <title lang="en">The Santa Clause</title>
-    <desc lang="en">A man accidentally causes Santa’s death and is magically recruited to take his place.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314085500 -0400" stop="20260314090000 -0400" channel="ETVONE">
+    <title lang="en">Heeseung is ENHYPEN Intermission</title>
+    <desc lang="en">[EN-TER key] Playing with Helium Balloons (Dec 29, 2020)</desc>
   </programme>
 
-  <programme start="20251224144000-0400" stop="20251224162400-0400" channel="ETVONE">
-    <title lang="en">How the Grinch Stole Christmas</title>
-    <desc lang="en">The Grinch plots to steal Christmas from the joyful citizens of Whoville.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314090000 -0400" stop="20260314113400 -0400" channel="ETVONE">
+    <title lang="en">ENHYPEN 2021 FANMEETING EN-CONNECT</title>
+    <desc lang="en">Feb 6, 2021</desc>
   </programme>
 
-  <programme start="20251224162400-0400" stop="20251224180100-0400" channel="ETVONE">
-    <title lang="en">Elf</title>
-    <desc lang="en">A human raised as an elf journeys to New York City to find his real father.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314113400 -0400" stop="20260314120000 -0400" channel="ETVONE">
+    <title lang="en">Heeseung is ENHYPEN Intermission</title>
+    <desc lang="en">Heeseung &amp; Jake Basketball Vlog (Mar 28, 2023)</desc>
   </programme>
 
-  <programme start="20251224180100-0400" stop="20251224185900-0400" channel="ETVONE">
-    <title lang="es">Banco Popular Presenta: Estampas de mi tierra</title>
-    <desc lang="es">Un especial cultural que celebra las tradiciones y la identidad puertorriqueña.</desc>
-    <category lang="en">Special</category>
+  <programme start="20260314120000 -0400" stop="20260314144300 -0400" channel="ETVONE">
+    <title lang="en">ENHYPEN WORLD TOUR 'MANIFESTO' IN SEOUL D-2</title>
+    <desc lang="en">Sep 18, 2022</desc>
   </programme>
 
-  <programme start="20251224185900-0400" stop="20251224203900-0400" channel="ETVONE">
-    <title lang="en">The Polar Express</title>
-    <desc lang="en">A young boy embarks on a magical train ride to the North Pole on Christmas Eve.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260314144300 -0400" stop="20260314150200 -0400" channel="ETVONE">
+    <title lang="en">Heeseung is ENHYPEN Intermission</title>
+    <desc lang="en">[EN-loG] Eat, Play, and Sing Together A Day With My Brother HAPPY HEESEUNG loG (Sep 5, 2023)</desc>
   </programme>
 
-  <!-- OFF-AIR AFTER LAST PROGRAM -->
-  <!-- Dec 24, 2025 8:39pm AST -> Dec 31, 2025 8:00am AST -->
-  <programme start="20251224203900-0400" stop="20251231080000-0400" channel="ETVONE">
-    <title lang="en">Off-air</title>
-    <desc lang="en">This channel is currently off-air.</desc>
-    <category lang="en">System</category>
+  <programme start="20260314150200 -0400" stop="20260314172300 -0400" channel="ETVONE">
+    <title lang="en">ENHYPEN WORLD TOUR 'MANIFESTO' IN JAPAN</title>
+    <desc lang="en">Jan 21, 2023</desc>
+  </programme>
+
+  <programme start="20260314172300 -0400" stop="20260314172500 -0400" channel="ETVONE">
+    <title lang="en">Heeseung is ENHYPEN Intermission</title>
+    <desc lang="en">"Boy in Luv" by BTS - Cover (Jul 9, 2021)</desc>
+  </programme>
+
+  <programme start="20260314172500 -0400" stop="20260314191800 -0400" channel="ETVONE">
+    <title lang="en">'ORANGE BLOOD' EN-CONNECT Night</title>
+    <desc lang="en">Nov 28, 2023</desc>
+  </programme>
+
+  <programme start="20260314191800 -0400" stop="20260314192500 -0400" channel="ETVONE">
+    <title lang="en">Heeseung Cover Showcase</title>
+    <desc lang="en">Heeseung performing covers of "this is what falling in love feels like" by JVKE, and "Off My Face" by Justin Bieber.</desc>
+  </programme>
+
+  <programme start="20260314192500 -0400" stop="20260314221000 -0400" channel="ETVONE">
+    <title lang="en">ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- (Special Edition)</title>
+    <desc lang="en">From August 3, 2025 at Yanmar Stadium Nagai, Osaka.</desc>
+  </programme>
+
+  <programme start="20260314221000 -0400" stop="20260316000000 -0400" channel="ETVONE">
+    <title lang="en">Off Air</title>
   </programme>
 
   
@@ -1496,6 +1509,7 @@
   
   
 </tv>
+
 
 
 
