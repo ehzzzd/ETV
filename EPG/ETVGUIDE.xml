@@ -232,7 +232,8 @@
 
 
   
-    <!-- Saturday, March 14, 2026 — Puerto Rico (AST = UTC-4) -->
+  <!-- Saturday, March 14, 2026 — Puerto Rico (AST = UTC-4) -->
+
   <programme start="20260314070000 -0400" stop="20260314074500 -0400" channel="ETVONE">
     <title lang="en">ENHYPEN&amp;Hi</title>
     <sub-title lang="en">S01E01</sub-title>
@@ -281,32 +282,32 @@
     <desc lang="en">[EN-loG] Eat, Play, and Sing Together A Day With My Brother HAPPY HEESEUNG loG (Sep 5, 2023)</desc>
   </programme>
 
-  <programme start="20260314150200 -0400" stop="20260314172300 -0400" channel="ETVONE">
+  <programme start="20260314150200 -0400" stop="20260314170300 -0400" channel="ETVONE">
     <title lang="en">ENHYPEN WORLD TOUR 'MANIFESTO' IN JAPAN</title>
     <desc lang="en">Jan 21, 2023</desc>
   </programme>
 
-  <programme start="20260314172300 -0400" stop="20260314172500 -0400" channel="ETVONE">
+  <programme start="20260314170300 -0400" stop="20260314170600 -0400" channel="ETVONE">
     <title lang="en">Heeseung is ENHYPEN Intermission</title>
     <desc lang="en">"Boy in Luv" by BTS - Cover (Jul 9, 2021)</desc>
   </programme>
 
-  <programme start="20260314172500 -0400" stop="20260314191800 -0400" channel="ETVONE">
+  <programme start="20260314170600 -0400" stop="20260314185800 -0400" channel="ETVONE">
     <title lang="en">'ORANGE BLOOD' EN-CONNECT Night</title>
     <desc lang="en">Nov 28, 2023</desc>
   </programme>
 
-  <programme start="20260314191800 -0400" stop="20260314192500 -0400" channel="ETVONE">
+  <programme start="20260314185800 -0400" stop="20260314190500 -0400" channel="ETVONE">
     <title lang="en">Heeseung Cover Showcase</title>
     <desc lang="en">Heeseung performing covers of "this is what falling in love feels like" by JVKE, and "Off My Face" by Justin Bieber.</desc>
   </programme>
 
-  <programme start="20260314192500 -0400" stop="20260314221000 -0400" channel="ETVONE">
+  <programme start="20260314190500 -0400" stop="20260314215000 -0400" channel="ETVONE">
     <title lang="en">ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- (Special Edition)</title>
     <desc lang="en">From August 3, 2025 at Yanmar Stadium Nagai, Osaka.</desc>
   </programme>
 
-  <programme start="20260314221000 -0400" stop="20260316000000 -0400" channel="ETVONE">
+  <programme start="20260314215000 -0400" stop="20260316000000 -0400" channel="ETVONE">
     <title lang="en">Off Air</title>
   </programme>
 
