@@ -232,83 +232,92 @@
 
 
   
-  <!-- Saturday, March 14, 2026 — Puerto Rico (AST = UTC-4) -->
-
-  <programme start="20260314070000 -0400" stop="20260314074500 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN&amp;Hi</title>
-    <sub-title lang="en">S01E01</sub-title>
-    <desc lang="en">Nov 18, 2020</desc>
+   <!-- Thursday, May 7, 2026 — Puerto Rico (AST = UTC-4) -->
+ 
+  <programme start="20260507080000 -0400" stop="20260507083000 -0400" channel="ETVONE">
+    <title lang="en">The Powerpuff Girls</title>
   </programme>
-
-  <programme start="20260314074500 -0400" stop="20260314080000 -0400" channel="ETVONE">
-    <title lang="en">Heeseung is ENHYPEN Intermission</title>
-    <desc lang="en">[EN-TER key] Birthday Party for HEESEUNG! But...? (Jan 13, 2021) | [EN-TER key] ENHYPEN Visits a Haunted House (Oct 17, 2021) | [EN-TER key] Playing the Piano (Jun 12, 2021)</desc>
+ 
+  <programme start="20260507083000 -0400" stop="20260507090000 -0400" channel="ETVONE">
+    <title lang="en">The Powerpuff Girls</title>
   </programme>
-
-  <programme start="20260314080000 -0400" stop="20260314083000 -0400" channel="ETVONE">
-    <title lang="en">EN O'CLOCK</title>
-    <sub-title lang="en">EP.44</sub-title>
-    <desc lang="en">Oct 20, 2022</desc>
+ 
+  <programme start="20260507090000 -0400" stop="20260507092900 -0400" channel="ETVONE">
+    <title lang="en">Gravity Falls</title>
   </programme>
-
-  <programme start="20260314083000 -0400" stop="20260314085500 -0400" channel="ETVONE">
-    <title lang="en">EN O'CLOCK</title>
-    <sub-title lang="en">EP.120</sub-title>
-    <desc lang="en">Aug 21, 2025</desc>
+ 
+  <programme start="20260507092900 -0400" stop="20260507095800 -0400" channel="ETVONE">
+    <title lang="en">Gravity Falls</title>
   </programme>
-
-  <programme start="20260314085500 -0400" stop="20260314090000 -0400" channel="ETVONE">
-    <title lang="en">Heeseung is ENHYPEN Intermission</title>
-    <desc lang="en">[EN-TER key] Playing with Helium Balloons (Dec 29, 2020)</desc>
+ 
+  <programme start="20260507095800 -0400" stop="20260507102800 -0400" channel="ETVONE">
+    <title lang="en">Star vs. The Forces of Evil</title>
   </programme>
-
-  <programme start="20260314090000 -0400" stop="20260314113400 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN 2021 FANMEETING EN-CONNECT</title>
-    <desc lang="en">Feb 6, 2021</desc>
+ 
+  <programme start="20260507102800 -0400" stop="20260507105800 -0400" channel="ETVONE">
+    <title lang="en">Star vs. The Forces of Evil</title>
   </programme>
-
-  <programme start="20260314113400 -0400" stop="20260314120000 -0400" channel="ETVONE">
-    <title lang="en">Heeseung is ENHYPEN Intermission</title>
-    <desc lang="en">Heeseung &amp; Jake Basketball Vlog (Mar 28, 2023)</desc>
+ 
+  <programme start="20260507105800 -0400" stop="20260507112800 -0400" channel="ETVONE">
+    <title lang="en">Teen Titans</title>
   </programme>
-
-  <programme start="20260314120000 -0400" stop="20260314144300 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN WORLD TOUR 'MANIFESTO' IN SEOUL D-2</title>
-    <desc lang="en">Sep 18, 2022</desc>
+ 
+  <programme start="20260507112800 -0400" stop="20260507115800 -0400" channel="ETVONE">
+    <title lang="en">Teen Titans</title>
   </programme>
-
-  <programme start="20260314144300 -0400" stop="20260314150200 -0400" channel="ETVONE">
-    <title lang="en">Heeseung is ENHYPEN Intermission</title>
-    <desc lang="en">[EN-loG] Eat, Play, and Sing Together A Day With My Brother HAPPY HEESEUNG loG (Sep 5, 2023)</desc>
+ 
+  <programme start="20260507115800 -0400" stop="20260507140000 -0400" channel="ETVONE">
+    <title lang="en">Spider-Man: Into the Spider-Verse</title>
   </programme>
-
-  <programme start="20260314150200 -0400" stop="20260314170300 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN WORLD TOUR 'MANIFESTO' IN JAPAN</title>
-    <desc lang="en">Jan 21, 2023</desc>
+ 
+  <programme start="20260507140000 -0400" stop="20260507142900 -0400" channel="ETVONE">
+    <title lang="en">The Big Bang Theory</title>
   </programme>
-
-  <programme start="20260314170300 -0400" stop="20260314170600 -0400" channel="ETVONE">
-    <title lang="en">Heeseung is ENHYPEN Intermission</title>
-    <desc lang="en">"Boy in Luv" by BTS - Cover (Jul 9, 2021)</desc>
+ 
+  <programme start="20260507142900 -0400" stop="20260507145900 -0400" channel="ETVONE">
+    <title lang="en">The Big Bang Theory</title>
   </programme>
-
-  <programme start="20260314170600 -0400" stop="20260314185800 -0400" channel="ETVONE">
-    <title lang="en">'ORANGE BLOOD' EN-CONNECT Night</title>
-    <desc lang="en">Nov 28, 2023</desc>
+ 
+  <programme start="20260507145900 -0400" stop="20260507152900 -0400" channel="ETVONE">
+    <title lang="en">Friends</title>
   </programme>
-
-  <programme start="20260314185800 -0400" stop="20260314190500 -0400" channel="ETVONE">
-    <title lang="en">Heeseung Cover Showcase</title>
-    <desc lang="en">Heeseung performing covers of "this is what falling in love feels like" by JVKE, and "Off My Face" by Justin Bieber.</desc>
+ 
+  <programme start="20260507152900 -0400" stop="20260507155900 -0400" channel="ETVONE">
+    <title lang="en">Friends</title>
   </programme>
-
-  <programme start="20260314190500 -0400" stop="20260314215000 -0400" channel="ETVONE">
-    <title lang="en">ENHYPEN WORLD TOUR 'WALK THE LINE' IN JAPAN -SUMMER EDITION- (Special Edition)</title>
-    <desc lang="en">From August 3, 2025 at Yanmar Stadium Nagai, Osaka.</desc>
+ 
+  <programme start="20260507155900 -0400" stop="20260507162900 -0400" channel="ETVONE">
+    <title lang="en">The Office</title>
   </programme>
-
-  <programme start="20260314215000 -0400" stop="20260316000000 -0400" channel="ETVONE">
+ 
+  <programme start="20260507162900 -0400" stop="20260507165900 -0400" channel="ETVONE">
+    <title lang="en">The Office</title>
+  </programme>
+ 
+  <programme start="20260507165900 -0400" stop="20260507172900 -0400" channel="ETVONE">
+    <title lang="en">Parks and Recreation</title>
+  </programme>
+ 
+  <programme start="20260507172900 -0400" stop="20260507175800 -0400" channel="ETVONE">
+    <title lang="en">Parks and Recreation</title>
+  </programme>
+ 
+  <programme start="20260507175800 -0400" stop="20260507184300 -0400" channel="ETVONE">
+    <title lang="en">Charmed</title>
+  </programme>
+ 
+  <programme start="20260507184300 -0400" stop="20260507190000 -0400" channel="ETVONE">
+    <title lang="en">ETV Music</title>
+  </programme>
+ 
+  <programme start="20260507190000 -0400" stop="20260508000000 -0400" channel="ETVONE">
+    <title lang="en">The Last of Us</title>
+  </programme>
+ 
+  <!-- Off Air: Friday May 8 12:00 AM → Saturday May 9 8:00 AM -->
+  <programme start="20260508000000 -0400" stop="20260509080000 -0400" channel="ETVONE">
     <title lang="en">Off Air</title>
+    <desc lang="en">ETV ONE is currently off the air.</desc>
   </programme>
 
   
