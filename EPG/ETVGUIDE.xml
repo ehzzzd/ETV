@@ -232,91 +232,106 @@
 
 
   
-  <!-- Saturday, May 9, 2026 — Puerto Rico (AST = UTC-4) -->
+  <!-- Thursday, May 14, 2026 — Puerto Rico (AST = UTC-4) -->
  
-  <programme start="20260509080000 -0400" stop="20260509083000 -0400" channel="ETVONE">
-    <title lang="en">Toradora</title>
+  <programme start="20260514080000 -0400" stop="20260514083000 -0400" channel="ETVONE">
+    <title lang="en">The Powerpuff Girls</title>
   </programme>
  
-  <programme start="20260509083000 -0400" stop="20260509090000 -0400" channel="ETVONE">
-    <title lang="en">Toradora</title>
+  <programme start="20260514083000 -0400" stop="20260514090000 -0400" channel="ETVONE">
+    <title lang="en">The Powerpuff Girls</title>
   </programme>
  
-  <programme start="20260509090000 -0400" stop="20260509093000 -0400" channel="ETVONE">
-    <title lang="en">Spy x Family</title>
+  <programme start="20260514090000 -0400" stop="20260514093100 -0400" channel="ETVONE">
+    <title lang="en">Gravity Falls</title>
   </programme>
  
-  <programme start="20260509093000 -0400" stop="20260509100100 -0400" channel="ETVONE">
-    <title lang="en">Spy x Family</title>
+  <programme start="20260514093100 -0400" stop="20260514100000 -0400" channel="ETVONE">
+    <title lang="en">Gravity Falls</title>
   </programme>
  
-  <programme start="20260509100100 -0400" stop="20260509103100 -0400" channel="ETVONE">
-    <title lang="en">Bocchi the Rock</title>
+  <programme start="20260514100000 -0400" stop="20260514103000 -0400" channel="ETVONE">
+    <title lang="en">Star vs. The Forces of Evil</title>
   </programme>
  
-  <programme start="20260509103100 -0400" stop="20260509110200 -0400" channel="ETVONE">
-    <title lang="en">Bocchi the Rock</title>
+  <programme start="20260514103000 -0400" stop="20260514105900 -0400" channel="ETVONE">
+    <title lang="en">Star vs. The Forces of Evil</title>
   </programme>
  
-  <programme start="20260509110200 -0400" stop="20260509113200 -0400" channel="ETVONE">
-    <title lang="en">My Hero Academia</title>
+  <programme start="20260514105900 -0400" stop="20260514112900 -0400" channel="ETVONE">
+    <title lang="en">Teen Titans</title>
   </programme>
  
-  <programme start="20260509113200 -0400" stop="20260509120300 -0400" channel="ETVONE">
-    <title lang="en">My Hero Academia</title>
+  <programme start="20260514112900 -0400" stop="20260514115900 -0400" channel="ETVONE">
+    <title lang="en">Teen Titans</title>
   </programme>
  
-  <programme start="20260509120300 -0400" stop="20260509123300 -0400" channel="ETVONE">
-    <title lang="en">Attack on Titan</title>
+  <programme start="20260514115900 -0400" stop="20260514131900 -0400" channel="ETVONE">
+    <title lang="ko">True Beauty</title>
   </programme>
  
-  <programme start="20260509123300 -0400" stop="20260509130400 -0400" channel="ETVONE">
-    <title lang="en">Attack on Titan</title>
-  </programme>
- 
-  <programme start="20260509130400 -0400" stop="20260509145000 -0400" channel="ETVONE">
-    <title lang="en">Coco</title>
-    <desc lang="en">2017</desc>
-  </programme>
- 
-  <programme start="20260509145000 -0400" stop="20260509170400 -0400" channel="ETVONE">
-    <title lang="es">La Guerra de los Sexos</title>
-  </programme>
- 
-  <programme start="20260509170400 -0400" stop="20260509180300 -0400" channel="ETVONE">
-    <title lang="en">Gladiators</title>
-  </programme>
- 
-  <programme start="20260509180300 -0400" stop="20260509183700 -0400" channel="ETVONE">
-    <title lang="es">El Condominio</title>
-  </programme>
- 
-  <programme start="20260509183700 -0400" stop="20260509185900 -0400" channel="ETVONE">
-    <title lang="es">El Gran Bejuco</title>
-  </programme>
- 
-  <programme start="20260509185900 -0400" stop="20260509193000 -0400" channel="ETVONE">
-    <title lang="en">Sex and the City</title>
-  </programme>
- 
-  <programme start="20260509193000 -0400" stop="20260509200200 -0400" channel="ETVONE">
-    <title lang="en">Sex and the City</title>
-  </programme>
- 
-  <programme start="20260509200200 -0400" stop="20260509212200 -0400" channel="ETVONE">
-    <title lang="en">Are You Sure</title>
-  </programme>
- 
-  <programme start="20260509212200 -0400" stop="20260509220200 -0400" channel="ETVONE">
+  <programme start="20260514131900 -0400" stop="20260514135900 -0400" channel="ETVONE">
     <title lang="es">Lo Tomas o Lo Dejas</title>
   </programme>
  
-  <programme start="20260509220200 -0400" stop="20260509230000 -0400" channel="ETVONE">
-    <title lang="es">Lucha Libre AAA</title>
+  <programme start="20260514135900 -0400" stop="20260514142700 -0400" channel="ETVONE">
+    <title lang="en">The Big Bang Theory</title>
   </programme>
  
-  <!-- Off Air: Saturday May 9 11:00 PM → Monday May 11 8:00 AM -->
-  <programme start="20260509230000 -0400" stop="20260511080000 -0400" channel="ETVONE">
+  <programme start="20260514142700 -0400" stop="20260514145700 -0400" channel="ETVONE">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+ 
+  <programme start="20260514145700 -0400" stop="20260514152700 -0400" channel="ETVONE">
+    <title lang="en">Friends</title>
+  </programme>
+ 
+  <programme start="20260514152700 -0400" stop="20260514155700 -0400" channel="ETVONE">
+    <title lang="en">Friends</title>
+  </programme>
+ 
+  <programme start="20260514155700 -0400" stop="20260514162600 -0400" channel="ETVONE">
+    <title lang="en">The Office</title>
+  </programme>
+ 
+  <programme start="20260514162600 -0400" stop="20260514165500 -0400" channel="ETVONE">
+    <title lang="en">The Office</title>
+  </programme>
+ 
+  <programme start="20260514165500 -0400" stop="20260514172500 -0400" channel="ETVONE">
+    <title lang="en">Parks and Recreation</title>
+  </programme>
+ 
+  <programme start="20260514172500 -0400" stop="20260514175500 -0400" channel="ETVONE">
+    <title lang="en">Parks and Recreation</title>
+  </programme>
+ 
+  <programme start="20260514175500 -0400" stop="20260514184000 -0400" channel="ETVONE">
+    <title lang="en">Charmed</title>
+  </programme>
+ 
+  <programme start="20260514184000 -0400" stop="20260514185600 -0400" channel="ETVONE">
+    <title lang="en">ETV Music</title>
+  </programme>
+ 
+  <programme start="20260514185600 -0400" stop="20260514195700 -0400" channel="ETVONE">
+    <title lang="en">The Last of Us</title>
+  </programme>
+ 
+  <programme start="20260514195700 -0400" stop="20260514204400 -0400" channel="ETVONE">
+    <title lang="en">Riverdale</title>
+  </programme>
+ 
+  <programme start="20260514204400 -0400" stop="20260514210000 -0400" channel="ETVONE">
+    <title lang="en">ETV Music</title>
+  </programme>
+ 
+  <programme start="20260514210000 -0400" stop="20260514215000 -0400" channel="ETVONE">
+    <title lang="es">Una Familia con Suerte</title>
+  </programme>
+ 
+  <!-- Off Air: Thursday May 14 9:50 PM → Saturday May 16 8:00 AM -->
+  <programme start="20260514215000 -0400" stop="20260516080000 -0400" channel="ETVONE">
     <title lang="en">Off Air</title>
     <desc lang="en">ETV ONE is currently off the air.</desc>
   </programme>
